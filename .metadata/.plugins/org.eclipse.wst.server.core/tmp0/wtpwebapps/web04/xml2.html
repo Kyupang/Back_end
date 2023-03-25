@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.6.4.js"></script>
+<script type="text/javascript">
+	$(function() {//body부터 ram에 tree구조를 가지면서 읽어와라 
+		$('#b1').click(function() {
+			$.ajax({
+				url:"data/rank2.xml",
+				success: function(doc) {
+					list = $(doc).find('winner') //find의 결과는 여러개
+					if(list.length > 0){
+						$(list).each(function() {
+							console.log(this)
+							year = $(this).find('year').text()
+							class2 = $(this).find('class').text()
+							name = $(this).find('name').text()
+							field = $(this).find('field').text()
+							$('#result').append(year+class2+name+field + '<br>')
+						})
+					}
+				}
+			})
+		})
+	})
+</script>
+
+</head>
+
+<!--style = css inline-->
+<!--<font color ='red'><font> = html -->
+
+
+<body bgcolor="white">
+<button style='color: blue; background: pink' id ="b1">xml 받아오기1</button>
+<hr color="green">
+<div id="result"></div>
+</body>

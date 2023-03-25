@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>별점업데이트</title>
+
+<style type="text/css">
+body {
+	background: #36ebba;
+}
+
+button {
+	background: #0a7356;
+}
+
+.text1 { /*클래스 선택*/
+	background: yellow;
+	width: 160px;
+	text-align: center;
+}
+
+#b1 {
+	background: pink;
+	width: 200px;
+	text-align: center;
+}
+#b2 {
+	foreground: blue;
+	width: 340px;
+	text-align: center;
+}
+</style>
+</head>
+<body>
+
+	<h3>별점 업데이트 페이지</h3>
+	<hr>
+	<a href="webtoon_list.jsp">
+		<button id="b1">웹툰 리스트로 가기</button>
+	</a>
+	<form action="webtoon_update.jsp">
+		<table border="1"> 
+			<tr>
+				<td class="text1">웹툰 아이디 :</td>
+				<td><input name="id"></td>
+			</tr>
+			<tr>
+				<td class="text1">수정할 별점</td>
+				<td><input name="tel"></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button id="b2" class="text1">수정 데이터 전송</button>
+				</td>
+			</tr>
+		</table>
+		<!--입력한 값들이 서버(톰킷)으로 전달될 때에는  -->
+	</form>
+</body>
+</html>

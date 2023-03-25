@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+
+<style type="text/css">
+body {
+	background: #36ebba;
+}
+
+button {
+	background: #0a7356;
+}
+
+.text1 { /*클래스 선택*/
+	background: yellow;
+	width: 160px;
+	text-align: center;
+}
+
+#b1 {
+	background: pink;
+	width: 200px;
+	text-align: center;
+}
+#b2 {
+	foreground: blue;
+	width: 340px;
+	text-align: center;
+}
+</style>
+</head>
+<body>
+<!--http://localhost:8888/web01/select_one.jsp?id=3  -->
+	<h3>한명 검색 페이지</h3>
+	<hr>
+	<a href="member.html">
+		<button id="b1">첫페이지로</button>
+	</a>
+	
+	<a href="http://localhost:8888/web01/select_one.jsp?id=3">
+		<button style ="background: purple">회원3 보고싶어~?</button>
+	</a>
+	
+	<a href="http://localhost:8888/web01/select_one.jsp?id=4">
+		<button style ="background: purple">회원4 보고싶어~?</button>
+	</a>
+	
+	<a href="http://localhost:8888/web01/select_one.jsp?id=5">
+		<button style ="background: purple">회원5 보고싶어~?</button>
+	</a>
+	
+	<a href="http://localhost:8888/web01/select_one.jsp?id=6">
+		<button style ="background: purple">회원6 보고싶어~?</button>
+	</a>
+	
+	<form action="select_one.jsp">
+		<table border="1">
+			<tr>
+				<td class="text1">정보 검색할 아이디 :</td>
+				<td><input name="id"></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button id="b2" class="text1">검색 데이터 전송</button>
+				</td>
+			</tr>
+		</table>
+		<!--입력한 값들이 서버(톰킷)으로 전달될 때에는  -->
+	</form>
+</body>
+</html>

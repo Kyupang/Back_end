@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.6.4.js"></script>
+<script type="text/javascript">
+	$(function() {//body부터 ram에 tree구조를 가지면서 읽어와라 
+		$('#b1').click(function() {
+			$.ajax({
+				url:"data/data.xml",
+				success: function(doc) {
+					list = $(doc).find("movie") //find의 결과는 여러개
+					if(list.length > 0){
+						$(list).each(function() {
+							console.log(this)
+							
+							id = $(this).find('id').text()
+							title = $(this).find('title').text()
+							genres = $(this).find('genres').text()
+							date = $(this).find('date').text()
+														
+							$('#result').append(id +', '+title+', '+genres+', '+ date+'<br>')
+							//받은 데이터를 추출해서 db에 저장해두고 싶다.
+							//브라우저 --> 웹서버 --> db
+							//받은 데이터를 웹서버에게 넘겨주면 됨.
+							//비동기 통신이 필요! 
+							$.ajax({
+								url:"movie.jsp",
+								data: {
+									id: id,
+									title : title,
+									genres : genres,
+									date : date,
+								},
+								success : function() {
+									console.log("넣기 성공")
+								}
+							})
+						})
+					}
+				}
+			})
+		})
+	})
+</script>
+
+</head>
+
+<!--style = css inline-->
+<!--<font color ='red'><font> = html -->
+
+
+<body bgcolor="white">
+<button style='color: blue; background: pink' id ="b1">영화 정보 받아오기</button>
+<hr color="green">
+<div id="result"></div>
+</body>

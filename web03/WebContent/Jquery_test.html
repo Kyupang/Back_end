@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.6.4.js"></script>
+
+<script type="text/javascript">
+	//콜백함수
+	//특정한 이벤트를 기다렸다가 그 이벤트가 발생하면
+	//함수가 정의되어있는 곳으로 돌아가 자동 호출 
+	
+	
+	$(function() { //jquery 기본 사용법!
+		$('#b1').click(function() {
+			today= $('#today').val()
+			if (today == '토' || today =='일'){
+				alert('주말')
+			}else {
+				alert('평일')
+			}
+		})
+	})
+</script>
+</head>
+<body>
+오늘 요일: <input id="today" value="목">
+<button id='b1'>주말인지 확인.</button>
+</body>
+
+</html>

@@ -1,0 +1,6046 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+	<movie>
+		<id>1</id>
+		<title>Dans la peau d'une grande</title>
+		<genres>Comedy</genres>
+		<date>4/4/2022</date>
+	</movie>
+	<movie>
+		<id>2</id>
+		<title>Drugstore Cowboy</title>
+		<genres>Crime|Drama</genres>
+		<date>6/19/2023</date>
+	</movie>
+	<movie>
+		<id>3</id>
+		<title>Dark Lurking, The</title>
+		<genres>Action|Horror|Sci-Fi</genres>
+		<date>9/5/2022</date>
+	</movie>
+	<movie>
+		<id>4</id>
+		<title>Morphia (Morfiy)</title>
+		<genres>Drama</genres>
+		<date>3/27/2022</date>
+	</movie>
+	<movie>
+		<id>5</id>
+		<title>Mummies: Secrets of the Pharaohs (a.k.a. Mummies 3D)</title>
+		<genres>Documentary|IMAX</genres>
+		<date>6/4/2022</date>
+	</movie>
+	<movie>
+		<id>6</id>
+		<title>Diplomacy (Diplomatie)</title>
+		<genres>Drama|War</genres>
+		<date>2/6/2023</date>
+	</movie>
+	<movie>
+		<id>7</id>
+		<title>Summer Lovers</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>5/6/2023</date>
+	</movie>
+	<movie>
+		<id>8</id>
+		<title>Princess Raccoon (Operetta tanuki goten)</title>
+		<genres>Comedy|Fantasy|Musical|Romance</genres>
+		<date>5/23/2022</date>
+	</movie>
+	<movie>
+		<id>9</id>
+		<title>Virgin Queen, The</title>
+		<genres>Drama|Romance</genres>
+		<date>8/12/2022</date>
+	</movie>
+	<movie>
+		<id>10</id>
+		<title>Crimewave</title>
+		<genres>Comedy|Crime</genres>
+		<date>6/28/2022</date>
+	</movie>
+	<movie>
+		<id>11</id>
+		<title>Me tulemme taas</title>
+		<genres>Comedy|Musical</genres>
+		<date>5/28/2023</date>
+	</movie>
+	<movie>
+		<id>12</id>
+		<title>Inkheart</title>
+		<genres>Adventure|Fantasy</genres>
+		<date>9/15/2023</date>
+	</movie>
+	<movie>
+		<id>13</id>
+		<title>Chad Hanna</title>
+		<genres>Drama|Romance</genres>
+		<date>4/17/2024</date>
+	</movie>
+	<movie>
+		<id>14</id>
+		<title>Chronicles (Crónicas)</title>
+		<genres>Crime|Drama</genres>
+		<date>7/24/2022</date>
+	</movie>
+	<movie>
+		<id>15</id>
+		<title>Preston Sturges: The Rise and Fall of an American Dreamer
+		</title>
+		<genres>Documentary</genres>
+		<date>7/13/2022</date>
+	</movie>
+	<movie>
+		<id>16</id>
+		<title>Wild Bill</title>
+		<genres>Crime|Drama</genres>
+		<date>7/14/2023</date>
+	</movie>
+	<movie>
+		<id>17</id>
+		<title>Seven Little Foys, The</title>
+		<genres>Comedy|Drama</genres>
+		<date>7/17/2022</date>
+	</movie>
+	<movie>
+		<id>18</id>
+		<title>Phantom of the Opera, The</title>
+		<genres>Drama|Horror</genres>
+		<date>8/23/2023</date>
+	</movie>
+	<movie>
+		<id>19</id>
+		<title>Monday Morning (Lundi matin)</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>12/22/2022</date>
+	</movie>
+	<movie>
+		<id>20</id>
+		<title>Death Defying Acts</title>
+		<genres>Drama|Romance|Thriller</genres>
+		<date>6/3/2023</date>
+	</movie>
+	<movie>
+		<id>21</id>
+		<title>Pretty Things</title>
+		<genres>Drama</genres>
+		<date>1/14/2023</date>
+	</movie>
+	<movie>
+		<id>22</id>
+		<title>It! The Terror from Beyond Space</title>
+		<genres>Horror|Sci-Fi|Thriller</genres>
+		<date>5/5/2023</date>
+	</movie>
+	<movie>
+		<id>23</id>
+		<title>Class of Nuke 'Em High</title>
+		<genres>Comedy|Horror</genres>
+		<date>11/18/2022</date>
+	</movie>
+	<movie>
+		<id>24</id>
+		<title>Fortress 2</title>
+		<genres>Action|Sci-Fi</genres>
+		<date>1/24/2024</date>
+	</movie>
+	<movie>
+		<id>25</id>
+		<title>Maximum Overdrive</title>
+		<genres>Horror</genres>
+		<date>10/19/2023</date>
+	</movie>
+	<movie>
+		<id>26</id>
+		<title>Belly</title>
+		<genres>Crime|Drama</genres>
+		<date>8/2/2022</date>
+	</movie>
+	<movie>
+		<id>27</id>
+		<title>Notes on a Scandal</title>
+		<genres>Drama</genres>
+		<date>6/22/2023</date>
+	</movie>
+	<movie>
+		<id>28</id>
+		<title>Lord of War</title>
+		<genres>Action|Crime|Drama|Thriller|War</genres>
+		<date>3/22/2023</date>
+	</movie>
+	<movie>
+		<id>29</id>
+		<title>Housewarming (Travaux, on sait quand ça commence...)</title>
+		<genres>Comedy</genres>
+		<date>2/9/2024</date>
+	</movie>
+	<movie>
+		<id>30</id>
+		<title>Mentor</title>
+		<genres>Drama</genres>
+		<date>9/11/2023</date>
+	</movie>
+	<movie>
+		<id>31</id>
+		<title>Tickle in the Heart, A</title>
+		<genres>Documentary</genres>
+		<date>8/24/2022</date>
+	</movie>
+	<movie>
+		<id>32</id>
+		<title>Black Nativity</title>
+		<genres>Drama|Musical</genres>
+		<date>2/25/2023</date>
+	</movie>
+	<movie>
+		<id>33</id>
+		<title>Sid and Nancy</title>
+		<genres>Drama</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>34</id>
+		<title>Sparrows Dance</title>
+		<genres>Drama|Romance</genres>
+		<date>11/24/2022</date>
+	</movie>
+	<movie>
+		<id>35</id>
+		<title>Hot Rod</title>
+		<genres>Comedy</genres>
+		<date>12/15/2022</date>
+	</movie>
+	<movie>
+		<id>36</id>
+		<title>Claymation Christmas Celebration, A</title>
+		<genres>Animation|Children|Comedy|Musical</genres>
+		<date>4/20/2023</date>
+	</movie>
+	<movie>
+		<id>37</id>
+		<title>Live Forever</title>
+		<genres>Comedy|Documentary</genres>
+		<date>8/7/2023</date>
+	</movie>
+	<movie>
+		<id>38</id>
+		<title>Showdown in Little Tokyo</title>
+		<genres>Action|Crime</genres>
+		<date>1/6/2024</date>
+	</movie>
+	<movie>
+		<id>39</id>
+		<title>Season of the Witch</title>
+		<genres>Adventure|Drama|Fantasy</genres>
+		<date>10/12/2023</date>
+	</movie>
+	<movie>
+		<id>40</id>
+		<title>Alice in Wonderland</title>
+		<genres>Adventure|Children|Fantasy</genres>
+		<date>3/10/2022</date>
+	</movie>
+	<movie>
+		<id>41</id>
+		<title>Ragamuffin</title>
+		<genres>Drama</genres>
+		<date>12/22/2023</date>
+	</movie>
+	<movie>
+		<id>42</id>
+		<title>Snow and Ashes</title>
+		<genres>Drama|Thriller|War</genres>
+		<date>10/28/2022</date>
+	</movie>
+	<movie>
+		<id>43</id>
+		<title>Ambulance, The</title>
+		<genres>Thriller</genres>
+		<date>3/24/2023</date>
+	</movie>
+	<movie>
+		<id>44</id>
+		<title>I Dream Too Much</title>
+		<genres>Comedy|Musical|Romance</genres>
+		<date>8/11/2023</date>
+	</movie>
+	<movie>
+		<id>45</id>
+		<title>Easy Come, Easy Go</title>
+		<genres>Adventure|Musical</genres>
+		<date>8/20/2023</date>
+	</movie>
+	<movie>
+		<id>46</id>
+		<title>Lady for a Day</title>
+		<genres>Comedy</genres>
+		<date>9/26/2022</date>
+	</movie>
+	<movie>
+		<id>47</id>
+		<title>Eloise at Christmastime</title>
+		<genres>Children|Comedy|Drama</genres>
+		<date>12/16/2023</date>
+	</movie>
+	<movie>
+		<id>48</id>
+		<title>Next Door (Naboer)</title>
+		<genres>Horror|Mystery|Thriller</genres>
+		<date>11/8/2023</date>
+	</movie>
+	<movie>
+		<id>49</id>
+		<title>For Pete's Sake</title>
+		<genres>Comedy</genres>
+		<date>10/3/2023</date>
+	</movie>
+	<movie>
+		<id>50</id>
+		<title>Carmina and Amen (Carmina y amén)</title>
+		<genres>Comedy|Drama</genres>
+		<date>5/10/2023</date>
+	</movie>
+	<movie>
+		<id>51</id>
+		<title>China Seas</title>
+		<genres>Action|Adventure|Drama|Romance</genres>
+		<date>5/4/2023</date>
+	</movie>
+	<movie>
+		<id>52</id>
+		<title>Topaze</title>
+		<genres>Comedy</genres>
+		<date>10/28/2022</date>
+	</movie>
+	<movie>
+		<id>53</id>
+		<title>Films to Keep You Awake: The Christmas Tale (Películas para no
+			dormir: Cuento de navidad)</title>
+		<genres>Horror|Thriller</genres>
+		<date>11/15/2023</date>
+	</movie>
+	<movie>
+		<id>54</id>
+		<title>Hot Rod</title>
+		<genres>Comedy</genres>
+		<date>2/1/2024</date>
+	</movie>
+	<movie>
+		<id>55</id>
+		<title>Culture High, The</title>
+		<genres>Documentary</genres>
+		<date>3/28/2024</date>
+	</movie>
+	<movie>
+		<id>56</id>
+		<title>Sada</title>
+		<genres>Drama</genres>
+		<date>1/15/2024</date>
+	</movie>
+	<movie>
+		<id>57</id>
+		<title>Police Academy</title>
+		<genres>Comedy|Crime</genres>
+		<date>11/3/2023</date>
+	</movie>
+	<movie>
+		<id>58</id>
+		<title>Front of the Class</title>
+		<genres>Drama</genres>
+		<date>5/27/2023</date>
+	</movie>
+	<movie>
+		<id>59</id>
+		<title>What About Bob?</title>
+		<genres>Comedy</genres>
+		<date>2/10/2024</date>
+	</movie>
+	<movie>
+		<id>60</id>
+		<title>Night Walker, The</title>
+		<genres>Horror|Mystery|Thriller</genres>
+		<date>3/20/2022</date>
+	</movie>
+	<movie>
+		<id>61</id>
+		<title>Year and a Half in the Life of Metallica, A</title>
+		<genres>Documentary|Musical</genres>
+		<date>11/21/2023</date>
+	</movie>
+	<movie>
+		<id>62</id>
+		<title>Prime Cut</title>
+		<genres>Action|Crime|Drama</genres>
+		<date>12/1/2023</date>
+	</movie>
+	<movie>
+		<id>63</id>
+		<title>Lap Dance</title>
+		<genres>Drama</genres>
+		<date>4/13/2022</date>
+	</movie>
+	<movie>
+		<id>64</id>
+		<title>Marley &amp; Me</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/7/2022</date>
+	</movie>
+	<movie>
+		<id>65</id>
+		<title>Otis</title>
+		<genres>Comedy|Crime|Horror|Thriller</genres>
+		<date>11/9/2022</date>
+	</movie>
+	<movie>
+		<id>66</id>
+		<title>Stoic</title>
+		<genres>Drama</genres>
+		<date>1/25/2024</date>
+	</movie>
+	<movie>
+		<id>67</id>
+		<title>Wanted</title>
+		<genres>Action|Romance</genres>
+		<date>7/17/2022</date>
+	</movie>
+	<movie>
+		<id>68</id>
+		<title>10 Rillington Place</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>6/4/2023</date>
+	</movie>
+	<movie>
+		<id>69</id>
+		<title>Hope Floats</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>3/27/2022</date>
+	</movie>
+	<movie>
+		<id>70</id>
+		<title>Twin Town</title>
+		<genres>Comedy|Crime</genres>
+		<date>11/5/2022</date>
+	</movie>
+	<movie>
+		<id>71</id>
+		<title>Seventh Heaven</title>
+		<genres>Comedy|Romance</genres>
+		<date>7/2/2023</date>
+	</movie>
+	<movie>
+		<id>72</id>
+		<title>Worth Winning</title>
+		<genres>Comedy</genres>
+		<date>3/3/2024</date>
+	</movie>
+	<movie>
+		<id>73</id>
+		<title>Tattoo</title>
+		<genres>Drama|Thriller</genres>
+		<date>12/12/2023</date>
+	</movie>
+	<movie>
+		<id>74</id>
+		<title>Prime Suspect: Inner Circles</title>
+		<genres>Drama|Mystery</genres>
+		<date>4/20/2022</date>
+	</movie>
+	<movie>
+		<id>75</id>
+		<title>9 Songs</title>
+		<genres>Drama|Romance</genres>
+		<date>2/1/2024</date>
+	</movie>
+	<movie>
+		<id>76</id>
+		<title>Comanche Territory (Territorio comanche)</title>
+		<genres>Drama|War</genres>
+		<date>2/28/2024</date>
+	</movie>
+	<movie>
+		<id>77</id>
+		<title>One Night Stand</title>
+		<genres>Drama</genres>
+		<date>8/12/2023</date>
+	</movie>
+	<movie>
+		<id>78</id>
+		<title>Ali</title>
+		<genres>Drama</genres>
+		<date>11/23/2022</date>
+	</movie>
+	<movie>
+		<id>79</id>
+		<title>Get Over It</title>
+		<genres>Drama</genres>
+		<date>3/19/2022</date>
+	</movie>
+	<movie>
+		<id>80</id>
+		<title>Monsters</title>
+		<genres>Drama|Sci-Fi</genres>
+		<date>3/24/2024</date>
+	</movie>
+	<movie>
+		<id>81</id>
+		<title>Box, The</title>
+		<genres>Crime|Thriller</genres>
+		<date>9/28/2023</date>
+	</movie>
+	<movie>
+		<id>82</id>
+		<title>The Butter Battle Book</title>
+		<genres>Animation|Children</genres>
+		<date>12/27/2023</date>
+	</movie>
+	<movie>
+		<id>83</id>
+		<title>Thief</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>6/16/2023</date>
+	</movie>
+	<movie>
+		<id>84</id>
+		<title>Poseidon Adventure, The</title>
+		<genres>Action|Adventure|Drama</genres>
+		<date>1/14/2024</date>
+	</movie>
+	<movie>
+		<id>85</id>
+		<title>Bring It On: In It To Win It</title>
+		<genres>Comedy</genres>
+		<date>1/18/2023</date>
+	</movie>
+	<movie>
+		<id>86</id>
+		<title>Knock Off</title>
+		<genres>Action</genres>
+		<date>3/31/2023</date>
+	</movie>
+	<movie>
+		<id>87</id>
+		<title>Merry Jail, The (Das fidele Gefängnis)</title>
+		<genres>Comedy|Romance</genres>
+		<date>10/7/2023</date>
+	</movie>
+	<movie>
+		<id>88</id>
+		<title>Prodigal, The</title>
+		<genres>Drama</genres>
+		<date>11/12/2022</date>
+	</movie>
+	<movie>
+		<id>89</id>
+		<title>Crew, The</title>
+		<genres>Drama|Thriller</genres>
+		<date>8/22/2022</date>
+	</movie>
+	<movie>
+		<id>90</id>
+		<title>Mixed Nuts</title>
+		<genres>Comedy</genres>
+		<date>9/5/2023</date>
+	</movie>
+	<movie>
+		<id>91</id>
+		<title>The Floating Castle</title>
+		<genres>Comedy|Drama</genres>
+		<date>4/9/2023</date>
+	</movie>
+	<movie>
+		<id>92</id>
+		<title>Uncommon Valor</title>
+		<genres>Action|War</genres>
+		<date>4/23/2022</date>
+	</movie>
+	<movie>
+		<id>93</id>
+		<title>It's Pat</title>
+		<genres>Comedy</genres>
+		<date>1/31/2024</date>
+	</movie>
+	<movie>
+		<id>94</id>
+		<title>Bikini Beach</title>
+		<genres>Comedy</genres>
+		<date>6/5/2022</date>
+	</movie>
+	<movie>
+		<id>95</id>
+		<title>Something in the Wind</title>
+		<genres>Comedy|Musical</genres>
+		<date>8/6/2023</date>
+	</movie>
+	<movie>
+		<id>96</id>
+		<title>Parking Lot Movie, The</title>
+		<genres>Documentary</genres>
+		<date>1/23/2023</date>
+	</movie>
+	<movie>
+		<id>97</id>
+		<title>Wend Kuuni (a.k.a. God's Gift)</title>
+		<genres>Drama</genres>
+		<date>4/22/2022</date>
+	</movie>
+	<movie>
+		<id>98</id>
+		<title>Frankenstein Unbound</title>
+		<genres>Drama|Horror|Sci-Fi</genres>
+		<date>8/12/2023</date>
+	</movie>
+	<movie>
+		<id>99</id>
+		<title>Here and There (Tamo i ovde)</title>
+		<genres>Comedy|Drama</genres>
+		<date>4/20/2023</date>
+	</movie>
+	<movie>
+		<id>100</id>
+		<title>Street Angel</title>
+		<genres>Drama</genres>
+		<date>5/22/2022</date>
+	</movie>
+	<movie>
+		<id>101</id>
+		<title>Loves of Pharaoh, The (Das Weib des Pharao)</title>
+		<genres>Drama|Romance|War</genres>
+		<date>3/31/2024</date>
+	</movie>
+	<movie>
+		<id>102</id>
+		<title>Still Bill</title>
+		<genres>Documentary</genres>
+		<date>10/12/2022</date>
+	</movie>
+	<movie>
+		<id>103</id>
+		<title>1969</title>
+		<genres>Drama|War</genres>
+		<date>3/30/2022</date>
+	</movie>
+	<movie>
+		<id>104</id>
+		<title>Aftermath</title>
+		<genres>Horror</genres>
+		<date>12/31/2023</date>
+	</movie>
+	<movie>
+		<id>105</id>
+		<title>The Land Before Time XIII: The Wisdom of Friends</title>
+		<genres>Animation|Children</genres>
+		<date>12/28/2022</date>
+	</movie>
+	<movie>
+		<id>106</id>
+		<title>Afterwards</title>
+		<genres>Mystery</genres>
+		<date>2/20/2023</date>
+	</movie>
+	<movie>
+		<id>107</id>
+		<title>Farah Goes Bang</title>
+		<genres>Comedy</genres>
+		<date>8/15/2023</date>
+	</movie>
+	<movie>
+		<id>108</id>
+		<title>Soulless</title>
+		<genres>Comedy|Drama</genres>
+		<date>12/24/2022</date>
+	</movie>
+	<movie>
+		<id>109</id>
+		<title>My Wife, A Body to Love</title>
+		<genres>(no genres listed)</genres>
+		<date>7/15/2023</date>
+	</movie>
+	<movie>
+		<id>110</id>
+		<title>Grant Morrison: Talking with Gods</title>
+		<genres>Documentary</genres>
+		<date>8/23/2022</date>
+	</movie>
+	<movie>
+		<id>111</id>
+		<title>Filly Brown</title>
+		<genres>Drama</genres>
+		<date>4/21/2023</date>
+	</movie>
+	<movie>
+		<id>112</id>
+		<title>Betty Blue (37°2 le matin)</title>
+		<genres>Drama|Romance</genres>
+		<date>3/23/2023</date>
+	</movie>
+	<movie>
+		<id>113</id>
+		<title>Torrente 5: Operación Eurovegas</title>
+		<genres>Action|Comedy</genres>
+		<date>5/29/2023</date>
+	</movie>
+	<movie>
+		<id>114</id>
+		<title>10,000 BC</title>
+		<genres>Adventure|Romance|Thriller</genres>
+		<date>12/3/2023</date>
+	</movie>
+	<movie>
+		<id>115</id>
+		<title>Fun</title>
+		<genres>Crime|Drama</genres>
+		<date>8/30/2022</date>
+	</movie>
+	<movie>
+		<id>116</id>
+		<title>Mutant Action (Acción Mutante)</title>
+		<genres>Action|Comedy|Sci-Fi</genres>
+		<date>1/11/2024</date>
+	</movie>
+	<movie>
+		<id>117</id>
+		<title>It Might Get Loud</title>
+		<genres>Documentary</genres>
+		<date>5/7/2022</date>
+	</movie>
+	<movie>
+		<id>118</id>
+		<title>Hideous Kinky</title>
+		<genres>Drama</genres>
+		<date>4/26/2022</date>
+	</movie>
+	<movie>
+		<id>119</id>
+		<title>Mannequin 2: On the Move</title>
+		<genres>Comedy|Fantasy|Romance</genres>
+		<date>7/12/2022</date>
+	</movie>
+	<movie>
+		<id>120</id>
+		<title>Mouchette</title>
+		<genres>Drama</genres>
+		<date>11/2/2023</date>
+	</movie>
+	<movie>
+		<id>121</id>
+		<title>Unmade Beds</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/28/2023</date>
+	</movie>
+	<movie>
+		<id>122</id>
+		<title>Cutter's Way</title>
+		<genres>Drama|Thriller</genres>
+		<date>1/2/2024</date>
+	</movie>
+	<movie>
+		<id>123</id>
+		<title>Me tulemme taas</title>
+		<genres>Comedy|Musical</genres>
+		<date>2/20/2023</date>
+	</movie>
+	<movie>
+		<id>124</id>
+		<title>Sällskapsresan II - Snowroller</title>
+		<genres>Comedy</genres>
+		<date>9/30/2023</date>
+	</movie>
+	<movie>
+		<id>125</id>
+		<title>I Just Didn't Do It (Soredemo boku wa yattenai)</title>
+		<genres>Drama</genres>
+		<date>3/18/2024</date>
+	</movie>
+	<movie>
+		<id>126</id>
+		<title>One Man Band</title>
+		<genres>Animation|Comedy|Musical</genres>
+		<date>7/13/2022</date>
+	</movie>
+	<movie>
+		<id>127</id>
+		<title>Think Fast, Mr. Moto</title>
+		<genres>Crime|Drama|Mystery|Thriller</genres>
+		<date>8/1/2022</date>
+	</movie>
+	<movie>
+		<id>128</id>
+		<title>Naqoyqatsi</title>
+		<genres>Documentary</genres>
+		<date>11/28/2022</date>
+	</movie>
+	<movie>
+		<id>129</id>
+		<title>People I Know</title>
+		<genres>Crime|Drama</genres>
+		<date>1/12/2023</date>
+	</movie>
+	<movie>
+		<id>130</id>
+		<title>Sharknado 2: The Second One</title>
+		<genres>Horror|Sci-Fi|Thriller</genres>
+		<date>1/8/2024</date>
+	</movie>
+	<movie>
+		<id>131</id>
+		<title>Michael</title>
+		<genres>Drama</genres>
+		<date>4/20/2023</date>
+	</movie>
+	<movie>
+		<id>132</id>
+		<title>Carmen</title>
+		<genres>Drama</genres>
+		<date>10/12/2023</date>
+	</movie>
+	<movie>
+		<id>133</id>
+		<title>Grandpa for Christmas, A (Bert &amp; Becca)</title>
+		<genres>Comedy|Drama</genres>
+		<date>4/25/2022</date>
+	</movie>
+	<movie>
+		<id>134</id>
+		<title>Flash Gordon Conquers the Universe</title>
+		<genres>Action|Sci-Fi</genres>
+		<date>11/7/2022</date>
+	</movie>
+	<movie>
+		<id>135</id>
+		<title>Coriolanus</title>
+		<genres>Drama|Thriller</genres>
+		<date>8/1/2022</date>
+	</movie>
+	<movie>
+		<id>136</id>
+		<title>Lola Versus</title>
+		<genres>Comedy|Romance</genres>
+		<date>3/25/2023</date>
+	</movie>
+	<movie>
+		<id>137</id>
+		<title>Roll Bounce</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>5/10/2022</date>
+	</movie>
+	<movie>
+		<id>138</id>
+		<title>Don Jon</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>3/21/2022</date>
+	</movie>
+	<movie>
+		<id>139</id>
+		<title>Universal Soldier</title>
+		<genres>Action|Sci-Fi</genres>
+		<date>7/20/2023</date>
+	</movie>
+	<movie>
+		<id>140</id>
+		<title>Witch Who Came from the Sea, The</title>
+		<genres>Horror|Thriller</genres>
+		<date>3/3/2023</date>
+	</movie>
+	<movie>
+		<id>141</id>
+		<title>Honor Among Thieves (Adieu l'ami) (Farewell, Friend)</title>
+		<genres>Action|Adventure|Crime|Drama|Mystery|Thriller</genres>
+		<date>9/15/2023</date>
+	</movie>
+	<movie>
+		<id>142</id>
+		<title>Bridge on the River Kwai, The</title>
+		<genres>Adventure|Drama|War</genres>
+		<date>11/30/2023</date>
+	</movie>
+	<movie>
+		<id>143</id>
+		<title>Count Dracula (Nachts, wenn Dracula erwacht)</title>
+		<genres>Horror|Mystery</genres>
+		<date>8/22/2022</date>
+	</movie>
+	<movie>
+		<id>144</id>
+		<title>Caesar Must Die (Cesare deve morire)</title>
+		<genres>Drama</genres>
+		<date>4/27/2023</date>
+	</movie>
+	<movie>
+		<id>145</id>
+		<title>Rafa</title>
+		<genres>Drama</genres>
+		<date>5/8/2022</date>
+	</movie>
+	<movie>
+		<id>146</id>
+		<title>Dracula (Dracula 3D)</title>
+		<genres>Horror|Romance|Thriller</genres>
+		<date>10/3/2022</date>
+	</movie>
+	<movie>
+		<id>147</id>
+		<title>Mondays in the Sun (Lunes al sol, Los)</title>
+		<genres>Drama</genres>
+		<date>9/16/2022</date>
+	</movie>
+	<movie>
+		<id>148</id>
+		<title>Cahill U.S. Marshal (Cahill: United States Marshal) (Wednesday
+			Morning)</title>
+		<genres>Western</genres>
+		<date>3/25/2023</date>
+	</movie>
+	<movie>
+		<id>149</id>
+		<title>California</title>
+		<genres>Romance|Western</genres>
+		<date>3/6/2022</date>
+	</movie>
+	<movie>
+		<id>150</id>
+		<title>Shadowing the Third Man</title>
+		<genres>Documentary</genres>
+		<date>5/15/2022</date>
+	</movie>
+	<movie>
+		<id>151</id>
+		<title>Puzzlehead</title>
+		<genres>Drama|Sci-Fi</genres>
+		<date>6/1/2022</date>
+	</movie>
+	<movie>
+		<id>152</id>
+		<title>War</title>
+		<genres>Action|Thriller</genres>
+		<date>1/30/2024</date>
+	</movie>
+	<movie>
+		<id>153</id>
+		<title>Color of Pomegranates, The (Sayat Nova)</title>
+		<genres>Drama</genres>
+		<date>8/18/2023</date>
+	</movie>
+	<movie>
+		<id>154</id>
+		<title>Brother Bear 2</title>
+		<genres>Adventure|Animation|Children|Comedy|Fantasy</genres>
+		<date>5/24/2022</date>
+	</movie>
+	<movie>
+		<id>155</id>
+		<title>Forbidden Door (Pintu Terlarang)</title>
+		<genres>Drama|Mystery|Thriller</genres>
+		<date>8/30/2023</date>
+	</movie>
+	<movie>
+		<id>156</id>
+		<title>Me Too (Yo, también)</title>
+		<genres>Drama</genres>
+		<date>12/11/2023</date>
+	</movie>
+	<movie>
+		<id>157</id>
+		<title>Marketa Lazarová</title>
+		<genres>Drama|Romance</genres>
+		<date>4/21/2022</date>
+	</movie>
+	<movie>
+		<id>158</id>
+		<title>Grassroots</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/3/2022</date>
+	</movie>
+	<movie>
+		<id>159</id>
+		<title>Children's Hour, The</title>
+		<genres>Drama</genres>
+		<date>5/17/2022</date>
+	</movie>
+	<movie>
+		<id>160</id>
+		<title>Born into Brothels</title>
+		<genres>Documentary</genres>
+		<date>3/28/2024</date>
+	</movie>
+	<movie>
+		<id>161</id>
+		<title>Admission</title>
+		<genres>Comedy|Romance</genres>
+		<date>5/29/2023</date>
+	</movie>
+	<movie>
+		<id>162</id>
+		<title>Johnny Stecchino</title>
+		<genres>Comedy</genres>
+		<date>4/3/2024</date>
+	</movie>
+	<movie>
+		<id>163</id>
+		<title>Brave Little Toaster, The</title>
+		<genres>Animation|Children</genres>
+		<date>10/21/2022</date>
+	</movie>
+	<movie>
+		<id>164</id>
+		<title>More Than a Game</title>
+		<genres>Documentary</genres>
+		<date>7/5/2022</date>
+	</movie>
+	<movie>
+		<id>165</id>
+		<title>Englishman Who Went Up a Hill But Came Down a Mountain, The
+		</title>
+		<genres>Comedy|Romance</genres>
+		<date>1/7/2024</date>
+	</movie>
+	<movie>
+		<id>166</id>
+		<title>Plutonium Circus</title>
+		<genres>Documentary</genres>
+		<date>12/20/2023</date>
+	</movie>
+	<movie>
+		<id>167</id>
+		<title>Born Wild</title>
+		<genres>Drama</genres>
+		<date>3/8/2023</date>
+	</movie>
+	<movie>
+		<id>168</id>
+		<title>White Rose, The (Weiße Rose, Die)</title>
+		<genres>Drama|Film-Noir</genres>
+		<date>5/10/2022</date>
+	</movie>
+	<movie>
+		<id>169</id>
+		<title>Ninja III: The Domination</title>
+		<genres>Action</genres>
+		<date>1/31/2023</date>
+	</movie>
+	<movie>
+		<id>170</id>
+		<title>Yank in the R.A.F., A</title>
+		<genres>Action|Adventure|Drama|Romance|War</genres>
+		<date>4/12/2024</date>
+	</movie>
+	<movie>
+		<id>171</id>
+		<title>Billy Jack</title>
+		<genres>Action|Drama</genres>
+		<date>7/2/2023</date>
+	</movie>
+	<movie>
+		<id>172</id>
+		<title>¡Alambrista! (Illegal, The)</title>
+		<genres>Drama</genres>
+		<date>11/25/2022</date>
+	</movie>
+	<movie>
+		<id>173</id>
+		<title>Tru Confessions</title>
+		<genres>Children|Comedy|Drama</genres>
+		<date>10/7/2023</date>
+	</movie>
+	<movie>
+		<id>174</id>
+		<title>Cinderella</title>
+		<genres>Animation|Children|Fantasy|Musical|Romance</genres>
+		<date>10/13/2022</date>
+	</movie>
+	<movie>
+		<id>175</id>
+		<title>Efectos secundarios</title>
+		<genres>Comedy</genres>
+		<date>11/10/2023</date>
+	</movie>
+	<movie>
+		<id>176</id>
+		<title>Neverwas</title>
+		<genres>Drama|Fantasy|Mystery</genres>
+		<date>1/2/2024</date>
+	</movie>
+	<movie>
+		<id>177</id>
+		<title>Sorority Boys</title>
+		<genres>Comedy</genres>
+		<date>6/20/2023</date>
+	</movie>
+	<movie>
+		<id>178</id>
+		<title>Accident (Yi ngoi)</title>
+		<genres>Thriller</genres>
+		<date>7/8/2022</date>
+	</movie>
+	<movie>
+		<id>179</id>
+		<title>The Circle</title>
+		<genres>Documentary|Drama</genres>
+		<date>11/16/2023</date>
+	</movie>
+	<movie>
+		<id>180</id>
+		<title>Bugsy Malone</title>
+		<genres>Children|Comedy|Crime|Musical</genres>
+		<date>12/1/2023</date>
+	</movie>
+	<movie>
+		<id>181</id>
+		<title>FernGully 2: The Magical Rescue</title>
+		<genres>Adventure|Animation|Children|Fantasy</genres>
+		<date>12/15/2022</date>
+	</movie>
+	<movie>
+		<id>182</id>
+		<title>Our Song</title>
+		<genres>Drama</genres>
+		<date>10/14/2022</date>
+	</movie>
+	<movie>
+		<id>183</id>
+		<title>Lies My Father Told Me</title>
+		<genres>Children|Drama</genres>
+		<date>10/20/2023</date>
+	</movie>
+	<movie>
+		<id>184</id>
+		<title>They Shoot Horses, Don't They?</title>
+		<genres>Drama</genres>
+		<date>4/2/2024</date>
+	</movie>
+	<movie>
+		<id>185</id>
+		<title>Snow White</title>
+		<genres>Fantasy|Romance</genres>
+		<date>11/7/2022</date>
+	</movie>
+	<movie>
+		<id>186</id>
+		<title>Welcome to Sherwood! The Story of 'The Adventures of Robin
+			Hood'</title>
+		<genres>Documentary</genres>
+		<date>8/30/2022</date>
+	</movie>
+	<movie>
+		<id>187</id>
+		<title>Scientist, The</title>
+		<genres>Drama</genres>
+		<date>1/30/2024</date>
+	</movie>
+	<movie>
+		<id>188</id>
+		<title>Digging Up the Marrow</title>
+		<genres>Drama|Fantasy|Horror|Mystery|Thriller</genres>
+		<date>9/27/2023</date>
+	</movie>
+	<movie>
+		<id>189</id>
+		<title>You're Not You</title>
+		<genres>Drama</genres>
+		<date>12/2/2023</date>
+	</movie>
+	<movie>
+		<id>190</id>
+		<title>7 Plus Seven</title>
+		<genres>Documentary</genres>
+		<date>12/29/2022</date>
+	</movie>
+	<movie>
+		<id>191</id>
+		<title>No Strings Attached</title>
+		<genres>Comedy|Romance</genres>
+		<date>9/18/2022</date>
+	</movie>
+	<movie>
+		<id>192</id>
+		<title>Belphecor: Curse of the Mummy (Belphégor - Le fantôme du
+			Louvre)</title>
+		<genres>Fantasy|Horror|Mystery</genres>
+		<date>6/18/2023</date>
+	</movie>
+	<movie>
+		<id>193</id>
+		<title>Into the Blue</title>
+		<genres>Action|Adventure|Crime|Thriller</genres>
+		<date>9/24/2022</date>
+	</movie>
+	<movie>
+		<id>194</id>
+		<title>Dumb &amp; Dumber (Dumb and Dumber)</title>
+		<genres>Adventure|Comedy</genres>
+		<date>9/19/2022</date>
+	</movie>
+	<movie>
+		<id>195</id>
+		<title>I Wanna Hold Your Hand</title>
+		<genres>Comedy</genres>
+		<date>6/8/2023</date>
+	</movie>
+	<movie>
+		<id>196</id>
+		<title>Where East Is East</title>
+		<genres>Drama</genres>
+		<date>8/27/2023</date>
+	</movie>
+	<movie>
+		<id>197</id>
+		<title>Torch Song</title>
+		<genres>Drama|Romance</genres>
+		<date>12/21/2022</date>
+	</movie>
+	<movie>
+		<id>198</id>
+		<title>Rumble in the Air-Conditioned Auditorium: O'Reilly vs. Stewart
+			2012, The</title>
+		<genres>Comedy</genres>
+		<date>3/10/2024</date>
+	</movie>
+	<movie>
+		<id>199</id>
+		<title>Prisoner of Zenda, The</title>
+		<genres>Adventure</genres>
+		<date>8/24/2023</date>
+	</movie>
+	<movie>
+		<id>200</id>
+		<title>Conflagration (Enjô)</title>
+		<genres>Drama</genres>
+		<date>3/27/2023</date>
+	</movie>
+	<movie>
+		<id>201</id>
+		<title>Shiner</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>10/11/2022</date>
+	</movie>
+	<movie>
+		<id>202</id>
+		<title>Good Copy Bad Copy</title>
+		<genres>Documentary</genres>
+		<date>4/29/2023</date>
+	</movie>
+	<movie>
+		<id>203</id>
+		<title>Kaho Naa... Pyaar Hai</title>
+		<genres>Action|Adventure|Comedy|Drama|Mystery|Romance|Thriller
+		</genres>
+		<date>4/1/2022</date>
+	</movie>
+	<movie>
+		<id>204</id>
+		<title>Once Bitten</title>
+		<genres>Comedy|Horror</genres>
+		<date>3/28/2023</date>
+	</movie>
+	<movie>
+		<id>205</id>
+		<title>Mega Shark vs. Crocosaurus</title>
+		<genres>Action|Adventure|Horror</genres>
+		<date>10/29/2023</date>
+	</movie>
+	<movie>
+		<id>206</id>
+		<title>Baggage Claim</title>
+		<genres>Comedy</genres>
+		<date>3/27/2024</date>
+	</movie>
+	<movie>
+		<id>207</id>
+		<title>Whales of August, The</title>
+		<genres>Drama</genres>
+		<date>7/6/2023</date>
+	</movie>
+	<movie>
+		<id>208</id>
+		<title>West of Zanzibar</title>
+		<genres>Drama|Mystery</genres>
+		<date>6/20/2023</date>
+	</movie>
+	<movie>
+		<id>209</id>
+		<title>Boxing Helena</title>
+		<genres>Drama|Mystery|Romance|Thriller</genres>
+		<date>2/22/2023</date>
+	</movie>
+	<movie>
+		<id>210</id>
+		<title>Winning</title>
+		<genres>Action|Drama</genres>
+		<date>6/11/2022</date>
+	</movie>
+	<movie>
+		<id>211</id>
+		<title>7th Floor</title>
+		<genres>Mystery|Thriller</genres>
+		<date>5/15/2022</date>
+	</movie>
+	<movie>
+		<id>212</id>
+		<title>Amazing Spider-Man, The</title>
+		<genres>Action|Adventure|Sci-Fi|IMAX</genres>
+		<date>3/6/2023</date>
+	</movie>
+	<movie>
+		<id>213</id>
+		<title>Skyscraper (Skyskraber)</title>
+		<genres>Comedy|Drama</genres>
+		<date>7/28/2023</date>
+	</movie>
+	<movie>
+		<id>214</id>
+		<title>Czech Dream (Ceský sen)</title>
+		<genres>Documentary</genres>
+		<date>9/25/2023</date>
+	</movie>
+	<movie>
+		<id>215</id>
+		<title>Walk Among the Tombstones, A</title>
+		<genres>Action|Crime|Mystery|Thriller</genres>
+		<date>12/24/2022</date>
+	</movie>
+	<movie>
+		<id>216</id>
+		<title>Love and Anarchy (Film d'amore e d'anarchia, ovvero 'stamattina
+			alle 10 in via dei Fiori nella nota casa di tolleranza...')</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>8/4/2023</date>
+	</movie>
+	<movie>
+		<id>217</id>
+		<title>Undisputed III: Redemption</title>
+		<genres>Action|Crime|Drama</genres>
+		<date>3/1/2023</date>
+	</movie>
+	<movie>
+		<id>218</id>
+		<title>I Will Buy You (Anata kaimasu)</title>
+		<genres>Drama</genres>
+		<date>7/3/2022</date>
+	</movie>
+	<movie>
+		<id>219</id>
+		<title>We Bought a Zoo</title>
+		<genres>Comedy|Drama</genres>
+		<date>12/13/2022</date>
+	</movie>
+	<movie>
+		<id>220</id>
+		<title>Arachnophobia</title>
+		<genres>Comedy|Horror</genres>
+		<date>7/26/2022</date>
+	</movie>
+	<movie>
+		<id>221</id>
+		<title>Boxing Gym</title>
+		<genres>Documentary</genres>
+		<date>5/3/2023</date>
+	</movie>
+	<movie>
+		<id>222</id>
+		<title>King &amp; Country</title>
+		<genres>Drama|War</genres>
+		<date>5/19/2022</date>
+	</movie>
+	<movie>
+		<id>223</id>
+		<title>Rainmaker, The</title>
+		<genres>Comedy|Romance|Thriller|Western</genres>
+		<date>5/31/2022</date>
+	</movie>
+	<movie>
+		<id>224</id>
+		<title>Emergency Escape, The (Wyjscie awaryjne)</title>
+		<genres>Comedy</genres>
+		<date>6/1/2023</date>
+	</movie>
+	<movie>
+		<id>225</id>
+		<title>Snitch</title>
+		<genres>Action|Drama|Thriller</genres>
+		<date>7/4/2022</date>
+	</movie>
+	<movie>
+		<id>226</id>
+		<title>C'mon Man</title>
+		<genres>Comedy</genres>
+		<date>9/7/2022</date>
+	</movie>
+	<movie>
+		<id>227</id>
+		<title>The Perfect World of Kai</title>
+		<genres>Animation|Drama</genres>
+		<date>10/15/2022</date>
+	</movie>
+	<movie>
+		<id>228</id>
+		<title>Stalin</title>
+		<genres>Drama</genres>
+		<date>4/18/2022</date>
+	</movie>
+	<movie>
+		<id>229</id>
+		<title>Decline of Western Civilization, The</title>
+		<genres>Documentary|Musical</genres>
+		<date>4/14/2024</date>
+	</movie>
+	<movie>
+		<id>230</id>
+		<title>Collateral</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>8/30/2022</date>
+	</movie>
+	<movie>
+		<id>231</id>
+		<title>Hyde Park on Hudson</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/5/2023</date>
+	</movie>
+	<movie>
+		<id>232</id>
+		<title>Culture High, The</title>
+		<genres>Documentary</genres>
+		<date>3/20/2022</date>
+	</movie>
+	<movie>
+		<id>233</id>
+		<title>Hit List, The</title>
+		<genres>Action|Thriller</genres>
+		<date>3/11/2023</date>
+	</movie>
+	<movie>
+		<id>234</id>
+		<title>Each Dawn I Die</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>11/19/2023</date>
+	</movie>
+	<movie>
+		<id>235</id>
+		<title>Little Soldier, The (Petit soldat, Le)</title>
+		<genres>Drama|War</genres>
+		<date>7/14/2023</date>
+	</movie>
+	<movie>
+		<id>236</id>
+		<title>In Country</title>
+		<genres>Drama</genres>
+		<date>12/26/2022</date>
+	</movie>
+	<movie>
+		<id>237</id>
+		<title>Step Up Love Story (Futari ecchi)</title>
+		<genres>Animation|Comedy|Romance</genres>
+		<date>8/5/2023</date>
+	</movie>
+	<movie>
+		<id>238</id>
+		<title>Power/Rangers</title>
+		<genres>Action|Adventure|Sci-Fi</genres>
+		<date>11/20/2022</date>
+	</movie>
+	<movie>
+		<id>239</id>
+		<title>Violet &amp; Daisy</title>
+		<genres>Action|Drama</genres>
+		<date>3/4/2024</date>
+	</movie>
+	<movie>
+		<id>240</id>
+		<title>Asfalto</title>
+		<genres>Drama</genres>
+		<date>9/15/2022</date>
+	</movie>
+	<movie>
+		<id>241</id>
+		<title>Nothing But Trouble</title>
+		<genres>Adventure|Comedy</genres>
+		<date>5/3/2023</date>
+	</movie>
+	<movie>
+		<id>242</id>
+		<title>Dude, Where's My Car?</title>
+		<genres>Comedy|Sci-Fi</genres>
+		<date>4/21/2022</date>
+	</movie>
+	<movie>
+		<id>243</id>
+		<title>Shouting Fire: Stories from the Edge of Free Speech</title>
+		<genres>Documentary</genres>
+		<date>12/12/2022</date>
+	</movie>
+	<movie>
+		<id>244</id>
+		<title>Three Came Home</title>
+		<genres>Drama|War</genres>
+		<date>2/20/2023</date>
+	</movie>
+	<movie>
+		<id>245</id>
+		<title>Goonies, The</title>
+		<genres>Action|Adventure|Children|Comedy|Fantasy</genres>
+		<date>3/28/2023</date>
+	</movie>
+	<movie>
+		<id>246</id>
+		<title>Killing Auntie (Zabicie ciotki)</title>
+		<genres>Drama|Thriller</genres>
+		<date>9/21/2022</date>
+	</movie>
+	<movie>
+		<id>247</id>
+		<title>Drillbit Taylor</title>
+		<genres>Comedy</genres>
+		<date>7/22/2022</date>
+	</movie>
+	<movie>
+		<id>248</id>
+		<title>Urban Legend</title>
+		<genres>Horror|Thriller</genres>
+		<date>12/16/2022</date>
+	</movie>
+	<movie>
+		<id>249</id>
+		<title>Vertical Features Remake</title>
+		<genres>Documentary</genres>
+		<date>5/3/2022</date>
+	</movie>
+	<movie>
+		<id>250</id>
+		<title>Louie Bluie</title>
+		<genres>Documentary</genres>
+		<date>9/29/2023</date>
+	</movie>
+	<movie>
+		<id>251</id>
+		<title>Conspiracy</title>
+		<genres>Action|Drama|Mystery|Thriller|War</genres>
+		<date>8/2/2022</date>
+	</movie>
+	<movie>
+		<id>252</id>
+		<title>The Invisible Boy</title>
+		<genres>Fantasy|Sci-Fi</genres>
+		<date>11/15/2022</date>
+	</movie>
+	<movie>
+		<id>253</id>
+		<title>Turning, The</title>
+		<genres>Drama</genres>
+		<date>7/12/2023</date>
+	</movie>
+	<movie>
+		<id>254</id>
+		<title>No Name on the Bullet</title>
+		<genres>Western</genres>
+		<date>6/2/2023</date>
+	</movie>
+	<movie>
+		<id>255</id>
+		<title>Exit</title>
+		<genres>Drama|Mystery|Thriller</genres>
+		<date>3/16/2022</date>
+	</movie>
+	<movie>
+		<id>256</id>
+		<title>Talented Mr. Ripley, The</title>
+		<genres>Drama|Mystery|Thriller</genres>
+		<date>8/5/2023</date>
+	</movie>
+	<movie>
+		<id>257</id>
+		<title>Born to Be Wild</title>
+		<genres>Adventure|Children|Comedy|Drama</genres>
+		<date>2/4/2023</date>
+	</movie>
+	<movie>
+		<id>258</id>
+		<title>Made in Dagenham</title>
+		<genres>Comedy|Drama</genres>
+		<date>12/9/2022</date>
+	</movie>
+	<movie>
+		<id>259</id>
+		<title>Futurama: Bender's Game</title>
+		<genres>Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi</genres>
+		<date>4/5/2022</date>
+	</movie>
+	<movie>
+		<id>260</id>
+		<title>Sundowners, The</title>
+		<genres>Adventure|Drama</genres>
+		<date>5/19/2022</date>
+	</movie>
+	<movie>
+		<id>261</id>
+		<title>Let's Talk About Sex</title>
+		<genres>Drama</genres>
+		<date>12/16/2022</date>
+	</movie>
+	<movie>
+		<id>262</id>
+		<title> Days of Summer</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>12/18/2023</date>
+	</movie>
+	<movie>
+		<id>263</id>
+		<title>Further Gesture, A</title>
+		<genres>Drama</genres>
+		<date>12/3/2023</date>
+	</movie>
+	<movie>
+		<id>264</id>
+		<title>Lovers, The (Les Amants)</title>
+		<genres>Drama</genres>
+		<date>6/12/2023</date>
+	</movie>
+	<movie>
+		<id>265</id>
+		<title>Wonder Boys</title>
+		<genres>Comedy|Drama</genres>
+		<date>7/15/2023</date>
+	</movie>
+	<movie>
+		<id>266</id>
+		<title>Vacation from Marriage</title>
+		<genres>Drama|Romance</genres>
+		<date>10/17/2022</date>
+	</movie>
+	<movie>
+		<id>267</id>
+		<title>Killer at Large</title>
+		<genres>Documentary</genres>
+		<date>10/15/2023</date>
+	</movie>
+	<movie>
+		<id>268</id>
+		<title>Blossoms in the Dust</title>
+		<genres>Drama</genres>
+		<date>12/15/2022</date>
+	</movie>
+	<movie>
+		<id>269</id>
+		<title>Cimarron</title>
+		<genres>Drama|Western</genres>
+		<date>8/1/2022</date>
+	</movie>
+	<movie>
+		<id>270</id>
+		<title>La Première étoile</title>
+		<genres>Comedy</genres>
+		<date>6/17/2022</date>
+	</movie>
+	<movie>
+		<id>271</id>
+		<title>Zatoichi's Vengeance (Zatôichi no uta ga kikoeru) (Zatôichi 13)
+		</title>
+		<genres>Action|Drama</genres>
+		<date>6/12/2023</date>
+	</movie>
+	<movie>
+		<id>272</id>
+		<title>She's Out of My League</title>
+		<genres>Comedy</genres>
+		<date>3/2/2023</date>
+	</movie>
+	<movie>
+		<id>273</id>
+		<title>Devil Hunter (El caníbal)</title>
+		<genres>Horror</genres>
+		<date>12/25/2022</date>
+	</movie>
+	<movie>
+		<id>274</id>
+		<title>Sicilian, The</title>
+		<genres>Crime|Drama</genres>
+		<date>6/12/2023</date>
+	</movie>
+	<movie>
+		<id>275</id>
+		<title>Blast of Silence</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>10/19/2023</date>
+	</movie>
+	<movie>
+		<id>276</id>
+		<title>Last Angry Man, The</title>
+		<genres>Drama</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>277</id>
+		<title>Spider-Man 2</title>
+		<genres>Action|Adventure|Sci-Fi|IMAX</genres>
+		<date>11/9/2023</date>
+	</movie>
+	<movie>
+		<id>278</id>
+		<title>Relentless</title>
+		<genres>Thriller</genres>
+		<date>11/23/2023</date>
+	</movie>
+	<movie>
+		<id>279</id>
+		<title>Virtual JFK: Vietnam If Kennedy Had Lived</title>
+		<genres>Documentary</genres>
+		<date>10/7/2023</date>
+	</movie>
+	<movie>
+		<id>280</id>
+		<title>City for Conquest</title>
+		<genres>Drama</genres>
+		<date>1/15/2024</date>
+	</movie>
+	<movie>
+		<id>281</id>
+		<title>Good Copy Bad Copy</title>
+		<genres>Documentary</genres>
+		<date>4/3/2024</date>
+	</movie>
+	<movie>
+		<id>282</id>
+		<title>Bride Wars</title>
+		<genres>Comedy|Romance</genres>
+		<date>5/29/2023</date>
+	</movie>
+	<movie>
+		<id>283</id>
+		<title>20,000 Leagues Under the Sea</title>
+		<genres>Adventure|Drama|Sci-Fi</genres>
+		<date>9/3/2022</date>
+	</movie>
+	<movie>
+		<id>284</id>
+		<title>Christmas Carol, A (Scrooge)</title>
+		<genres>Drama|Fantasy</genres>
+		<date>3/29/2023</date>
+	</movie>
+	<movie>
+		<id>285</id>
+		<title>Fighter, The</title>
+		<genres>Drama</genres>
+		<date>9/25/2022</date>
+	</movie>
+	<movie>
+		<id>286</id>
+		<title>Only the Strong</title>
+		<genres>Action</genres>
+		<date>3/9/2024</date>
+	</movie>
+	<movie>
+		<id>287</id>
+		<title>Child's Christmas in Wales, A</title>
+		<genres>Children|Drama</genres>
+		<date>7/28/2023</date>
+	</movie>
+	<movie>
+		<id>288</id>
+		<title>Soldier's Plaything, A</title>
+		<genres>Comedy|Drama|Romance|War</genres>
+		<date>3/24/2023</date>
+	</movie>
+	<movie>
+		<id>289</id>
+		<title>Snipes</title>
+		<genres>Drama|Thriller</genres>
+		<date>9/29/2022</date>
+	</movie>
+	<movie>
+		<id>290</id>
+		<title>The Trip to Squash Land</title>
+		<genres>Animation</genres>
+		<date>12/31/2023</date>
+	</movie>
+	<movie>
+		<id>291</id>
+		<title>Mr. Troop Mom</title>
+		<genres>Children|Comedy</genres>
+		<date>8/27/2022</date>
+	</movie>
+	<movie>
+		<id>292</id>
+		<title>Hundred-Foot Journey, The</title>
+		<genres>Drama</genres>
+		<date>6/13/2022</date>
+	</movie>
+	<movie>
+		<id>293</id>
+		<title>Attack of the 50 Foot Woman</title>
+		<genres>Comedy|Sci-Fi</genres>
+		<date>3/6/2022</date>
+	</movie>
+	<movie>
+		<id>294</id>
+		<title>Romeo Must Die</title>
+		<genres>Action|Crime|Romance|Thriller</genres>
+		<date>4/14/2024</date>
+	</movie>
+	<movie>
+		<id>295</id>
+		<title>Trash</title>
+		<genres>Adventure|Crime|Drama|Thriller</genres>
+		<date>2/28/2024</date>
+	</movie>
+	<movie>
+		<id>296</id>
+		<title>Toolbox Murders</title>
+		<genres>Horror|Mystery</genres>
+		<date>2/20/2023</date>
+	</movie>
+	<movie>
+		<id>297</id>
+		<title>Transylvania 6-5000</title>
+		<genres>Comedy|Horror</genres>
+		<date>7/8/2022</date>
+	</movie>
+	<movie>
+		<id>298</id>
+		<title>Girls in Prison</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>1/10/2024</date>
+	</movie>
+	<movie>
+		<id>299</id>
+		<title>Suicide Room</title>
+		<genres>Drama|Thriller</genres>
+		<date>7/5/2023</date>
+	</movie>
+	<movie>
+		<id>300</id>
+		<title>Land and Freedom (Tierra y libertad)</title>
+		<genres>Drama|War</genres>
+		<date>10/25/2023</date>
+	</movie>
+	<movie>
+		<id>301</id>
+		<title>Beast with a Million Eyes, The</title>
+		<genres>Sci-Fi</genres>
+		<date>3/15/2024</date>
+	</movie>
+	<movie>
+		<id>302</id>
+		<title>Forced Vengeance</title>
+		<genres>Action|Adventure</genres>
+		<date>4/2/2023</date>
+	</movie>
+	<movie>
+		<id>303</id>
+		<title>Filth and Wisdom</title>
+		<genres>Comedy|Drama|Musical|Romance</genres>
+		<date>3/18/2022</date>
+	</movie>
+	<movie>
+		<id>304</id>
+		<title>All About Actresses (Le bal des actrices)</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/27/2023</date>
+	</movie>
+	<movie>
+		<id>305</id>
+		<title>Symphonie pastorale, La</title>
+		<genres>Drama</genres>
+		<date>12/2/2023</date>
+	</movie>
+	<movie>
+		<id>306</id>
+		<title>Attack of the 5 Ft. 2 Women (National Lampoon's Attack of the 5
+			Ft 2 Woman)</title>
+		<genres>Comedy</genres>
+		<date>11/18/2022</date>
+	</movie>
+	<movie>
+		<id>307</id>
+		<title>A Magnificent Haunting</title>
+		<genres>Drama</genres>
+		<date>6/16/2023</date>
+	</movie>
+	<movie>
+		<id>308</id>
+		<title>Burn Notice: The Fall of Sam Axe</title>
+		<genres>Crime|Drama|Mystery</genres>
+		<date>3/16/2024</date>
+	</movie>
+	<movie>
+		<id>309</id>
+		<title>Fingersmith</title>
+		<genres>Crime|Drama|Romance</genres>
+		<date>7/6/2023</date>
+	</movie>
+	<movie>
+		<id>310</id>
+		<title>Kauwboy</title>
+		<genres>Drama</genres>
+		<date>6/16/2023</date>
+	</movie>
+	<movie>
+		<id>311</id>
+		<title>Hard Way, The</title>
+		<genres>Drama</genres>
+		<date>6/5/2022</date>
+	</movie>
+	<movie>
+		<id>312</id>
+		<title>Wild Parrots of Telegraph Hill, The</title>
+		<genres>Documentary</genres>
+		<date>6/27/2023</date>
+	</movie>
+	<movie>
+		<id>313</id>
+		<title>Comedy of Terrors, The</title>
+		<genres>Comedy|Horror</genres>
+		<date>4/8/2023</date>
+	</movie>
+	<movie>
+		<id>314</id>
+		<title>Pekka ja Pätkä Suezilla</title>
+		<genres>Comedy</genres>
+		<date>4/22/2023</date>
+	</movie>
+	<movie>
+		<id>315</id>
+		<title>Frozen City (Valkoinen kaupunki) </title>
+		<genres>Drama</genres>
+		<date>1/11/2024</date>
+	</movie>
+	<movie>
+		<id>316</id>
+		<title>Stag Night</title>
+		<genres>Horror|Thriller</genres>
+		<date>7/6/2022</date>
+	</movie>
+	<movie>
+		<id>317</id>
+		<title>Open Range</title>
+		<genres>Western</genres>
+		<date>12/9/2022</date>
+	</movie>
+	<movie>
+		<id>318</id>
+		<title>Konopielka</title>
+		<genres>Comedy</genres>
+		<date>1/8/2024</date>
+	</movie>
+	<movie>
+		<id>319</id>
+		<title>Commare secca, La (Grim Reaper, The)</title>
+		<genres>Drama|Mystery</genres>
+		<date>2/14/2023</date>
+	</movie>
+	<movie>
+		<id>320</id>
+		<title>This Christmas</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>4/18/2022</date>
+	</movie>
+	<movie>
+		<id>321</id>
+		<title>King - Jari Litmanen, The (Kuningas Litmanen)</title>
+		<genres>Documentary</genres>
+		<date>10/13/2023</date>
+	</movie>
+	<movie>
+		<id>322</id>
+		<title>City Island</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/2/2022</date>
+	</movie>
+	<movie>
+		<id>323</id>
+		<title>Switch</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>3/17/2023</date>
+	</movie>
+	<movie>
+		<id>324</id>
+		<title>Mandabi (The Money Order)</title>
+		<genres>Drama</genres>
+		<date>2/9/2024</date>
+	</movie>
+	<movie>
+		<id>325</id>
+		<title>Dog, The</title>
+		<genres>Documentary</genres>
+		<date>11/10/2022</date>
+	</movie>
+	<movie>
+		<id>326</id>
+		<title>Hannah Montana: The Movie</title>
+		<genres>Comedy|Drama|Musical|Romance</genres>
+		<date>8/13/2023</date>
+	</movie>
+	<movie>
+		<id>327</id>
+		<title>Lifeguard</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/7/2024</date>
+	</movie>
+	<movie>
+		<id>328</id>
+		<title>Impulse</title>
+		<genres>Mystery|Sci-Fi|Thriller</genres>
+		<date>4/5/2024</date>
+	</movie>
+	<movie>
+		<id>329</id>
+		<title>Flowing (Nagareru)</title>
+		<genres>Drama</genres>
+		<date>11/13/2023</date>
+	</movie>
+	<movie>
+		<id>330</id>
+		<title>Sundowners, The</title>
+		<genres>Adventure|Drama</genres>
+		<date>6/13/2022</date>
+	</movie>
+	<movie>
+		<id>331</id>
+		<title>Chain of Fools</title>
+		<genres>Comedy|Crime</genres>
+		<date>1/6/2023</date>
+	</movie>
+	<movie>
+		<id>332</id>
+		<title>Stockholm Stories</title>
+		<genres>Drama</genres>
+		<date>9/30/2022</date>
+	</movie>
+	<movie>
+		<id>333</id>
+		<title>Sunes sommar</title>
+		<genres>Comedy</genres>
+		<date>6/9/2023</date>
+	</movie>
+	<movie>
+		<id>334</id>
+		<title>Masked &amp; Anonymous</title>
+		<genres>Comedy|Drama</genres>
+		<date>12/24/2022</date>
+	</movie>
+	<movie>
+		<id>335</id>
+		<title>Ace in the Hole (Big Carnival, The)</title>
+		<genres>Drama</genres>
+		<date>9/9/2022</date>
+	</movie>
+	<movie>
+		<id>336</id>
+		<title>Jauja</title>
+		<genres>Drama|Western</genres>
+		<date>12/24/2022</date>
+	</movie>
+	<movie>
+		<id>337</id>
+		<title>Barnens ö</title>
+		<genres>Adventure|Children|Drama</genres>
+		<date>3/23/2022</date>
+	</movie>
+	<movie>
+		<id>338</id>
+		<title>Until the End of the World (Bis ans Ende der Welt)</title>
+		<genres>Adventure|Drama|Sci-Fi</genres>
+		<date>12/5/2023</date>
+	</movie>
+	<movie>
+		<id>339</id>
+		<title>Bread, Love and Dreams (Pane, amore e fantasia)</title>
+		<genres>Comedy|Romance</genres>
+		<date>3/2/2022</date>
+	</movie>
+	<movie>
+		<id>340</id>
+		<title>Dark Matter</title>
+		<genres>Drama</genres>
+		<date>7/6/2022</date>
+	</movie>
+	<movie>
+		<id>341</id>
+		<title>In Praise of Older Women</title>
+		<genres>Drama</genres>
+		<date>9/1/2022</date>
+	</movie>
+	<movie>
+		<id>342</id>
+		<title>See You in Hell, My Darling (Tha se do stin Kolasi, agapi mou)
+		</title>
+		<genres>Crime|Horror|Thriller</genres>
+		<date>3/27/2022</date>
+	</movie>
+	<movie>
+		<id>343</id>
+		<title>Desperadoes, The</title>
+		<genres>Romance|Western</genres>
+		<date>9/23/2022</date>
+	</movie>
+	<movie>
+		<id>344</id>
+		<title>Ride in the Whirlwind</title>
+		<genres>Western</genres>
+		<date>9/17/2022</date>
+	</movie>
+	<movie>
+		<id>345</id>
+		<title>Operation Petticoat</title>
+		<genres>Action|Comedy|Romance|War</genres>
+		<date>3/22/2024</date>
+	</movie>
+	<movie>
+		<id>346</id>
+		<title>Comfort of Strangers, The</title>
+		<genres>Drama</genres>
+		<date>11/17/2022</date>
+	</movie>
+	<movie>
+		<id>347</id>
+		<title>Justice League: The New Frontier </title>
+		<genres>Action|Adventure|Animation|Fantasy|Sci-Fi</genres>
+		<date>9/11/2023</date>
+	</movie>
+	<movie>
+		<id>348</id>
+		<title>One Way Passage</title>
+		<genres>Drama|Romance</genres>
+		<date>3/29/2022</date>
+	</movie>
+	<movie>
+		<id>349</id>
+		<title>Purple Butterfly (Zi hudie)</title>
+		<genres>Drama</genres>
+		<date>6/17/2023</date>
+	</movie>
+	<movie>
+		<id>350</id>
+		<title>Eclisse, L' (Eclipse)</title>
+		<genres>Drama</genres>
+		<date>2/24/2024</date>
+	</movie>
+	<movie>
+		<id>351</id>
+		<title>Vito</title>
+		<genres>Documentary</genres>
+		<date>10/30/2023</date>
+	</movie>
+	<movie>
+		<id>352</id>
+		<title>Two Evil Eyes</title>
+		<genres>Horror</genres>
+		<date>7/11/2023</date>
+	</movie>
+	<movie>
+		<id>353</id>
+		<title>In Good Company</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/24/2023</date>
+	</movie>
+	<movie>
+		<id>354</id>
+		<title>Once Upon a Time in the Midlands</title>
+		<genres>Drama</genres>
+		<date>4/25/2022</date>
+	</movie>
+	<movie>
+		<id>355</id>
+		<title>Fright to the Finish</title>
+		<genres>(no genres listed)</genres>
+		<date>12/14/2023</date>
+	</movie>
+	<movie>
+		<id>356</id>
+		<title>L'enfance nue (Naked Childhood)</title>
+		<genres>Drama</genres>
+		<date>4/16/2022</date>
+	</movie>
+	<movie>
+		<id>357</id>
+		<title>Whoopi Goldberg Presents Moms Mabley</title>
+		<genres>Documentary</genres>
+		<date>4/29/2022</date>
+	</movie>
+	<movie>
+		<id>358</id>
+		<title>Topaze</title>
+		<genres>Comedy</genres>
+		<date>9/22/2023</date>
+	</movie>
+	<movie>
+		<id>359</id>
+		<title>Whip and the Body, The (Frusta e il corpo, La)</title>
+		<genres>Horror</genres>
+		<date>5/7/2023</date>
+	</movie>
+	<movie>
+		<id>360</id>
+		<title>Earth</title>
+		<genres>Drama|War</genres>
+		<date>9/29/2023</date>
+	</movie>
+	<movie>
+		<id>361</id>
+		<title>V2: Dead Angel (Vares 2 - Jäätynyt Enkeli)</title>
+		<genres>Action|Comedy|Crime</genres>
+		<date>7/2/2023</date>
+	</movie>
+	<movie>
+		<id>362</id>
+		<title>White Chicks</title>
+		<genres>Action|Comedy|Crime</genres>
+		<date>9/8/2023</date>
+	</movie>
+	<movie>
+		<id>363</id>
+		<title>Beyond the Walls (Hors les murs)</title>
+		<genres>Drama</genres>
+		<date>12/27/2023</date>
+	</movie>
+	<movie>
+		<id>364</id>
+		<title>Alexandra (Aleksandra)</title>
+		<genres>Drama|War</genres>
+		<date>10/17/2023</date>
+	</movie>
+	<movie>
+		<id>365</id>
+		<title>Nativity 2: Danger in the Manger!</title>
+		<genres>Children|Comedy</genres>
+		<date>8/4/2023</date>
+	</movie>
+	<movie>
+		<id>366</id>
+		<title>Badge, The</title>
+		<genres>Crime|Drama|Mystery|Thriller</genres>
+		<date>4/14/2023</date>
+	</movie>
+	<movie>
+		<id>367</id>
+		<title>OSS 117 - Lost in Rio (OSS 117: Rio ne répond plus)</title>
+		<genres>Adventure|Comedy</genres>
+		<date>3/22/2024</date>
+	</movie>
+	<movie>
+		<id>368</id>
+		<title>Blind Pig Who Wants to Fly (Babi buta yang ingin terbang)
+		</title>
+		<genres>Drama</genres>
+		<date>6/17/2023</date>
+	</movie>
+	<movie>
+		<id>369</id>
+		<title>Extreme Prejudice</title>
+		<genres>Action</genres>
+		<date>5/20/2022</date>
+	</movie>
+	<movie>
+		<id>370</id>
+		<title>The Derby Stallion</title>
+		<genres>Children|Drama</genres>
+		<date>7/29/2022</date>
+	</movie>
+	<movie>
+		<id>371</id>
+		<title>Alien Hunter</title>
+		<genres>Action|Sci-Fi|Thriller</genres>
+		<date>9/7/2022</date>
+	</movie>
+	<movie>
+		<id>372</id>
+		<title>French Connection II</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>10/30/2022</date>
+	</movie>
+	<movie>
+		<id>373</id>
+		<title>Then I Sentenced Them All to Death (Atunci i-am condamnat pe
+			toti la moarte)</title>
+		<genres>Drama|War</genres>
+		<date>11/12/2023</date>
+	</movie>
+	<movie>
+		<id>374</id>
+		<title>Last Chance Harvey</title>
+		<genres>Drama|Romance</genres>
+		<date>11/28/2023</date>
+	</movie>
+	<movie>
+		<id>375</id>
+		<title>Latter Days</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>6/12/2023</date>
+	</movie>
+	<movie>
+		<id>376</id>
+		<title>Proprietor, The</title>
+		<genres>Drama</genres>
+		<date>12/8/2022</date>
+	</movie>
+	<movie>
+		<id>377</id>
+		<title>Band of Outsiders (Bande à part)</title>
+		<genres>Comedy|Crime|Drama|Romance</genres>
+		<date>9/16/2023</date>
+	</movie>
+	<movie>
+		<id>378</id>
+		<title>American Psycho</title>
+		<genres>Crime|Horror|Mystery|Thriller</genres>
+		<date>2/21/2024</date>
+	</movie>
+	<movie>
+		<id>379</id>
+		<title>Lara Croft: Tomb Raider</title>
+		<genres>Action|Adventure</genres>
+		<date>1/4/2023</date>
+	</movie>
+	<movie>
+		<id>380</id>
+		<title>Early Summer (Bakushû)</title>
+		<genres>Drama</genres>
+		<date>3/20/2022</date>
+	</movie>
+	<movie>
+		<id>381</id>
+		<title>Sun Also Rises, The (Tai yang zhao chang sheng qi)</title>
+		<genres>Drama</genres>
+		<date>11/12/2023</date>
+	</movie>
+	<movie>
+		<id>382</id>
+		<title>Woman in The Septic Tank, The (Ang Babae sa septic tank)
+		</title>
+		<genres>Comedy|Musical</genres>
+		<date>10/26/2023</date>
+	</movie>
+	<movie>
+		<id>383</id>
+		<title>Star Trek II: The Wrath of Khan</title>
+		<genres>Action|Adventure|Sci-Fi|Thriller</genres>
+		<date>12/25/2023</date>
+	</movie>
+	<movie>
+		<id>384</id>
+		<title>Amores Perros (Love's a Bitch)</title>
+		<genres>Drama|Thriller</genres>
+		<date>8/1/2022</date>
+	</movie>
+	<movie>
+		<id>385</id>
+		<title>Rogue</title>
+		<genres>Action|Adventure|Horror|Thriller</genres>
+		<date>3/17/2023</date>
+	</movie>
+	<movie>
+		<id>386</id>
+		<title>The Kick</title>
+		<genres>Action</genres>
+		<date>7/31/2022</date>
+	</movie>
+	<movie>
+		<id>387</id>
+		<title>Operation Crossbow</title>
+		<genres>Action|Adventure|War</genres>
+		<date>12/25/2023</date>
+	</movie>
+	<movie>
+		<id>388</id>
+		<title>Amira &amp; Sam</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>2/1/2024</date>
+	</movie>
+	<movie>
+		<id>389</id>
+		<title>Last Days on Mars, The</title>
+		<genres>Horror|Sci-Fi</genres>
+		<date>2/26/2023</date>
+	</movie>
+	<movie>
+		<id>390</id>
+		<title>Curse of the Demon (Night of the Demon)</title>
+		<genres>Fantasy|Horror|Mystery</genres>
+		<date>5/9/2022</date>
+	</movie>
+	<movie>
+		<id>391</id>
+		<title>Jack Strong</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>10/23/2022</date>
+	</movie>
+	<movie>
+		<id>392</id>
+		<title>Our Lady of the Assassins (Virgen de los sicarios, La)</title>
+		<genres>Crime|Drama|Romance</genres>
+		<date>2/11/2023</date>
+	</movie>
+	<movie>
+		<id>393</id>
+		<title>Wild Bill</title>
+		<genres>Crime|Drama</genres>
+		<date>12/20/2023</date>
+	</movie>
+	<movie>
+		<id>394</id>
+		<title>Zatoichi and the Chest of Gold (Zatôichi senryô-kubi) (Zatôichi
+			6)</title>
+		<genres>Action|Drama</genres>
+		<date>6/17/2023</date>
+	</movie>
+	<movie>
+		<id>395</id>
+		<title>Home for Christmas (Hjem til jul)</title>
+		<genres>Drama</genres>
+		<date>4/12/2022</date>
+	</movie>
+	<movie>
+		<id>396</id>
+		<title>Santa Sangre</title>
+		<genres>Drama|Horror|Mystery|Thriller</genres>
+		<date>12/9/2023</date>
+	</movie>
+	<movie>
+		<id>397</id>
+		<title>Below Sea Level</title>
+		<genres>Documentary</genres>
+		<date>12/30/2023</date>
+	</movie>
+	<movie>
+		<id>398</id>
+		<title>7th Floor</title>
+		<genres>Mystery|Thriller</genres>
+		<date>10/4/2022</date>
+	</movie>
+	<movie>
+		<id>399</id>
+		<title>Human Traffic</title>
+		<genres>Comedy</genres>
+		<date>8/22/2023</date>
+	</movie>
+	<movie>
+		<id>400</id>
+		<title>Bourne Supremacy, The</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>7/15/2022</date>
+	</movie>
+	<movie>
+		<id>401</id>
+		<title>Fugitive Pieces</title>
+		<genres>Drama</genres>
+		<date>2/6/2023</date>
+	</movie>
+	<movie>
+		<id>402</id>
+		<title>The Green Prince</title>
+		<genres>Documentary|Drama|Thriller</genres>
+		<date>10/29/2022</date>
+	</movie>
+	<movie>
+		<id>403</id>
+		<title>Human Resources (Ressources humaines)</title>
+		<genres>Drama</genres>
+		<date>7/30/2022</date>
+	</movie>
+	<movie>
+		<id>404</id>
+		<title>But Not for Me</title>
+		<genres>Comedy|Romance</genres>
+		<date>9/24/2022</date>
+	</movie>
+	<movie>
+		<id>405</id>
+		<title>Gone in 60 Seconds</title>
+		<genres>Action|Crime</genres>
+		<date>2/10/2023</date>
+	</movie>
+	<movie>
+		<id>406</id>
+		<title>Fires on the Plain (Nobi)</title>
+		<genres>Drama|War</genres>
+		<date>10/28/2022</date>
+	</movie>
+	<movie>
+		<id>407</id>
+		<title>Journey for Margaret</title>
+		<genres>Drama|War</genres>
+		<date>9/25/2023</date>
+	</movie>
+	<movie>
+		<id>408</id>
+		<title>Grace of Monaco</title>
+		<genres>Drama|Romance</genres>
+		<date>5/7/2022</date>
+	</movie>
+	<movie>
+		<id>409</id>
+		<title>Gentleman's Game, A</title>
+		<genres>Drama</genres>
+		<date>12/2/2022</date>
+	</movie>
+	<movie>
+		<id>410</id>
+		<title>Evergreen</title>
+		<genres>Drama</genres>
+		<date>4/2/2023</date>
+	</movie>
+	<movie>
+		<id>411</id>
+		<title>Dampfnudelblues</title>
+		<genres>Comedy|Crime</genres>
+		<date>6/14/2022</date>
+	</movie>
+	<movie>
+		<id>412</id>
+		<title>Funny About Love</title>
+		<genres>Comedy|Romance</genres>
+		<date>1/27/2023</date>
+	</movie>
+	<movie>
+		<id>413</id>
+		<title>Dreamworld</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>10/8/2023</date>
+	</movie>
+	<movie>
+		<id>414</id>
+		<title>The Land</title>
+		<genres>Documentary</genres>
+		<date>3/10/2022</date>
+	</movie>
+	<movie>
+		<id>415</id>
+		<title>Nightmare Castle (Amanti d'oltretomba) (Lovers from Beyond the
+			Tomb) (Faceless Monster, The)</title>
+		<genres>Horror</genres>
+		<date>3/19/2024</date>
+	</movie>
+	<movie>
+		<id>416</id>
+		<title>I'm Not Scared (Io non ho paura)</title>
+		<genres>Drama|Mystery|Thriller</genres>
+		<date>9/11/2022</date>
+	</movie>
+	<movie>
+		<id>417</id>
+		<title>Hammett</title>
+		<genres>Crime|Mystery</genres>
+		<date>12/21/2023</date>
+	</movie>
+	<movie>
+		<id>418</id>
+		<title>Taste of Tea, The (Cha no aji)</title>
+		<genres>Comedy|Drama</genres>
+		<date>2/4/2024</date>
+	</movie>
+	<movie>
+		<id>419</id>
+		<title>King's Speech, The</title>
+		<genres>Drama</genres>
+		<date>4/20/2023</date>
+	</movie>
+	<movie>
+		<id>420</id>
+		<title>Umberto D.</title>
+		<genres>Drama</genres>
+		<date>8/31/2022</date>
+	</movie>
+	<movie>
+		<id>421</id>
+		<title>Great Stone Face, The</title>
+		<genres>Documentary</genres>
+		<date>3/26/2022</date>
+	</movie>
+	<movie>
+		<id>422</id>
+		<title>Wing Commander</title>
+		<genres>Action|Sci-Fi</genres>
+		<date>1/31/2023</date>
+	</movie>
+	<movie>
+		<id>423</id>
+		<title>Fern flowers (Fleur de fougère)</title>
+		<genres>Animation</genres>
+		<date>4/8/2024</date>
+	</movie>
+	<movie>
+		<id>424</id>
+		<title>Syriana</title>
+		<genres>Drama|Thriller</genres>
+		<date>10/5/2023</date>
+	</movie>
+	<movie>
+		<id>425</id>
+		<title>Vizontele</title>
+		<genres>Comedy|Drama</genres>
+		<date>1/24/2024</date>
+	</movie>
+	<movie>
+		<id>426</id>
+		<title>Eye 2, The (Gin gwai 2)</title>
+		<genres>Horror|Thriller</genres>
+		<date>4/16/2024</date>
+	</movie>
+	<movie>
+		<id>427</id>
+		<title>Archangel</title>
+		<genres>Crime|Drama|Mystery|Thriller</genres>
+		<date>12/31/2022</date>
+	</movie>
+	<movie>
+		<id>428</id>
+		<title>Always for Pleasure</title>
+		<genres>(no genres listed)</genres>
+		<date>9/5/2022</date>
+	</movie>
+	<movie>
+		<id>429</id>
+		<title>Who Can Kill a Child? (a.k.a. Island of the Damned) (¿Quién
+			puede matar a un niño?)</title>
+		<genres>Horror|Mystery|Thriller</genres>
+		<date>7/28/2023</date>
+	</movie>
+	<movie>
+		<id>430</id>
+		<title>AmeriQua</title>
+		<genres>Comedy</genres>
+		<date>2/20/2023</date>
+	</movie>
+	<movie>
+		<id>431</id>
+		<title>Ruhr</title>
+		<genres>Documentary</genres>
+		<date>1/8/2023</date>
+	</movie>
+	<movie>
+		<id>432</id>
+		<title>Once a Thief (Zong heng si hai)</title>
+		<genres>Action|Comedy|Crime|Thriller</genres>
+		<date>5/29/2022</date>
+	</movie>
+	<movie>
+		<id>433</id>
+		<title>Business of Being Born, The</title>
+		<genres>Documentary</genres>
+		<date>3/3/2023</date>
+	</movie>
+	<movie>
+		<id>434</id>
+		<title>Best of Everything, The</title>
+		<genres>Drama|Romance</genres>
+		<date>12/8/2022</date>
+	</movie>
+	<movie>
+		<id>435</id>
+		<title>Rage in Harlem, A</title>
+		<genres>Crime</genres>
+		<date>1/21/2024</date>
+	</movie>
+	<movie>
+		<id>436</id>
+		<title>Family Tree, The</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/28/2023</date>
+	</movie>
+	<movie>
+		<id>437</id>
+		<title>Swan and the Wanderer, The (Kulkuri ja joutsen)</title>
+		<genres>Drama</genres>
+		<date>3/5/2023</date>
+	</movie>
+	<movie>
+		<id>438</id>
+		<title>Birdman</title>
+		<genres>Comedy|Drama</genres>
+		<date>2/29/2024</date>
+	</movie>
+	<movie>
+		<id>439</id>
+		<title>Lured</title>
+		<genres>Crime|Film-Noir|Mystery|Thriller</genres>
+		<date>1/7/2023</date>
+	</movie>
+	<movie>
+		<id>440</id>
+		<title>Executioner, The</title>
+		<genres>Drama|Thriller</genres>
+		<date>3/2/2024</date>
+	</movie>
+	<movie>
+		<id>441</id>
+		<title>Armed and Dangerous</title>
+		<genres>Comedy|Crime</genres>
+		<date>10/10/2022</date>
+	</movie>
+	<movie>
+		<id>442</id>
+		<title>.45</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>11/30/2023</date>
+	</movie>
+	<movie>
+		<id>443</id>
+		<title>Joysticks</title>
+		<genres>Comedy</genres>
+		<date>11/1/2022</date>
+	</movie>
+	<movie>
+		<id>444</id>
+		<title>Manhunt</title>
+		<genres>Documentary|War</genres>
+		<date>4/4/2022</date>
+	</movie>
+	<movie>
+		<id>445</id>
+		<title>Dead or Alive: Final</title>
+		<genres>Comedy|Crime|Drama|Sci-Fi|Thriller</genres>
+		<date>12/23/2023</date>
+	</movie>
+	<movie>
+		<id>446</id>
+		<title>Shoot First, Die Later</title>
+		<genres>Action|Crime</genres>
+		<date>3/23/2024</date>
+	</movie>
+	<movie>
+		<id>447</id>
+		<title>Patterns</title>
+		<genres>Drama</genres>
+		<date>11/5/2022</date>
+	</movie>
+	<movie>
+		<id>448</id>
+		<title>Stoplight Society, The (La Sociedad del Semáforo)</title>
+		<genres>Drama</genres>
+		<date>7/27/2023</date>
+	</movie>
+	<movie>
+		<id>449</id>
+		<title>Gaslight</title>
+		<genres>Mystery|Thriller</genres>
+		<date>5/6/2023</date>
+	</movie>
+	<movie>
+		<id>450</id>
+		<title>Peach Thief, The (Kradetzat na praskovi)</title>
+		<genres>Drama|Romance|War</genres>
+		<date>8/15/2023</date>
+	</movie>
+	<movie>
+		<id>451</id>
+		<title>Neverland</title>
+		<genres>Adventure|Fantasy</genres>
+		<date>8/23/2022</date>
+	</movie>
+	<movie>
+		<id>452</id>
+		<title>Passing Strange</title>
+		<genres>Documentary|Musical</genres>
+		<date>4/15/2023</date>
+	</movie>
+	<movie>
+		<id>453</id>
+		<title>30 Days of Night: Dark Days</title>
+		<genres>Horror|Thriller</genres>
+		<date>10/18/2022</date>
+	</movie>
+	<movie>
+		<id>454</id>
+		<title>Fox and His Friends (Faustrecht der Freiheit)</title>
+		<genres>Drama</genres>
+		<date>12/7/2022</date>
+	</movie>
+	<movie>
+		<id>455</id>
+		<title>Jumbo (Billy Rose's Jumbo)</title>
+		<genres>Comedy|Musical|Romance</genres>
+		<date>12/2/2022</date>
+	</movie>
+	<movie>
+		<id>456</id>
+		<title>Effect of Gamma Rays on Man-in-the-Moon Marigolds, The</title>
+		<genres>Drama</genres>
+		<date>8/10/2022</date>
+	</movie>
+	<movie>
+		<id>457</id>
+		<title>Amira &amp; Sam</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>1/2/2024</date>
+	</movie>
+	<movie>
+		<id>458</id>
+		<title>Maytime</title>
+		<genres>Drama|Musical|Romance</genres>
+		<date>5/11/2022</date>
+	</movie>
+	<movie>
+		<id>459</id>
+		<title>Truth or Die </title>
+		<genres>Horror|Thriller</genres>
+		<date>9/10/2023</date>
+	</movie>
+	<movie>
+		<id>460</id>
+		<title>Sleeping Beauty, The (La belle endormie)</title>
+		<genres>Drama</genres>
+		<date>5/15/2022</date>
+	</movie>
+	<movie>
+		<id>461</id>
+		<title>Blue and the Gray, The</title>
+		<genres>Drama|War</genres>
+		<date>12/28/2023</date>
+	</movie>
+	<movie>
+		<id>462</id>
+		<title>Running With Scissors</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/8/2022</date>
+	</movie>
+	<movie>
+		<id>463</id>
+		<title>Primary Colors</title>
+		<genres>Comedy|Drama</genres>
+		<date>1/5/2024</date>
+	</movie>
+	<movie>
+		<id>464</id>
+		<title>Monty Python's And Now for Something Completely Different
+		</title>
+		<genres>Comedy</genres>
+		<date>8/14/2022</date>
+	</movie>
+	<movie>
+		<id>465</id>
+		<title>The Clinic</title>
+		<genres>Horror|Thriller</genres>
+		<date>3/25/2022</date>
+	</movie>
+	<movie>
+		<id>466</id>
+		<title>Truth or Consequences, N.M.</title>
+		<genres>Action|Crime|Romance</genres>
+		<date>11/1/2022</date>
+	</movie>
+	<movie>
+		<id>467</id>
+		<title>Personal Effects</title>
+		<genres>Drama</genres>
+		<date>1/5/2024</date>
+	</movie>
+	<movie>
+		<id>468</id>
+		<title>Letter from Siberia</title>
+		<genres>(no genres listed)</genres>
+		<date>2/2/2024</date>
+	</movie>
+	<movie>
+		<id>469</id>
+		<title>Flamenco (de Carlos Saura)</title>
+		<genres>Musical</genres>
+		<date>3/1/2024</date>
+	</movie>
+	<movie>
+		<id>470</id>
+		<title>Emotion</title>
+		<genres>Comedy|Horror</genres>
+		<date>3/27/2023</date>
+	</movie>
+	<movie>
+		<id>471</id>
+		<title>Cop Land</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>6/24/2022</date>
+	</movie>
+	<movie>
+		<id>472</id>
+		<title>Jackpot 2</title>
+		<genres>Sci-Fi</genres>
+		<date>7/4/2023</date>
+	</movie>
+	<movie>
+		<id>473</id>
+		<title>French Twist (Gazon maudit)</title>
+		<genres>Comedy|Romance</genres>
+		<date>4/25/2023</date>
+	</movie>
+	<movie>
+		<id>474</id>
+		<title>Quest</title>
+		<genres>Animation</genres>
+		<date>9/4/2022</date>
+	</movie>
+	<movie>
+		<id>475</id>
+		<title>Old Fashioned Way, The</title>
+		<genres>Comedy</genres>
+		<date>7/23/2023</date>
+	</movie>
+	<movie>
+		<id>476</id>
+		<title>Top Secret!</title>
+		<genres>Comedy</genres>
+		<date>12/23/2023</date>
+	</movie>
+	<movie>
+		<id>477</id>
+		<title>Super Demetrios</title>
+		<genres>Adventure|Comedy|Sci-Fi</genres>
+		<date>8/5/2022</date>
+	</movie>
+	<movie>
+		<id>478</id>
+		<title>Moment of Truth, The (Il momento della verità)</title>
+		<genres>Drama</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>479</id>
+		<title>Rolling Thunder</title>
+		<genres>Action|Drama</genres>
+		<date>1/16/2023</date>
+	</movie>
+	<movie>
+		<id>480</id>
+		<title>Endless Summer 2, The</title>
+		<genres>Adventure|Documentary</genres>
+		<date>2/3/2024</date>
+	</movie>
+	<movie>
+		<id>481</id>
+		<title>Spy Kids: All the Time in the World in 4D</title>
+		<genres>Action|Adventure|Children|Comedy|Sci-Fi</genres>
+		<date>8/20/2022</date>
+	</movie>
+	<movie>
+		<id>482</id>
+		<title>Stavisky...</title>
+		<genres>Crime|Drama</genres>
+		<date>5/2/2023</date>
+	</movie>
+	<movie>
+		<id>483</id>
+		<title>Sheepman, The</title>
+		<genres>Comedy|Western</genres>
+		<date>11/10/2023</date>
+	</movie>
+	<movie>
+		<id>484</id>
+		<title>Buffalo '66 (a.k.a. Buffalo 66)</title>
+		<genres>Drama|Romance</genres>
+		<date>4/13/2024</date>
+	</movie>
+	<movie>
+		<id>485</id>
+		<title>All Quiet on the Western Front</title>
+		<genres>Action|Drama|War</genres>
+		<date>11/25/2022</date>
+	</movie>
+	<movie>
+		<id>486</id>
+		<title>The Beaver Trilogy</title>
+		<genres>Comedy|Documentary|Drama</genres>
+		<date>8/8/2022</date>
+	</movie>
+	<movie>
+		<id>487</id>
+		<title>Conan the Barbarian</title>
+		<genres>Action|Adventure|Fantasy</genres>
+		<date>9/1/2023</date>
+	</movie>
+	<movie>
+		<id>488</id>
+		<title>King of Jazz</title>
+		<genres>Animation|Musical</genres>
+		<date>4/14/2022</date>
+	</movie>
+	<movie>
+		<id>489</id>
+		<title>Death of a Salesman</title>
+		<genres>Drama</genres>
+		<date>5/11/2022</date>
+	</movie>
+	<movie>
+		<id>490</id>
+		<title>After...</title>
+		<genres>Horror|Thriller</genres>
+		<date>3/14/2022</date>
+	</movie>
+	<movie>
+		<id>491</id>
+		<title>Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e
+			no hankô!! Nokosareta chô senshi - Gohan to Torankusu)</title>
+		<genres>Action|Adventure|Animation</genres>
+		<date>7/8/2022</date>
+	</movie>
+	<movie>
+		<id>492</id>
+		<title>Fourth Angel, The</title>
+		<genres>Action|Drama|Thriller</genres>
+		<date>2/17/2023</date>
+	</movie>
+	<movie>
+		<id>493</id>
+		<title>Virus X</title>
+		<genres>Horror|Sci-Fi</genres>
+		<date>4/7/2023</date>
+	</movie>
+	<movie>
+		<id>494</id>
+		<title>Love Song for Bobby Long, A</title>
+		<genres>Drama</genres>
+		<date>3/8/2024</date>
+	</movie>
+	<movie>
+		<id>495</id>
+		<title>Dear John</title>
+		<genres>Drama|Romance|War</genres>
+		<date>1/2/2023</date>
+	</movie>
+	<movie>
+		<id>496</id>
+		<title>Shoot to Kill</title>
+		<genres>Action|Adventure</genres>
+		<date>8/29/2023</date>
+	</movie>
+	<movie>
+		<id>497</id>
+		<title>Walk on the Wild Side</title>
+		<genres>Drama</genres>
+		<date>7/24/2023</date>
+	</movie>
+	<movie>
+		<id>498</id>
+		<title>Help Me, Eros (Bang bang wo ai shen)</title>
+		<genres>Drama</genres>
+		<date>10/25/2023</date>
+	</movie>
+	<movie>
+		<id>499</id>
+		<title>Execution Squad</title>
+		<genres>Crime|Drama</genres>
+		<date>10/2/2023</date>
+	</movie>
+	<movie>
+		<id>500</id>
+		<title>Crimetime</title>
+		<genres>Thriller</genres>
+		<date>11/10/2022</date>
+	</movie>
+	<movie>
+		<id>501</id>
+		<title>My Life as a Dog (Mitt liv som hund)</title>
+		<genres>Comedy|Drama</genres>
+		<date>11/2/2023</date>
+	</movie>
+	<movie>
+		<id>502</id>
+		<title>Camp Nowhere</title>
+		<genres>Adventure|Children|Comedy</genres>
+		<date>3/9/2024</date>
+	</movie>
+	<movie>
+		<id>503</id>
+		<title>Mona Lisa</title>
+		<genres>Comedy|Thriller</genres>
+		<date>11/1/2022</date>
+	</movie>
+	<movie>
+		<id>504</id>
+		<title>In Like Flint</title>
+		<genres>Action|Adventure|Comedy</genres>
+		<date>7/15/2022</date>
+	</movie>
+	<movie>
+		<id>505</id>
+		<title>Satin Rouge</title>
+		<genres>Drama|Musical</genres>
+		<date>4/2/2023</date>
+	</movie>
+	<movie>
+		<id>506</id>
+		<title>The Borderlands</title>
+		<genres>Horror|Mystery</genres>
+		<date>6/7/2023</date>
+	</movie>
+	<movie>
+		<id>507</id>
+		<title>Brothers: The Return</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>9/20/2023</date>
+	</movie>
+	<movie>
+		<id>508</id>
+		<title>Married Life</title>
+		<genres>Crime|Drama|Romance</genres>
+		<date>3/26/2023</date>
+	</movie>
+	<movie>
+		<id>509</id>
+		<title>Shanghai Knights</title>
+		<genres>Action|Adventure|Comedy</genres>
+		<date>1/20/2024</date>
+	</movie>
+	<movie>
+		<id>510</id>
+		<title>Manolito Four Eyes</title>
+		<genres>Comedy</genres>
+		<date>6/9/2022</date>
+	</movie>
+	<movie>
+		<id>511</id>
+		<title>Marat/Sade</title>
+		<genres>Drama|Musical</genres>
+		<date>5/26/2022</date>
+	</movie>
+	<movie>
+		<id>512</id>
+		<title>Love, Money, Love</title>
+		<genres>Drama|Romance</genres>
+		<date>4/12/2024</date>
+	</movie>
+	<movie>
+		<id>513</id>
+		<title>Ingeborg Holm</title>
+		<genres>Drama</genres>
+		<date>3/29/2022</date>
+	</movie>
+	<movie>
+		<id>514</id>
+		<title>Silence, The (Sokout)</title>
+		<genres>Drama</genres>
+		<date>3/30/2023</date>
+	</movie>
+	<movie>
+		<id>515</id>
+		<title>The Wind in the Willows</title>
+		<genres>Adventure|Animation|Children|Comedy</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>516</id>
+		<title>Angie</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>8/6/2023</date>
+	</movie>
+	<movie>
+		<id>517</id>
+		<title>Slam Dunk Ernest</title>
+		<genres>Children|Comedy</genres>
+		<date>3/22/2022</date>
+	</movie>
+	<movie>
+		<id>518</id>
+		<title>Widows</title>
+		<genres>Drama</genres>
+		<date>11/12/2022</date>
+	</movie>
+	<movie>
+		<id>519</id>
+		<title>Blueberry</title>
+		<genres>Adventure|Western</genres>
+		<date>2/9/2023</date>
+	</movie>
+	<movie>
+		<id>520</id>
+		<title>Miracle of Bern, The (Wunder von Bern, Das)</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/3/2022</date>
+	</movie>
+	<movie>
+		<id>521</id>
+		<title>Inspector Palmu's Error (Komisario Palmun erehdys)</title>
+		<genres>Comedy|Crime|Mystery|Thriller</genres>
+		<date>2/7/2023</date>
+	</movie>
+	<movie>
+		<id>522</id>
+		<title>Vassilisa the Beautiful (Vasilisa prekrasnaya)</title>
+		<genres>Adventure|Fantasy</genres>
+		<date>5/3/2022</date>
+	</movie>
+	<movie>
+		<id>523</id>
+		<title>That Obscure Object of Desire (Cet obscur objet du désir)
+		</title>
+		<genres>Drama</genres>
+		<date>8/21/2022</date>
+	</movie>
+	<movie>
+		<id>524</id>
+		<title>Dolphin Tale 2</title>
+		<genres>Children|Drama</genres>
+		<date>1/5/2023</date>
+	</movie>
+	<movie>
+		<id>525</id>
+		<title>Godzilla Against MechaGodzilla (Gojira tai Mekagojira)</title>
+		<genres>Action|Sci-Fi|Thriller</genres>
+		<date>3/31/2022</date>
+	</movie>
+	<movie>
+		<id>526</id>
+		<title>[REC] 4: Apocalypse</title>
+		<genres>Horror|Thriller</genres>
+		<date>1/18/2024</date>
+	</movie>
+	<movie>
+		<id>527</id>
+		<title>Atomic Submarine, The</title>
+		<genres>Sci-Fi|Thriller</genres>
+		<date>9/20/2023</date>
+	</movie>
+	<movie>
+		<id>528</id>
+		<title>Heartless</title>
+		<genres>Fantasy|Horror|Mystery|Thriller</genres>
+		<date>2/12/2024</date>
+	</movie>
+	<movie>
+		<id>529</id>
+		<title>Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai
+			bôken)</title>
+		<genres>Action|Adventure|Animation|Children</genres>
+		<date>5/31/2023</date>
+	</movie>
+	<movie>
+		<id>530</id>
+		<title>Tamara Drewe</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>8/22/2022</date>
+	</movie>
+	<movie>
+		<id>531</id>
+		<title>Danger! 50,000 Zombies</title>
+		<genres>Comedy|Horror</genres>
+		<date>9/7/2023</date>
+	</movie>
+	<movie>
+		<id>532</id>
+		<title>Mr. Vampire (Geung si sin sang)</title>
+		<genres>Comedy|Fantasy|Horror</genres>
+		<date>1/4/2024</date>
+	</movie>
+	<movie>
+		<id>533</id>
+		<title>Midnight in Paris</title>
+		<genres>Comedy|Fantasy|Romance</genres>
+		<date>6/22/2023</date>
+	</movie>
+	<movie>
+		<id>534</id>
+		<title>Angus, Thongs and Perfect Snogging</title>
+		<genres>Comedy|Romance</genres>
+		<date>10/3/2023</date>
+	</movie>
+	<movie>
+		<id>535</id>
+		<title>Guyver, The</title>
+		<genres>Action|Comedy|Sci-Fi</genres>
+		<date>12/26/2023</date>
+	</movie>
+	<movie>
+		<id>536</id>
+		<title>Mildred Pierce</title>
+		<genres>Drama</genres>
+		<date>7/17/2023</date>
+	</movie>
+	<movie>
+		<id>537</id>
+		<title>My Mom Is a Character (Minha Mãe é uma Peça: O Filme)</title>
+		<genres>Comedy</genres>
+		<date>1/14/2023</date>
+	</movie>
+	<movie>
+		<id>538</id>
+		<title>Tormented</title>
+		<genres>Comedy|Horror</genres>
+		<date>6/3/2022</date>
+	</movie>
+	<movie>
+		<id>539</id>
+		<title>Turkish Dance, Ella Lola</title>
+		<genres>(no genres listed)</genres>
+		<date>4/22/2022</date>
+	</movie>
+	<movie>
+		<id>540</id>
+		<title>Swastika</title>
+		<genres>Documentary</genres>
+		<date>5/28/2022</date>
+	</movie>
+	<movie>
+		<id>541</id>
+		<title>My Date with Drew</title>
+		<genres>Comedy|Documentary|Romance</genres>
+		<date>10/9/2022</date>
+	</movie>
+	<movie>
+		<id>542</id>
+		<title>Fiddle-de-dee</title>
+		<genres>Animation|Musical</genres>
+		<date>12/12/2022</date>
+	</movie>
+	<movie>
+		<id>543</id>
+		<title>Bow, The (Hwal)</title>
+		<genres>Drama|Romance</genres>
+		<date>6/28/2023</date>
+	</movie>
+	<movie>
+		<id>544</id>
+		<title>Where a Good Man Goes (Joi gin a long)</title>
+		<genres>Action|Drama|Thriller</genres>
+		<date>5/27/2022</date>
+	</movie>
+	<movie>
+		<id>545</id>
+		<title>Our Little Differences (Die feinen Unterschiede)</title>
+		<genres>Drama</genres>
+		<date>9/11/2022</date>
+	</movie>
+	<movie>
+		<id>546</id>
+		<title>Watermelon Woman, The</title>
+		<genres>Documentary|Drama</genres>
+		<date>5/8/2022</date>
+	</movie>
+	<movie>
+		<id>547</id>
+		<title>Trapped</title>
+		<genres>Action|Thriller</genres>
+		<date>8/28/2023</date>
+	</movie>
+	<movie>
+		<id>548</id>
+		<title>Invisible Ghost</title>
+		<genres>Action|Horror|Mystery|Thriller</genres>
+		<date>7/5/2023</date>
+	</movie>
+	<movie>
+		<id>549</id>
+		<title>Forsaken, The</title>
+		<genres>Horror</genres>
+		<date>3/3/2022</date>
+	</movie>
+	<movie>
+		<id>550</id>
+		<title>Angel Heart</title>
+		<genres>Film-Noir|Horror|Mystery|Thriller</genres>
+		<date>1/3/2023</date>
+	</movie>
+	<movie>
+		<id>551</id>
+		<title>Ricky Gervais Live 2: Politics</title>
+		<genres>Comedy</genres>
+		<date>11/17/2022</date>
+	</movie>
+	<movie>
+		<id>552</id>
+		<title>Beautiful</title>
+		<genres>Drama|Thriller</genres>
+		<date>3/29/2022</date>
+	</movie>
+	<movie>
+		<id>553</id>
+		<title>Grocer's Son, The (Fils de l'épicier, Le)</title>
+		<genres>Drama|Romance</genres>
+		<date>4/8/2023</date>
+	</movie>
+	<movie>
+		<id>554</id>
+		<title>Faust</title>
+		<genres>Animation|Comedy|Thriller</genres>
+		<date>6/17/2023</date>
+	</movie>
+	<movie>
+		<id>555</id>
+		<title>Sebastian Maniscalco: What's Wrong with People?</title>
+		<genres>Comedy</genres>
+		<date>5/20/2023</date>
+	</movie>
+	<movie>
+		<id>556</id>
+		<title>Amazon Jack 2: The Movie Star (a.k.a. Hugo the Movie Star)
+			(Jungledyret 2 - den store filmhelt)</title>
+		<genres>Animation|Children|Musical|Romance</genres>
+		<date>1/20/2023</date>
+	</movie>
+	<movie>
+		<id>557</id>
+		<title>Simple Life of Noah Dearborn, The</title>
+		<genres>Drama</genres>
+		<date>12/12/2023</date>
+	</movie>
+	<movie>
+		<id>558</id>
+		<title>Feet First</title>
+		<genres>Comedy</genres>
+		<date>2/24/2023</date>
+	</movie>
+	<movie>
+		<id>559</id>
+		<title>Cuckoo, The (Kukushka)</title>
+		<genres>Comedy|Drama|War</genres>
+		<date>12/15/2023</date>
+	</movie>
+	<movie>
+		<id>560</id>
+		<title>At the Death House Door</title>
+		<genres>Documentary</genres>
+		<date>8/27/2022</date>
+	</movie>
+	<movie>
+		<id>561</id>
+		<title>Planet 51</title>
+		<genres>Adventure|Animation|Children|Comedy|Sci-Fi</genres>
+		<date>1/4/2023</date>
+	</movie>
+	<movie>
+		<id>562</id>
+		<title>Ironclad 2: Battle for Blood</title>
+		<genres>Action|Adventure</genres>
+		<date>6/10/2022</date>
+	</movie>
+	<movie>
+		<id>563</id>
+		<title>North Dallas Forty</title>
+		<genres>Comedy|Drama</genres>
+		<date>2/13/2024</date>
+	</movie>
+	<movie>
+		<id>564</id>
+		<title>Endgame</title>
+		<genres>Drama</genres>
+		<date>10/5/2022</date>
+	</movie>
+	<movie>
+		<id>565</id>
+		<title>Drevo</title>
+		<genres>Drama</genres>
+		<date>2/14/2023</date>
+	</movie>
+	<movie>
+		<id>566</id>
+		<title>Doppelgänger Paul</title>
+		<genres>(no genres listed)</genres>
+		<date>4/17/2024</date>
+	</movie>
+	<movie>
+		<id>567</id>
+		<title>National Treasure</title>
+		<genres>Action|Adventure|Drama|Mystery|Thriller</genres>
+		<date>3/7/2023</date>
+	</movie>
+	<movie>
+		<id>568</id>
+		<title>Uptown Saturday Night</title>
+		<genres>Comedy</genres>
+		<date>7/17/2022</date>
+	</movie>
+	<movie>
+		<id>569</id>
+		<title>Nick the Sting</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>7/20/2023</date>
+	</movie>
+	<movie>
+		<id>570</id>
+		<title>Who Am I? (Wo shi shei)</title>
+		<genres>Action|Adventure|Comedy|Sci-Fi|Thriller</genres>
+		<date>3/25/2022</date>
+	</movie>
+	<movie>
+		<id>571</id>
+		<title>Dikkenek</title>
+		<genres>Comedy</genres>
+		<date>12/6/2023</date>
+	</movie>
+	<movie>
+		<id>572</id>
+		<title>Newlyweds</title>
+		<genres>Drama</genres>
+		<date>4/14/2024</date>
+	</movie>
+	<movie>
+		<id>573</id>
+		<title>Ideal Husband, An</title>
+		<genres>Comedy|Romance</genres>
+		<date>2/19/2024</date>
+	</movie>
+	<movie>
+		<id>574</id>
+		<title>Ill Manors</title>
+		<genres>Crime|Drama</genres>
+		<date>8/22/2023</date>
+	</movie>
+	<movie>
+		<id>575</id>
+		<title>Monte Walsh</title>
+		<genres>Action|Adventure|Western</genres>
+		<date>1/24/2023</date>
+	</movie>
+	<movie>
+		<id>576</id>
+		<title>Devil and Miss Jones, The</title>
+		<genres>Comedy|Romance</genres>
+		<date>11/16/2022</date>
+	</movie>
+	<movie>
+		<id>577</id>
+		<title>Starsuckers</title>
+		<genres>Documentary</genres>
+		<date>7/6/2023</date>
+	</movie>
+	<movie>
+		<id>578</id>
+		<title>Touch of Evil</title>
+		<genres>Crime|Film-Noir|Thriller</genres>
+		<date>4/20/2022</date>
+	</movie>
+	<movie>
+		<id>579</id>
+		<title>Summer Palace (Yihe yuan)</title>
+		<genres>Drama|Romance</genres>
+		<date>3/28/2022</date>
+	</movie>
+	<movie>
+		<id>580</id>
+		<title>Grave Halloween</title>
+		<genres>Horror</genres>
+		<date>7/15/2023</date>
+	</movie>
+	<movie>
+		<id>581</id>
+		<title>Make Like a Thief (Juokse kuin varas)</title>
+		<genres>Comedy|Crime|Thriller</genres>
+		<date>2/14/2024</date>
+	</movie>
+	<movie>
+		<id>582</id>
+		<title>Bloodsucking Freaks</title>
+		<genres>Horror</genres>
+		<date>2/17/2023</date>
+	</movie>
+	<movie>
+		<id>583</id>
+		<title>Shakes the Clown</title>
+		<genres>Comedy</genres>
+		<date>4/15/2022</date>
+	</movie>
+	<movie>
+		<id>584</id>
+		<title>Beauty Prize</title>
+		<genres>Drama</genres>
+		<date>3/7/2023</date>
+	</movie>
+	<movie>
+		<id>585</id>
+		<title>Aftermath: Population Zero</title>
+		<genres>Documentary|Sci-Fi</genres>
+		<date>6/29/2022</date>
+	</movie>
+	<movie>
+		<id>586</id>
+		<title>You're a Big Boy Now</title>
+		<genres>Comedy|Drama</genres>
+		<date>1/13/2024</date>
+	</movie>
+	<movie>
+		<id>587</id>
+		<title>Brave</title>
+		<genres>Action|Adventure|Animation|Children</genres>
+		<date>4/12/2023</date>
+	</movie>
+	<movie>
+		<id>588</id>
+		<title>My Boss's Daughter</title>
+		<genres>Comedy|Romance</genres>
+		<date>12/3/2023</date>
+	</movie>
+	<movie>
+		<id>589</id>
+		<title>Iceman Cometh, The</title>
+		<genres>Drama</genres>
+		<date>4/1/2022</date>
+	</movie>
+	<movie>
+		<id>590</id>
+		<title>Erasing David</title>
+		<genres>Documentary</genres>
+		<date>8/21/2023</date>
+	</movie>
+	<movie>
+		<id>591</id>
+		<title>Downloading Nancy</title>
+		<genres>Drama|Thriller</genres>
+		<date>3/1/2023</date>
+	</movie>
+	<movie>
+		<id>592</id>
+		<title>Final Analysis</title>
+		<genres>Drama|Romance|Thriller</genres>
+		<date>7/14/2022</date>
+	</movie>
+	<movie>
+		<id>593</id>
+		<title>Hannah Takes the Stairs</title>
+		<genres>Drama</genres>
+		<date>8/25/2022</date>
+	</movie>
+	<movie>
+		<id>594</id>
+		<title>Zone Troopers</title>
+		<genres>Action|Sci-Fi|War</genres>
+		<date>7/11/2022</date>
+	</movie>
+	<movie>
+		<id>595</id>
+		<title>Boogie Nights</title>
+		<genres>Drama</genres>
+		<date>7/22/2023</date>
+	</movie>
+	<movie>
+		<id>596</id>
+		<title>Glory Daze</title>
+		<genres>Drama</genres>
+		<date>3/17/2022</date>
+	</movie>
+	<movie>
+		<id>597</id>
+		<title>King of Ping Pong, The (Ping-pongkingen)</title>
+		<genres>Drama</genres>
+		<date>2/28/2023</date>
+	</movie>
+	<movie>
+		<id>598</id>
+		<title>The Princess Comes Across</title>
+		<genres>Comedy|Mystery|Romance|Thriller</genres>
+		<date>3/20/2022</date>
+	</movie>
+	<movie>
+		<id>599</id>
+		<title>Muppet Treasure Island</title>
+		<genres>Adventure|Children|Comedy|Musical</genres>
+		<date>5/29/2022</date>
+	</movie>
+	<movie>
+		<id>600</id>
+		<title>Tales of Hoffmann, The</title>
+		<genres>Adventure|Fantasy|Musical|Romance</genres>
+		<date>11/7/2022</date>
+	</movie>
+	<movie>
+		<id>601</id>
+		<title>Mask of Fu Manchu, The</title>
+		<genres>Adventure|Horror|Sci-Fi</genres>
+		<date>3/2/2022</date>
+	</movie>
+	<movie>
+		<id>602</id>
+		<title>Walking Tall</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>11/23/2023</date>
+	</movie>
+	<movie>
+		<id>603</id>
+		<title>Zapped Again!</title>
+		<genres>Comedy|Sci-Fi</genres>
+		<date>3/22/2024</date>
+	</movie>
+	<movie>
+		<id>604</id>
+		<title>Rumor Has It...</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>1/16/2023</date>
+	</movie>
+	<movie>
+		<id>605</id>
+		<title>Moth Diaries, The</title>
+		<genres>Thriller</genres>
+		<date>7/21/2023</date>
+	</movie>
+	<movie>
+		<id>606</id>
+		<title>White Squall</title>
+		<genres>Action|Adventure|Drama</genres>
+		<date>6/17/2022</date>
+	</movie>
+	<movie>
+		<id>607</id>
+		<title>Last Summer of La Boyita, The (El último verano de la Boyita)
+		</title>
+		<genres>Drama</genres>
+		<date>8/14/2022</date>
+	</movie>
+	<movie>
+		<id>608</id>
+		<title>Building the Inferno: Nobuo Nakagawa and the Making of 'Jigoku'
+		</title>
+		<genres>Documentary</genres>
+		<date>2/10/2024</date>
+	</movie>
+	<movie>
+		<id>609</id>
+		<title>Inner Life of Martin Frost, The</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/17/2022</date>
+	</movie>
+	<movie>
+		<id>610</id>
+		<title>Romanzo Criminale</title>
+		<genres>Crime|Drama</genres>
+		<date>8/2/2022</date>
+	</movie>
+	<movie>
+		<id>611</id>
+		<title>Henry &amp; June</title>
+		<genres>Drama</genres>
+		<date>12/24/2023</date>
+	</movie>
+	<movie>
+		<id>612</id>
+		<title>Man on High Heels</title>
+		<genres>Action|Comedy</genres>
+		<date>7/24/2022</date>
+	</movie>
+	<movie>
+		<id>613</id>
+		<title>Feast II: Sloppy Seconds</title>
+		<genres>Action|Comedy|Horror|Thriller</genres>
+		<date>8/22/2023</date>
+	</movie>
+	<movie>
+		<id>614</id>
+		<title>Bootmen</title>
+		<genres>Comedy|Drama</genres>
+		<date>7/28/2023</date>
+	</movie>
+	<movie>
+		<id>615</id>
+		<title>With a Friend Like Harry... (Harry, un ami qui vous veut du
+			bien)</title>
+		<genres>Drama|Thriller</genres>
+		<date>1/24/2024</date>
+	</movie>
+	<movie>
+		<id>616</id>
+		<title>Miss Farkku-Suomi</title>
+		<genres>Drama|Romance</genres>
+		<date>9/28/2023</date>
+	</movie>
+	<movie>
+		<id>617</id>
+		<title>Sand Pebbles, The</title>
+		<genres>Drama|Romance|War</genres>
+		<date>1/24/2023</date>
+	</movie>
+	<movie>
+		<id>618</id>
+		<title>Rock-afire Explosion, The</title>
+		<genres>Documentary</genres>
+		<date>6/19/2022</date>
+	</movie>
+	<movie>
+		<id>619</id>
+		<title>Wanda</title>
+		<genres>Drama</genres>
+		<date>10/10/2023</date>
+	</movie>
+	<movie>
+		<id>620</id>
+		<title>Dennis the Menace Christmas, A</title>
+		<genres>Comedy</genres>
+		<date>10/17/2022</date>
+	</movie>
+	<movie>
+		<id>621</id>
+		<title>Naked</title>
+		<genres>Comedy</genres>
+		<date>5/10/2023</date>
+	</movie>
+	<movie>
+		<id>622</id>
+		<title>God's Puzzle (Kamisama no pazuru)</title>
+		<genres>Drama|Sci-Fi</genres>
+		<date>3/18/2022</date>
+	</movie>
+	<movie>
+		<id>623</id>
+		<title>Wind Across the Everglades</title>
+		<genres>Drama|Romance</genres>
+		<date>9/6/2022</date>
+	</movie>
+	<movie>
+		<id>624</id>
+		<title>Midnight Crossing</title>
+		<genres>Mystery|Thriller</genres>
+		<date>11/12/2022</date>
+	</movie>
+	<movie>
+		<id>625</id>
+		<title>Desk Set</title>
+		<genres>Comedy|Romance</genres>
+		<date>8/7/2023</date>
+	</movie>
+	<movie>
+		<id>626</id>
+		<title>Hood of Horror</title>
+		<genres>Comedy|Drama|Horror</genres>
+		<date>9/23/2023</date>
+	</movie>
+	<movie>
+		<id>627</id>
+		<title>Sunshine Cleaning</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/30/2022</date>
+	</movie>
+	<movie>
+		<id>628</id>
+		<title>Godzilla, Mothra, and King Ghidorah: Giant Monsters All-Out
+			Attack (Gojira, Mosura, Kingu Gidorâ: Daikaijû sôkôgeki) (Godzilla,
+			Mothra and King Ghidorah: Giant Monsters All-Out Attack)</title>
+		<genres>Action|Fantasy|Sci-Fi</genres>
+		<date>4/1/2023</date>
+	</movie>
+	<movie>
+		<id>629</id>
+		<title>Panda! Go Panda! (Panda kopanda)</title>
+		<genres>Animation|Children</genres>
+		<date>1/17/2024</date>
+	</movie>
+	<movie>
+		<id>630</id>
+		<title>Fiancee, The (Parineeta)</title>
+		<genres>Drama</genres>
+		<date>8/27/2022</date>
+	</movie>
+	<movie>
+		<id>631</id>
+		<title>In the Good Old Summertime</title>
+		<genres>Musical</genres>
+		<date>5/29/2022</date>
+	</movie>
+	<movie>
+		<id>632</id>
+		<title>Millions Game, The (Das Millionenspiel)</title>
+		<genres>Action|Drama|Sci-Fi|Thriller</genres>
+		<date>3/6/2024</date>
+	</movie>
+	<movie>
+		<id>633</id>
+		<title>Oliver!</title>
+		<genres>Drama|Musical</genres>
+		<date>5/4/2023</date>
+	</movie>
+	<movie>
+		<id>634</id>
+		<title>Lucky Texan, The</title>
+		<genres>Romance|Western</genres>
+		<date>4/2/2022</date>
+	</movie>
+	<movie>
+		<id>635</id>
+		<title>Mission Congo</title>
+		<genres>Documentary</genres>
+		<date>2/11/2023</date>
+	</movie>
+	<movie>
+		<id>636</id>
+		<title>Portraits Chinois</title>
+		<genres>Drama</genres>
+		<date>10/7/2022</date>
+	</movie>
+	<movie>
+		<id>637</id>
+		<title>Stolen</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>12/5/2022</date>
+	</movie>
+	<movie>
+		<id>638</id>
+		<title>Hello Ladies: The Movie</title>
+		<genres>Comedy</genres>
+		<date>3/28/2023</date>
+	</movie>
+	<movie>
+		<id>639</id>
+		<title>WUSA</title>
+		<genres>Drama</genres>
+		<date>3/12/2023</date>
+	</movie>
+	<movie>
+		<id>640</id>
+		<title>I Know That Voice</title>
+		<genres>Documentary</genres>
+		<date>9/5/2022</date>
+	</movie>
+	<movie>
+		<id>641</id>
+		<title>Wild Thornberrys Movie, The</title>
+		<genres>Animation|Children|Comedy</genres>
+		<date>6/3/2022</date>
+	</movie>
+	<movie>
+		<id>642</id>
+		<title>Crime at Porta Romana</title>
+		<genres>Comedy|Crime</genres>
+		<date>3/3/2024</date>
+	</movie>
+	<movie>
+		<id>643</id>
+		<title>Don't Look Back</title>
+		<genres>Documentary|Musical</genres>
+		<date>6/6/2022</date>
+	</movie>
+	<movie>
+		<id>644</id>
+		<title>Take the Trash</title>
+		<genres>Comedy</genres>
+		<date>10/29/2023</date>
+	</movie>
+	<movie>
+		<id>645</id>
+		<title>Open Windows</title>
+		<genres>Crime|Thriller</genres>
+		<date>8/23/2022</date>
+	</movie>
+	<movie>
+		<id>646</id>
+		<title>Pathology</title>
+		<genres>Crime|Horror|Thriller</genres>
+		<date>12/21/2023</date>
+	</movie>
+	<movie>
+		<id>647</id>
+		<title>Hey Ram</title>
+		<genres>Drama</genres>
+		<date>3/20/2022</date>
+	</movie>
+	<movie>
+		<id>648</id>
+		<title>Broken Lance</title>
+		<genres>Drama|Romance|Western</genres>
+		<date>1/24/2024</date>
+	</movie>
+	<movie>
+		<id>649</id>
+		<title>Train, The</title>
+		<genres>Action|Thriller|War</genres>
+		<date>6/28/2022</date>
+	</movie>
+	<movie>
+		<id>650</id>
+		<title>In Praise of Love (Éloge de l'amour)</title>
+		<genres>Drama</genres>
+		<date>1/22/2023</date>
+	</movie>
+	<movie>
+		<id>651</id>
+		<title>In Tranzit</title>
+		<genres>Drama|War</genres>
+		<date>7/28/2022</date>
+	</movie>
+	<movie>
+		<id>652</id>
+		<title>Tiger from Tjampa, The (Harimau Tjampa)</title>
+		<genres>Drama</genres>
+		<date>3/19/2023</date>
+	</movie>
+	<movie>
+		<id>653</id>
+		<title>Middle of Nowhere</title>
+		<genres>Comedy|Drama</genres>
+		<date>1/11/2024</date>
+	</movie>
+	<movie>
+		<id>654</id>
+		<title>Face in the Crowd, A</title>
+		<genres>Drama</genres>
+		<date>3/24/2023</date>
+	</movie>
+	<movie>
+		<id>655</id>
+		<title>Change-Up, The</title>
+		<genres>Comedy</genres>
+		<date>12/2/2023</date>
+	</movie>
+	<movie>
+		<id>656</id>
+		<title>Aberdeen</title>
+		<genres>Drama</genres>
+		<date>9/5/2023</date>
+	</movie>
+	<movie>
+		<id>657</id>
+		<title>Anthropophagus: The Grim Reaper (Antropophagus) (Man Beast)
+			(Savage Island, The) (Zombie's Rage, The)</title>
+		<genres>Horror</genres>
+		<date>12/8/2023</date>
+	</movie>
+	<movie>
+		<id>658</id>
+		<title>Iceman, The</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>12/3/2023</date>
+	</movie>
+	<movie>
+		<id>659</id>
+		<title>So Ends Our Night</title>
+		<genres>Drama|War</genres>
+		<date>2/16/2024</date>
+	</movie>
+	<movie>
+		<id>660</id>
+		<title>Earth vs. the Flying Saucers</title>
+		<genres>Sci-Fi</genres>
+		<date>3/1/2023</date>
+	</movie>
+	<movie>
+		<id>661</id>
+		<title>Foolish Wives</title>
+		<genres>Drama</genres>
+		<date>1/18/2023</date>
+	</movie>
+	<movie>
+		<id>662</id>
+		<title>Career Opportunities</title>
+		<genres>Comedy|Romance</genres>
+		<date>4/7/2023</date>
+	</movie>
+	<movie>
+		<id>663</id>
+		<title>Infection (Kansen)</title>
+		<genres>Drama|Horror</genres>
+		<date>4/28/2022</date>
+	</movie>
+	<movie>
+		<id>664</id>
+		<title>Bourne Supremacy, The</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>12/10/2023</date>
+	</movie>
+	<movie>
+		<id>665</id>
+		<title>Laffghanistan: Comedy Down Range</title>
+		<genres>Comedy|Documentary|War</genres>
+		<date>6/4/2023</date>
+	</movie>
+	<movie>
+		<id>666</id>
+		<title>Fantasy Mission Force (Mi ni te gong dui)</title>
+		<genres>Action|Adventure|Comedy|Crime|Thriller|War</genres>
+		<date>7/7/2022</date>
+	</movie>
+	<movie>
+		<id>667</id>
+		<title>Long Gray Line, The</title>
+		<genres>Drama</genres>
+		<date>2/10/2023</date>
+	</movie>
+	<movie>
+		<id>668</id>
+		<title>Grouse</title>
+		<genres>Comedy</genres>
+		<date>12/3/2023</date>
+	</movie>
+	<movie>
+		<id>669</id>
+		<title>Süperseks</title>
+		<genres>Comedy</genres>
+		<date>12/25/2022</date>
+	</movie>
+	<movie>
+		<id>670</id>
+		<title>Caddy, The</title>
+		<genres>Comedy|Musical</genres>
+		<date>9/2/2022</date>
+	</movie>
+	<movie>
+		<id>671</id>
+		<title>Into the Middle of Nowhere</title>
+		<genres>Adventure|Children|Comedy|Documentary|Drama</genres>
+		<date>7/29/2023</date>
+	</movie>
+	<movie>
+		<id>672</id>
+		<title>Bless Me, Ultima</title>
+		<genres>Drama|War</genres>
+		<date>4/20/2023</date>
+	</movie>
+	<movie>
+		<id>673</id>
+		<title>Human Behavior Experiments, The</title>
+		<genres>Documentary</genres>
+		<date>12/23/2022</date>
+	</movie>
+	<movie>
+		<id>674</id>
+		<title>Hercules</title>
+		<genres>Adventure|Animation|Children|Comedy|Musical</genres>
+		<date>1/21/2023</date>
+	</movie>
+	<movie>
+		<id>675</id>
+		<title>Miami Rhapsody</title>
+		<genres>Comedy</genres>
+		<date>12/13/2022</date>
+	</movie>
+	<movie>
+		<id>676</id>
+		<title>Gigot</title>
+		<genres>Comedy</genres>
+		<date>1/16/2024</date>
+	</movie>
+	<movie>
+		<id>677</id>
+		<title>Safety Patrol</title>
+		<genres>(no genres listed)</genres>
+		<date>7/10/2022</date>
+	</movie>
+	<movie>
+		<id>678</id>
+		<title>Por un puñado de besos</title>
+		<genres>Drama|Romance</genres>
+		<date>8/8/2022</date>
+	</movie>
+	<movie>
+		<id>679</id>
+		<title>Shall We Kiss? (Un baiser s'il vous plait)</title>
+		<genres>Comedy|Romance</genres>
+		<date>10/22/2022</date>
+	</movie>
+	<movie>
+		<id>680</id>
+		<title>Safety of Objects, The</title>
+		<genres>Drama</genres>
+		<date>9/16/2022</date>
+	</movie>
+	<movie>
+		<id>681</id>
+		<title>Godzilla 2000 (Gojira ni-sen mireniamu)</title>
+		<genres>Action|Adventure|Sci-Fi</genres>
+		<date>4/3/2023</date>
+	</movie>
+	<movie>
+		<id>682</id>
+		<title>Boys from Fengkuei, The (Feng gui lai de ren)</title>
+		<genres>Drama</genres>
+		<date>5/29/2022</date>
+	</movie>
+	<movie>
+		<id>683</id>
+		<title>Métisse (Café au Lait)</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/26/2022</date>
+	</movie>
+	<movie>
+		<id>684</id>
+		<title>Visual Acoustics</title>
+		<genres>Documentary</genres>
+		<date>5/10/2023</date>
+	</movie>
+	<movie>
+		<id>685</id>
+		<title>Pretty Woman</title>
+		<genres>Comedy|Romance</genres>
+		<date>4/16/2024</date>
+	</movie>
+	<movie>
+		<id>686</id>
+		<title>Prophecy</title>
+		<genres>Horror|Sci-Fi</genres>
+		<date>5/4/2022</date>
+	</movie>
+	<movie>
+		<id>687</id>
+		<title>Sweet Land</title>
+		<genres>Drama|Romance</genres>
+		<date>3/28/2023</date>
+	</movie>
+	<movie>
+		<id>688</id>
+		<title>Armour of God (Long xiong hu di)</title>
+		<genres>Action|Adventure|Comedy</genres>
+		<date>6/7/2023</date>
+	</movie>
+	<movie>
+		<id>689</id>
+		<title>Surf Ninjas</title>
+		<genres>Comedy</genres>
+		<date>6/29/2022</date>
+	</movie>
+	<movie>
+		<id>690</id>
+		<title>Rear Window</title>
+		<genres>Mystery|Thriller</genres>
+		<date>2/29/2024</date>
+	</movie>
+	<movie>
+		<id>691</id>
+		<title>Ambulance, The</title>
+		<genres>Thriller</genres>
+		<date>5/31/2022</date>
+	</movie>
+	<movie>
+		<id>692</id>
+		<title>Three (a.k.a. 3)</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>3/20/2023</date>
+	</movie>
+	<movie>
+		<id>693</id>
+		<title>Jungle Book 2, The</title>
+		<genres>Animation|Children</genres>
+		<date>5/2/2022</date>
+	</movie>
+	<movie>
+		<id>694</id>
+		<title>Tenth Man, The</title>
+		<genres>Drama|War</genres>
+		<date>7/27/2022</date>
+	</movie>
+	<movie>
+		<id>695</id>
+		<title>Beer Wars</title>
+		<genres>Documentary</genres>
+		<date>3/5/2022</date>
+	</movie>
+	<movie>
+		<id>696</id>
+		<title>And the Band Played On</title>
+		<genres>Drama</genres>
+		<date>1/4/2023</date>
+	</movie>
+	<movie>
+		<id>697</id>
+		<title>Little Fauss and Big Halsy</title>
+		<genres>Drama</genres>
+		<date>2/11/2023</date>
+	</movie>
+	<movie>
+		<id>698</id>
+		<title>Jet Lag (Décalage horaire)</title>
+		<genres>Comedy|Romance</genres>
+		<date>10/6/2022</date>
+	</movie>
+	<movie>
+		<id>699</id>
+		<title>Pépé le Moko</title>
+		<genres>Crime|Drama|Romance</genres>
+		<date>3/6/2022</date>
+	</movie>
+	<movie>
+		<id>700</id>
+		<title>High Noon</title>
+		<genres>Drama|Western</genres>
+		<date>3/23/2022</date>
+	</movie>
+	<movie>
+		<id>701</id>
+		<title>Love's Deadly Triangle: The Texas Cadet Murder</title>
+		<genres>Drama</genres>
+		<date>9/6/2023</date>
+	</movie>
+	<movie>
+		<id>702</id>
+		<title>Colonel Chabert, Le</title>
+		<genres>Drama|Romance|War</genres>
+		<date>3/15/2023</date>
+	</movie>
+	<movie>
+		<id>703</id>
+		<title>First Man Into Space</title>
+		<genres>Drama|Horror|Sci-Fi</genres>
+		<date>2/26/2023</date>
+	</movie>
+	<movie>
+		<id>704</id>
+		<title>Valley of Head Hunters</title>
+		<genres>Adventure</genres>
+		<date>12/3/2022</date>
+	</movie>
+	<movie>
+		<id>705</id>
+		<title>Batman</title>
+		<genres>Action|Adventure|Comedy</genres>
+		<date>1/27/2024</date>
+	</movie>
+	<movie>
+		<id>706</id>
+		<title>Elvis on Tour</title>
+		<genres>Documentary|Musical</genres>
+		<date>10/26/2023</date>
+	</movie>
+	<movie>
+		<id>707</id>
+		<title>Brady Bunch Movie, The</title>
+		<genres>Comedy</genres>
+		<date>12/11/2022</date>
+	</movie>
+	<movie>
+		<id>708</id>
+		<title>Wadd: The Life &amp; Times of John C. Holmes</title>
+		<genres>Documentary</genres>
+		<date>11/7/2022</date>
+	</movie>
+	<movie>
+		<id>709</id>
+		<title>Happy New Year (La Bonne Année)</title>
+		<genres>Comedy|Crime|Drama</genres>
+		<date>9/1/2022</date>
+	</movie>
+	<movie>
+		<id>710</id>
+		<title>Kill Bill: Vol. 1</title>
+		<genres>Action|Crime|Thriller</genres>
+		<date>8/15/2022</date>
+	</movie>
+	<movie>
+		<id>711</id>
+		<title>Scarlet Clue, The (Charlie Chan in the Scarlet Clue)</title>
+		<genres>Comedy|Crime|Mystery</genres>
+		<date>8/16/2022</date>
+	</movie>
+	<movie>
+		<id>712</id>
+		<title>Flatliners</title>
+		<genres>Horror|Sci-Fi|Thriller</genres>
+		<date>1/21/2024</date>
+	</movie>
+	<movie>
+		<id>713</id>
+		<title>My Sons (Musuko)</title>
+		<genres>Comedy|Romance</genres>
+		<date>7/16/2023</date>
+	</movie>
+	<movie>
+		<id>714</id>
+		<title>Libel</title>
+		<genres>Drama</genres>
+		<date>1/21/2023</date>
+	</movie>
+	<movie>
+		<id>715</id>
+		<title>Good Night, The</title>
+		<genres>Comedy|Drama|Fantasy|Musical|Romance</genres>
+		<date>1/29/2024</date>
+	</movie>
+	<movie>
+		<id>716</id>
+		<title>Something the Lord Made</title>
+		<genres>Drama</genres>
+		<date>10/30/2023</date>
+	</movie>
+	<movie>
+		<id>717</id>
+		<title>A Chinese in a Coma</title>
+		<genres>Comedy</genres>
+		<date>12/16/2022</date>
+	</movie>
+	<movie>
+		<id>718</id>
+		<title>Eden of the East the Movie II: Paradise Lost (Higashi no Eden
+			Gekijôban II: Paradise Lost)</title>
+		<genres>Animation|Crime|Mystery|Sci-Fi|Thriller</genres>
+		<date>2/24/2023</date>
+	</movie>
+	<movie>
+		<id>719</id>
+		<title>Ladies and Gentlemen, the Fabulous Stains (a.k.a. All Washed
+			Up)</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/2/2023</date>
+	</movie>
+	<movie>
+		<id>720</id>
+		<title>13</title>
+		<genres>Thriller</genres>
+		<date>10/13/2022</date>
+	</movie>
+	<movie>
+		<id>721</id>
+		<title>High and Dizzy</title>
+		<genres>Comedy</genres>
+		<date>8/5/2022</date>
+	</movie>
+	<movie>
+		<id>722</id>
+		<title>Abbott and Costello Meet the Keystone Kops</title>
+		<genres>Comedy</genres>
+		<date>9/20/2023</date>
+	</movie>
+	<movie>
+		<id>723</id>
+		<title>Rendezvous in Paris (Rendez-vous de Paris, Les)</title>
+		<genres>Comedy|Romance</genres>
+		<date>9/15/2022</date>
+	</movie>
+	<movie>
+		<id>724</id>
+		<title>Devils on the Doorstep (Guizi lai le)</title>
+		<genres>Drama|War</genres>
+		<date>10/15/2023</date>
+	</movie>
+	<movie>
+		<id>725</id>
+		<title>Blood River</title>
+		<genres>Horror|Thriller|Western</genres>
+		<date>11/27/2023</date>
+	</movie>
+	<movie>
+		<id>726</id>
+		<title>Budd Boetticher: A Man Can Do That</title>
+		<genres>Documentary</genres>
+		<date>5/19/2022</date>
+	</movie>
+	<movie>
+		<id>727</id>
+		<title>New Scenes from America</title>
+		<genres>Documentary</genres>
+		<date>6/22/2022</date>
+	</movie>
+	<movie>
+		<id>728</id>
+		<title>Man's Best Friend</title>
+		<genres>Horror|Sci-Fi|Thriller</genres>
+		<date>10/14/2022</date>
+	</movie>
+	<movie>
+		<id>729</id>
+		<title>Cube of Sugar, A (Ye Habe Ghand)</title>
+		<genres>Comedy|Drama</genres>
+		<date>3/30/2024</date>
+	</movie>
+	<movie>
+		<id>730</id>
+		<title>Every Which Way But Loose</title>
+		<genres>Comedy</genres>
+		<date>7/18/2022</date>
+	</movie>
+	<movie>
+		<id>731</id>
+		<title>Taken 2</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>3/7/2023</date>
+	</movie>
+	<movie>
+		<id>732</id>
+		<title>Moonlight Murder</title>
+		<genres>Mystery</genres>
+		<date>8/29/2023</date>
+	</movie>
+	<movie>
+		<id>733</id>
+		<title>Guadalcanal Diary</title>
+		<genres>Action|War</genres>
+		<date>3/25/2024</date>
+	</movie>
+	<movie>
+		<id>734</id>
+		<title>Lovers on the Bridge, The (Amants du Pont-Neuf, Les)</title>
+		<genres>Drama|Romance</genres>
+		<date>9/24/2023</date>
+	</movie>
+	<movie>
+		<id>735</id>
+		<title>36 Quai des Orfèvres (Department 36)</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>4/4/2024</date>
+	</movie>
+	<movie>
+		<id>736</id>
+		<title>Twice Upon a Yesterday (a.k.a. Man with Rain in His Shoes, The)
+		</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>6/20/2023</date>
+	</movie>
+	<movie>
+		<id>737</id>
+		<title>Baader Meinhof Komplex, Der</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>8/13/2022</date>
+	</movie>
+	<movie>
+		<id>738</id>
+		<title>Protocol</title>
+		<genres>Comedy</genres>
+		<date>5/24/2023</date>
+	</movie>
+	<movie>
+		<id>739</id>
+		<title>Very Harold &amp; Kumar 3D Christmas, A</title>
+		<genres>Comedy</genres>
+		<date>4/3/2024</date>
+	</movie>
+	<movie>
+		<id>740</id>
+		<title>How to Make a Monster</title>
+		<genres>Horror|Sci-Fi</genres>
+		<date>11/5/2022</date>
+	</movie>
+	<movie>
+		<id>741</id>
+		<title>Reckoning, The</title>
+		<genres>Crime|Drama</genres>
+		<date>3/13/2022</date>
+	</movie>
+	<movie>
+		<id>742</id>
+		<title>Groove Tube, The</title>
+		<genres>Comedy</genres>
+		<date>9/14/2022</date>
+	</movie>
+	<movie>
+		<id>743</id>
+		<title>Incredibles, The</title>
+		<genres>Action|Adventure|Animation|Children|Comedy</genres>
+		<date>6/21/2022</date>
+	</movie>
+	<movie>
+		<id>744</id>
+		<title>Deep Sea 3D</title>
+		<genres>Documentary|IMAX</genres>
+		<date>5/28/2022</date>
+	</movie>
+	<movie>
+		<id>745</id>
+		<title>God Who Wasn't There, The</title>
+		<genres>Documentary</genres>
+		<date>12/26/2023</date>
+	</movie>
+	<movie>
+		<id>746</id>
+		<title>Way... Way Out</title>
+		<genres>Comedy|Sci-Fi</genres>
+		<date>5/26/2023</date>
+	</movie>
+	<movie>
+		<id>747</id>
+		<title>I Stand Alone (Seul contre tous)</title>
+		<genres>Drama|Thriller</genres>
+		<date>1/2/2024</date>
+	</movie>
+	<movie>
+		<id>748</id>
+		<title>This Means War</title>
+		<genres>Action|Comedy|Romance</genres>
+		<date>3/5/2022</date>
+	</movie>
+	<movie>
+		<id>749</id>
+		<title>Collateral Damage</title>
+		<genres>Action|Thriller</genres>
+		<date>12/25/2023</date>
+	</movie>
+	<movie>
+		<id>750</id>
+		<title>Summertime</title>
+		<genres>Comedy</genres>
+		<date>12/18/2022</date>
+	</movie>
+	<movie>
+		<id>751</id>
+		<title>Santa Sangre</title>
+		<genres>Drama|Horror|Mystery|Thriller</genres>
+		<date>10/6/2023</date>
+	</movie>
+	<movie>
+		<id>752</id>
+		<title>Rigoletto</title>
+		<genres>Drama</genres>
+		<date>4/6/2024</date>
+	</movie>
+	<movie>
+		<id>753</id>
+		<title>Contact</title>
+		<genres>Drama|Sci-Fi</genres>
+		<date>2/13/2023</date>
+	</movie>
+	<movie>
+		<id>754</id>
+		<title>Face to Face (Faccia a faccia)</title>
+		<genres>Adventure|Western</genres>
+		<date>5/3/2023</date>
+	</movie>
+	<movie>
+		<id>755</id>
+		<title>Dylan Moran Live: What It Is</title>
+		<genres>Comedy</genres>
+		<date>5/9/2022</date>
+	</movie>
+	<movie>
+		<id>756</id>
+		<title>Rocky Balboa</title>
+		<genres>Action|Drama</genres>
+		<date>8/27/2023</date>
+	</movie>
+	<movie>
+		<id>757</id>
+		<title>Late Show, The</title>
+		<genres>Comedy|Crime|Drama|Mystery</genres>
+		<date>2/13/2024</date>
+	</movie>
+	<movie>
+		<id>758</id>
+		<title>The Kick</title>
+		<genres>Action</genres>
+		<date>2/3/2023</date>
+	</movie>
+	<movie>
+		<id>759</id>
+		<title>Zathura</title>
+		<genres>Action|Adventure|Children|Fantasy</genres>
+		<date>6/9/2022</date>
+	</movie>
+	<movie>
+		<id>760</id>
+		<title>Violet &amp; Daisy</title>
+		<genres>Action|Drama</genres>
+		<date>12/17/2022</date>
+	</movie>
+	<movie>
+		<id>761</id>
+		<title>German Doctor, The (Wakolda)</title>
+		<genres>Drama|Thriller</genres>
+		<date>6/15/2023</date>
+	</movie>
+	<movie>
+		<id>762</id>
+		<title>Satan's Tango (Sátántangó)</title>
+		<genres>Drama</genres>
+		<date>12/21/2022</date>
+	</movie>
+	<movie>
+		<id>763</id>
+		<title>Mahogany</title>
+		<genres>Drama|Romance</genres>
+		<date>12/29/2023</date>
+	</movie>
+	<movie>
+		<id>764</id>
+		<title>Prisoners of the Lost Universe</title>
+		<genres>Action|Adventure|Sci-Fi</genres>
+		<date>4/7/2024</date>
+	</movie>
+	<movie>
+		<id>765</id>
+		<title>Roots</title>
+		<genres>Drama|War</genres>
+		<date>12/22/2023</date>
+	</movie>
+	<movie>
+		<id>766</id>
+		<title>Ugly American, The</title>
+		<genres>Drama</genres>
+		<date>2/3/2024</date>
+	</movie>
+	<movie>
+		<id>767</id>
+		<title>Man Who Wasn't There, The</title>
+		<genres>Crime|Drama</genres>
+		<date>3/27/2022</date>
+	</movie>
+	<movie>
+		<id>768</id>
+		<title>Lost for Life</title>
+		<genres>Crime|Documentary</genres>
+		<date>5/30/2022</date>
+	</movie>
+	<movie>
+		<id>769</id>
+		<title>Hunters, The (Jägarna)</title>
+		<genres>Crime|Thriller</genres>
+		<date>3/17/2022</date>
+	</movie>
+	<movie>
+		<id>770</id>
+		<title>Bottom of the Sea, The (El fondo del mar)</title>
+		<genres>Drama|Thriller</genres>
+		<date>11/13/2022</date>
+	</movie>
+	<movie>
+		<id>771</id>
+		<title>Charlie Chan's Courage</title>
+		<genres>Mystery</genres>
+		<date>4/17/2023</date>
+	</movie>
+	<movie>
+		<id>772</id>
+		<title>Rollerball</title>
+		<genres>Action|Sci-Fi</genres>
+		<date>4/8/2022</date>
+	</movie>
+	<movie>
+		<id>773</id>
+		<title>Eye, The</title>
+		<genres>Drama|Horror|Thriller</genres>
+		<date>5/25/2023</date>
+	</movie>
+	<movie>
+		<id>774</id>
+		<title>Haunted World of El Superbeasto, The</title>
+		<genres>Action|Animation|Comedy|Horror|Thriller</genres>
+		<date>1/4/2023</date>
+	</movie>
+	<movie>
+		<id>775</id>
+		<title>13 Sins</title>
+		<genres>Horror|Thriller</genres>
+		<date>10/16/2023</date>
+	</movie>
+	<movie>
+		<id>776</id>
+		<title>Deep, The</title>
+		<genres>Adventure|Horror|Mystery|Thriller</genres>
+		<date>10/15/2022</date>
+	</movie>
+	<movie>
+		<id>777</id>
+		<title>I Got the Hook Up</title>
+		<genres>Comedy</genres>
+		<date>2/13/2023</date>
+	</movie>
+	<movie>
+		<id>778</id>
+		<title>Twelve Chairs, The</title>
+		<genres>Comedy</genres>
+		<date>1/4/2023</date>
+	</movie>
+	<movie>
+		<id>779</id>
+		<title>Rio Grande</title>
+		<genres>Romance|Western</genres>
+		<date>1/25/2024</date>
+	</movie>
+	<movie>
+		<id>780</id>
+		<title>Absolute Power</title>
+		<genres>Mystery|Thriller</genres>
+		<date>8/14/2022</date>
+	</movie>
+	<movie>
+		<id>781</id>
+		<title>Rushmore</title>
+		<genres>Comedy|Drama</genres>
+		<date>12/28/2022</date>
+	</movie>
+	<movie>
+		<id>782</id>
+		<title>Crane World (Mundo grúa)</title>
+		<genres>Comedy|Drama</genres>
+		<date>10/15/2022</date>
+	</movie>
+	<movie>
+		<id>783</id>
+		<title>Guerrilla: The Taking of Patty Hearst</title>
+		<genres>Documentary</genres>
+		<date>8/10/2023</date>
+	</movie>
+	<movie>
+		<id>784</id>
+		<title>Barefoot in the Park</title>
+		<genres>Comedy</genres>
+		<date>4/8/2024</date>
+	</movie>
+	<movie>
+		<id>785</id>
+		<title>Bungee Jumping of Their Own (Beonjijeompeureul hada)</title>
+		<genres>Drama|Romance</genres>
+		<date>6/14/2023</date>
+	</movie>
+	<movie>
+		<id>786</id>
+		<title>Not Fade Away</title>
+		<genres>Drama</genres>
+		<date>3/14/2024</date>
+	</movie>
+	<movie>
+		<id>787</id>
+		<title>Prestige, The</title>
+		<genres>Drama|Mystery|Sci-Fi|Thriller</genres>
+		<date>7/6/2023</date>
+	</movie>
+	<movie>
+		<id>788</id>
+		<title>Ghosts... of the Civil Dead</title>
+		<genres>Crime|Drama</genres>
+		<date>6/26/2022</date>
+	</movie>
+	<movie>
+		<id>789</id>
+		<title>Boys: The Sherman Brothers' Story, The</title>
+		<genres>Documentary</genres>
+		<date>10/1/2022</date>
+	</movie>
+	<movie>
+		<id>790</id>
+		<title>Paris-Manhattan</title>
+		<genres>Comedy|Romance</genres>
+		<date>3/22/2024</date>
+	</movie>
+	<movie>
+		<id>791</id>
+		<title>Forever Young</title>
+		<genres>Drama|Romance|Sci-Fi</genres>
+		<date>6/13/2022</date>
+	</movie>
+	<movie>
+		<id>792</id>
+		<title>Gimme the Loot</title>
+		<genres>Drama</genres>
+		<date>2/18/2023</date>
+	</movie>
+	<movie>
+		<id>793</id>
+		<title>Love Stinks</title>
+		<genres>Comedy</genres>
+		<date>10/4/2023</date>
+	</movie>
+	<movie>
+		<id>794</id>
+		<title>Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside
+			the Coup)</title>
+		<genres>Documentary</genres>
+		<date>3/18/2023</date>
+	</movie>
+	<movie>
+		<id>795</id>
+		<title>Attack Force</title>
+		<genres>Action|Horror|Sci-Fi</genres>
+		<date>1/4/2024</date>
+	</movie>
+	<movie>
+		<id>796</id>
+		<title>Sunrise: A Song of Two Humans</title>
+		<genres>Drama|Romance</genres>
+		<date>3/7/2024</date>
+	</movie>
+	<movie>
+		<id>797</id>
+		<title>Hammer, The</title>
+		<genres>Comedy</genres>
+		<date>10/3/2022</date>
+	</movie>
+	<movie>
+		<id>798</id>
+		<title>Sybil</title>
+		<genres>Drama</genres>
+		<date>11/28/2023</date>
+	</movie>
+	<movie>
+		<id>799</id>
+		<title>Pine Flat</title>
+		<genres>Drama</genres>
+		<date>2/4/2024</date>
+	</movie>
+	<movie>
+		<id>800</id>
+		<title>Tears of Steel</title>
+		<genres>Sci-Fi</genres>
+		<date>7/16/2023</date>
+	</movie>
+	<movie>
+		<id>801</id>
+		<title>Intimate Relations</title>
+		<genres>Comedy</genres>
+		<date>11/12/2023</date>
+	</movie>
+	<movie>
+		<id>802</id>
+		<title>Ring, The</title>
+		<genres>Drama</genres>
+		<date>5/5/2022</date>
+	</movie>
+	<movie>
+		<id>803</id>
+		<title>Great Mouse Detective, The</title>
+		<genres>Action|Animation|Children|Crime</genres>
+		<date>2/1/2023</date>
+	</movie>
+	<movie>
+		<id>804</id>
+		<title>Under Suspicion</title>
+		<genres>Crime|Thriller</genres>
+		<date>1/17/2023</date>
+	</movie>
+	<movie>
+		<id>805</id>
+		<title>Scoop</title>
+		<genres>Comedy|Fantasy|Mystery</genres>
+		<date>9/9/2022</date>
+	</movie>
+	<movie>
+		<id>806</id>
+		<title>Jo Pour Jonathan</title>
+		<genres>Drama</genres>
+		<date>3/7/2022</date>
+	</movie>
+	<movie>
+		<id>807</id>
+		<title>Outside Providence</title>
+		<genres>Comedy</genres>
+		<date>11/29/2022</date>
+	</movie>
+	<movie>
+		<id>808</id>
+		<title>Lips of Blood (Lèvres de sang)</title>
+		<genres>Horror</genres>
+		<date>4/28/2022</date>
+	</movie>
+	<movie>
+		<id>809</id>
+		<title>Survive Style 5+</title>
+		<genres>Fantasy|Mystery|Romance|Thriller</genres>
+		<date>3/16/2024</date>
+	</movie>
+	<movie>
+		<id>810</id>
+		<title>Pit and the Pendulum, The</title>
+		<genres>Horror</genres>
+		<date>3/31/2024</date>
+	</movie>
+	<movie>
+		<id>811</id>
+		<title>Monster's Ball</title>
+		<genres>Drama|Romance</genres>
+		<date>2/1/2023</date>
+	</movie>
+	<movie>
+		<id>812</id>
+		<title>Sex Drive</title>
+		<genres>Comedy</genres>
+		<date>1/28/2024</date>
+	</movie>
+	<movie>
+		<id>813</id>
+		<title>RiP: A Remix Manifesto</title>
+		<genres>Documentary</genres>
+		<date>12/25/2022</date>
+	</movie>
+	<movie>
+		<id>814</id>
+		<title>Brother, Can You Spare a Dime?</title>
+		<genres>Documentary</genres>
+		<date>6/4/2022</date>
+	</movie>
+	<movie>
+		<id>815</id>
+		<title>Peck on the Cheek, A (Kannathil Muthamittal)</title>
+		<genres>Drama|War</genres>
+		<date>8/13/2023</date>
+	</movie>
+	<movie>
+		<id>816</id>
+		<title>Manos: The Hands of Fate</title>
+		<genres>Horror</genres>
+		<date>2/29/2024</date>
+	</movie>
+	<movie>
+		<id>817</id>
+		<title>Waterworld</title>
+		<genres>Action|Adventure|Sci-Fi</genres>
+		<date>10/8/2022</date>
+	</movie>
+	<movie>
+		<id>818</id>
+		<title>Kitchen Stories (Salmer fra kjøkkenet)</title>
+		<genres>Comedy|Drama</genres>
+		<date>6/7/2022</date>
+	</movie>
+	<movie>
+		<id>819</id>
+		<title>Spare Bed-Room</title>
+		<genres>(no genres listed)</genres>
+		<date>3/16/2024</date>
+	</movie>
+	<movie>
+		<id>820</id>
+		<title>Invisible Man, The</title>
+		<genres>Horror|Sci-Fi</genres>
+		<date>3/27/2022</date>
+	</movie>
+	<movie>
+		<id>821</id>
+		<title>They Live</title>
+		<genres>Action|Sci-Fi|Thriller</genres>
+		<date>9/17/2023</date>
+	</movie>
+	<movie>
+		<id>822</id>
+		<title>Sweet Bunch (Glykia symmoria)</title>
+		<genres>Crime|Drama|Thriller</genres>
+		<date>4/25/2023</date>
+	</movie>
+	<movie>
+		<id>823</id>
+		<title>Thérèse</title>
+		<genres>Drama</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>824</id>
+		<title>Under the Skin of the City (Zir-e-poost-e Shahr)</title>
+		<genres>Drama</genres>
+		<date>11/16/2023</date>
+	</movie>
+	<movie>
+		<id>825</id>
+		<title>Robot Stories</title>
+		<genres>Drama|Sci-Fi</genres>
+		<date>3/20/2024</date>
+	</movie>
+	<movie>
+		<id>826</id>
+		<title>Tartuffe (Herr Tartüff)</title>
+		<genres>Drama</genres>
+		<date>5/30/2022</date>
+	</movie>
+	<movie>
+		<id>827</id>
+		<title>Fragile Trust: Plagiarism, Power, and Jayson Blair at the New
+			York Times, A</title>
+		<genres>Documentary</genres>
+		<date>4/21/2022</date>
+	</movie>
+	<movie>
+		<id>828</id>
+		<title>Brady Bunch Movie, The</title>
+		<genres>Comedy</genres>
+		<date>1/13/2024</date>
+	</movie>
+	<movie>
+		<id>829</id>
+		<title>Gospel of Judas, The</title>
+		<genres>Documentary</genres>
+		<date>5/21/2022</date>
+	</movie>
+	<movie>
+		<id>830</id>
+		<title>Red Like the Sky (Rosso come il cielo)</title>
+		<genres>Drama</genres>
+		<date>7/3/2022</date>
+	</movie>
+	<movie>
+		<id>831</id>
+		<title>Karlsson Brothers (Bröderna Karlsson)</title>
+		<genres>Comedy|Drama</genres>
+		<date>5/27/2022</date>
+	</movie>
+	<movie>
+		<id>832</id>
+		<title>Circle of Deception, A</title>
+		<genres>Drama|War</genres>
+		<date>6/21/2023</date>
+	</movie>
+	<movie>
+		<id>833</id>
+		<title>Kestrel's Eye (Falkens öga)</title>
+		<genres>Documentary</genres>
+		<date>10/11/2022</date>
+	</movie>
+	<movie>
+		<id>834</id>
+		<title>Stark Raving Mad</title>
+		<genres>Action|Comedy|Crime</genres>
+		<date>2/9/2023</date>
+	</movie>
+	<movie>
+		<id>835</id>
+		<title>Perfect Getaway, A</title>
+		<genres>Horror|Thriller</genres>
+		<date>9/13/2022</date>
+	</movie>
+	<movie>
+		<id>836</id>
+		<title>Repatriation</title>
+		<genres>Documentary</genres>
+		<date>7/10/2023</date>
+	</movie>
+	<movie>
+		<id>837</id>
+		<title>Hear My Song</title>
+		<genres>Comedy</genres>
+		<date>3/28/2023</date>
+	</movie>
+	<movie>
+		<id>838</id>
+		<title>Young Ones</title>
+		<genres>Drama|Sci-Fi|Western</genres>
+		<date>1/19/2023</date>
+	</movie>
+	<movie>
+		<id>839</id>
+		<title>Mrs. Brown's Boys D'Movie</title>
+		<genres>Comedy</genres>
+		<date>7/17/2022</date>
+	</movie>
+	<movie>
+		<id>840</id>
+		<title>Leprechaun 2</title>
+		<genres>Comedy|Fantasy|Horror</genres>
+		<date>3/25/2024</date>
+	</movie>
+	<movie>
+		<id>841</id>
+		<title>Red Sorghum (Hong gao liang)</title>
+		<genres>Drama|War</genres>
+		<date>11/16/2022</date>
+	</movie>
+	<movie>
+		<id>842</id>
+		<title>First Comes Love</title>
+		<genres>Documentary</genres>
+		<date>3/26/2024</date>
+	</movie>
+	<movie>
+		<id>843</id>
+		<title>180° South (180 Degrees South) (180° South: Conquerors of the
+			Useless)</title>
+		<genres>Documentary|Drama</genres>
+		<date>5/31/2022</date>
+	</movie>
+	<movie>
+		<id>844</id>
+		<title>Battlefield Baseball (Jigoku kôshien)</title>
+		<genres>Action|Horror|Musical</genres>
+		<date>8/26/2022</date>
+	</movie>
+	<movie>
+		<id>845</id>
+		<title>Tough Guys</title>
+		<genres>Comedy</genres>
+		<date>3/18/2023</date>
+	</movie>
+	<movie>
+		<id>846</id>
+		<title>Chasing Ice</title>
+		<genres>Documentary</genres>
+		<date>1/8/2024</date>
+	</movie>
+	<movie>
+		<id>847</id>
+		<title>36 Crazy Fists (San shi liu mi xing quan)</title>
+		<genres>Action|Comedy|Drama</genres>
+		<date>9/5/2022</date>
+	</movie>
+	<movie>
+		<id>848</id>
+		<title>Can't Buy Me Love</title>
+		<genres>Comedy|Romance</genres>
+		<date>5/23/2023</date>
+	</movie>
+	<movie>
+		<id>849</id>
+		<title>Who Are the DeBolts? [And Where Did They Get 19 Kids?]</title>
+		<genres>Documentary</genres>
+		<date>2/24/2023</date>
+	</movie>
+	<movie>
+		<id>850</id>
+		<title>I'm Not There</title>
+		<genres>Drama</genres>
+		<date>8/26/2022</date>
+	</movie>
+	<movie>
+		<id>851</id>
+		<title>Asylum</title>
+		<genres>Horror</genres>
+		<date>10/27/2023</date>
+	</movie>
+	<movie>
+		<id>852</id>
+		<title>Cuba</title>
+		<genres>Action|Adventure|War</genres>
+		<date>5/25/2023</date>
+	</movie>
+	<movie>
+		<id>853</id>
+		<title>The Diary of Anne Frank</title>
+		<genres>Drama|War</genres>
+		<date>10/10/2023</date>
+	</movie>
+	<movie>
+		<id>854</id>
+		<title>Manborg</title>
+		<genres>Action|Adventure|Comedy</genres>
+		<date>2/11/2023</date>
+	</movie>
+	<movie>
+		<id>855</id>
+		<title>24 7: Twenty Four Seven</title>
+		<genres>Comedy|Drama</genres>
+		<date>5/17/2023</date>
+	</movie>
+	<movie>
+		<id>856</id>
+		<title>Invisible, The</title>
+		<genres>Crime|Drama|Fantasy|Mystery|Thriller</genres>
+		<date>6/30/2022</date>
+	</movie>
+	<movie>
+		<id>857</id>
+		<title>Jiminy Glick in La La Wood</title>
+		<genres>Comedy|Mystery</genres>
+		<date>10/27/2022</date>
+	</movie>
+	<movie>
+		<id>858</id>
+		<title>Turin Horse, The (A Torinói ló)</title>
+		<genres>Drama</genres>
+		<date>9/13/2022</date>
+	</movie>
+	<movie>
+		<id>859</id>
+		<title>Lady in White (a.k.a. The Mystery of the Lady in White)</title>
+		<genres>Horror|Mystery|Thriller</genres>
+		<date>2/18/2024</date>
+	</movie>
+	<movie>
+		<id>860</id>
+		<title>Ashik Kerib</title>
+		<genres>Drama|Romance</genres>
+		<date>4/9/2024</date>
+	</movie>
+	<movie>
+		<id>861</id>
+		<title>Home Before Dark</title>
+		<genres>Drama</genres>
+		<date>9/10/2022</date>
+	</movie>
+	<movie>
+		<id>862</id>
+		<title>Primal Fear</title>
+		<genres>Crime|Drama|Mystery|Thriller</genres>
+		<date>3/30/2022</date>
+	</movie>
+	<movie>
+		<id>863</id>
+		<title>Corto Maltese: Under the Sign of Capricorn (Sous le signe du
+			capricorne)</title>
+		<genres>Animation|Drama|Romance|War</genres>
+		<date>1/31/2023</date>
+	</movie>
+	<movie>
+		<id>864</id>
+		<title>The Remaining</title>
+		<genres>Horror|Thriller</genres>
+		<date>6/24/2023</date>
+	</movie>
+	<movie>
+		<id>865</id>
+		<title>American Raspberry (Prime Time) (Funny America)</title>
+		<genres>Comedy</genres>
+		<date>10/26/2023</date>
+	</movie>
+	<movie>
+		<id>866</id>
+		<title>Combien Tu M'aimes? (How Much Do You Love Me?)</title>
+		<genres>Comedy|Romance</genres>
+		<date>11/30/2022</date>
+	</movie>
+	<movie>
+		<id>867</id>
+		<title>Troll Hunter, The (Trolljegeren)</title>
+		<genres>Fantasy|Horror</genres>
+		<date>11/6/2022</date>
+	</movie>
+	<movie>
+		<id>868</id>
+		<title>Are All Men Pedophiles</title>
+		<genres>Documentary</genres>
+		<date>4/2/2024</date>
+	</movie>
+	<movie>
+		<id>869</id>
+		<title>Expired</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>9/21/2022</date>
+	</movie>
+	<movie>
+		<id>870</id>
+		<title>Break Up</title>
+		<genres>Thriller</genres>
+		<date>3/10/2024</date>
+	</movie>
+	<movie>
+		<id>871</id>
+		<title>Identity</title>
+		<genres>Crime|Horror|Mystery|Thriller</genres>
+		<date>4/2/2023</date>
+	</movie>
+	<movie>
+		<id>872</id>
+		<title>Captain America: The Winter Soldier</title>
+		<genres>Action|Adventure|Sci-Fi|IMAX</genres>
+		<date>11/29/2022</date>
+	</movie>
+	<movie>
+		<id>873</id>
+		<title>Fine Madness, A</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>7/12/2023</date>
+	</movie>
+	<movie>
+		<id>874</id>
+		<title>Thirteen Ghosts (a.k.a. Thir13en Ghosts)</title>
+		<genres>Horror|Thriller</genres>
+		<date>4/10/2024</date>
+	</movie>
+	<movie>
+		<id>875</id>
+		<title>It's Alive</title>
+		<genres>Horror</genres>
+		<date>4/2/2023</date>
+	</movie>
+	<movie>
+		<id>876</id>
+		<title>Birdsong (Cant dels ocells, El)</title>
+		<genres>Drama</genres>
+		<date>10/11/2022</date>
+	</movie>
+	<movie>
+		<id>877</id>
+		<title>Last Ride</title>
+		<genres>Drama</genres>
+		<date>5/28/2022</date>
+	</movie>
+	<movie>
+		<id>878</id>
+		<title>Battle Royale (Batoru rowaiaru)</title>
+		<genres>Action|Drama|Horror|Thriller</genres>
+		<date>11/27/2022</date>
+	</movie>
+	<movie>
+		<id>879</id>
+		<title>The Underneath</title>
+		<genres>Horror|Sci-Fi|Thriller</genres>
+		<date>11/14/2023</date>
+	</movie>
+	<movie>
+		<id>880</id>
+		<title>Measuring the World (Die Vermessung der Welt)</title>
+		<genres>Adventure|Drama</genres>
+		<date>10/19/2022</date>
+	</movie>
+	<movie>
+		<id>881</id>
+		<title>Soo (Art of Revenge)</title>
+		<genres>Action|Crime|Drama|Thriller</genres>
+		<date>5/16/2023</date>
+	</movie>
+	<movie>
+		<id>882</id>
+		<title>Our Little Differences (Die feinen Unterschiede)</title>
+		<genres>Drama</genres>
+		<date>11/21/2023</date>
+	</movie>
+	<movie>
+		<id>883</id>
+		<title>Black and White in Color (Noirs et blancs en couleur)</title>
+		<genres>Drama|War</genres>
+		<date>4/4/2023</date>
+	</movie>
+	<movie>
+		<id>884</id>
+		<title>Apnea (Apnoia)</title>
+		<genres>Drama</genres>
+		<date>4/2/2022</date>
+	</movie>
+	<movie>
+		<id>885</id>
+		<title>Another Country</title>
+		<genres>Drama|Romance</genres>
+		<date>9/11/2022</date>
+	</movie>
+	<movie>
+		<id>886</id>
+		<title>Stromboli</title>
+		<genres>Drama</genres>
+		<date>10/13/2023</date>
+	</movie>
+	<movie>
+		<id>887</id>
+		<title>Calling Dr. Death</title>
+		<genres>Mystery</genres>
+		<date>3/5/2024</date>
+	</movie>
+	<movie>
+		<id>888</id>
+		<title>Destricted</title>
+		<genres>Drama</genres>
+		<date>12/23/2023</date>
+	</movie>
+	<movie>
+		<id>889</id>
+		<title>Mighty Joe Young</title>
+		<genres>Adventure|Children|Drama</genres>
+		<date>7/14/2022</date>
+	</movie>
+	<movie>
+		<id>890</id>
+		<title>Crew, The</title>
+		<genres>Drama|Thriller</genres>
+		<date>3/31/2022</date>
+	</movie>
+	<movie>
+		<id>891</id>
+		<title>Max</title>
+		<genres>Drama</genres>
+		<date>7/29/2023</date>
+	</movie>
+	<movie>
+		<id>892</id>
+		<title>It's My Mother's Birthday Today</title>
+		<genres>(no genres listed)</genres>
+		<date>5/9/2022</date>
+	</movie>
+	<movie>
+		<id>893</id>
+		<title>Possession of David O'Reilly, The </title>
+		<genres>Horror</genres>
+		<date>8/19/2022</date>
+	</movie>
+	<movie>
+		<id>894</id>
+		<title>41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt
+			Superbad About It, The</title>
+		<genres>Comedy</genres>
+		<date>3/23/2022</date>
+	</movie>
+	<movie>
+		<id>895</id>
+		<title>Many Rivers to Cross</title>
+		<genres>Comedy|Romance|Western</genres>
+		<date>11/13/2023</date>
+	</movie>
+	<movie>
+		<id>896</id>
+		<title>Islander</title>
+		<genres>Drama</genres>
+		<date>4/14/2023</date>
+	</movie>
+	<movie>
+		<id>897</id>
+		<title>Cats Don't Dance</title>
+		<genres>Animation|Children|Musical</genres>
+		<date>9/5/2022</date>
+	</movie>
+	<movie>
+		<id>898</id>
+		<title>Vodka Lemon</title>
+		<genres>Comedy|Drama</genres>
+		<date>9/27/2022</date>
+	</movie>
+	<movie>
+		<id>899</id>
+		<title>I as in Icarus (I... comme Icare)</title>
+		<genres>Thriller</genres>
+		<date>9/12/2022</date>
+	</movie>
+	<movie>
+		<id>900</id>
+		<title>Far Side of the Moon, The (Face cachée de la lune, La)</title>
+		<genres>Drama</genres>
+		<date>1/30/2024</date>
+	</movie>
+	<movie>
+		<id>901</id>
+		<title>The Red Inn</title>
+		<genres>Comedy|Crime</genres>
+		<date>11/8/2023</date>
+	</movie>
+	<movie>
+		<id>902</id>
+		<title>Velvet Vampire, The</title>
+		<genres>Fantasy|Horror</genres>
+		<date>10/1/2023</date>
+	</movie>
+	<movie>
+		<id>903</id>
+		<title>Me Myself I</title>
+		<genres>Comedy|Romance</genres>
+		<date>11/13/2023</date>
+	</movie>
+	<movie>
+		<id>904</id>
+		<title>Climates (Iklimler)</title>
+		<genres>Drama</genres>
+		<date>7/24/2023</date>
+	</movie>
+	<movie>
+		<id>905</id>
+		<title>Wipers Times, The</title>
+		<genres>War</genres>
+		<date>9/20/2022</date>
+	</movie>
+	<movie>
+		<id>906</id>
+		<title>Religulous</title>
+		<genres>Comedy|Documentary</genres>
+		<date>4/24/2022</date>
+	</movie>
+	<movie>
+		<id>907</id>
+		<title>Brood, The</title>
+		<genres>Horror</genres>
+		<date>3/19/2023</date>
+	</movie>
+	<movie>
+		<id>908</id>
+		<title>Unholy Three, The</title>
+		<genres>Crime|Drama</genres>
+		<date>5/31/2022</date>
+	</movie>
+	<movie>
+		<id>909</id>
+		<title>Art School Confidential</title>
+		<genres>Comedy|Drama</genres>
+		<date>8/24/2023</date>
+	</movie>
+	<movie>
+		<id>910</id>
+		<title>Corn Island (Simindis kundzuli)</title>
+		<genres>Drama</genres>
+		<date>4/19/2023</date>
+	</movie>
+	<movie>
+		<id>911</id>
+		<title>Tokyo Zombie (Tôkyô zonbi)</title>
+		<genres>Action|Comedy|Horror</genres>
+		<date>6/22/2022</date>
+	</movie>
+	<movie>
+		<id>912</id>
+		<title>Grapes of Wrath, The</title>
+		<genres>Drama</genres>
+		<date>3/8/2022</date>
+	</movie>
+	<movie>
+		<id>913</id>
+		<title>That Certain Woman</title>
+		<genres>Drama|Romance</genres>
+		<date>12/15/2022</date>
+	</movie>
+	<movie>
+		<id>914</id>
+		<title>Different from the Others (Anders als die Andern)</title>
+		<genres>Drama</genres>
+		<date>2/3/2023</date>
+	</movie>
+	<movie>
+		<id>915</id>
+		<title>Greyfriars Bobby (a.k.a. Greyfriars Bobby: The True Story of a
+			Dog)</title>
+		<genres>Children|Drama</genres>
+		<date>4/22/2022</date>
+	</movie>
+	<movie>
+		<id>916</id>
+		<title>Deceptive Practice: The Mysteries and Mentors of Ricky Jay
+		</title>
+		<genres>Documentary</genres>
+		<date>11/21/2023</date>
+	</movie>
+	<movie>
+		<id>917</id>
+		<title>I Got the Hook Up</title>
+		<genres>Comedy</genres>
+		<date>6/4/2022</date>
+	</movie>
+	<movie>
+		<id>918</id>
+		<title>Deathdream (a.k.a. Dead of Night)</title>
+		<genres>Horror|War</genres>
+		<date>4/5/2023</date>
+	</movie>
+	<movie>
+		<id>919</id>
+		<title>Addams Family Reunion</title>
+		<genres>Children|Comedy|Fantasy</genres>
+		<date>1/16/2023</date>
+	</movie>
+	<movie>
+		<id>920</id>
+		<title>At Middleton</title>
+		<genres>Comedy|Romance</genres>
+		<date>5/5/2022</date>
+	</movie>
+	<movie>
+		<id>921</id>
+		<title>Little Boy Blue</title>
+		<genres>Drama</genres>
+		<date>5/19/2022</date>
+	</movie>
+	<movie>
+		<id>922</id>
+		<title>Another Me</title>
+		<genres>Mystery|Thriller</genres>
+		<date>12/18/2022</date>
+	</movie>
+	<movie>
+		<id>923</id>
+		<title>Juno</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>7/30/2023</date>
+	</movie>
+	<movie>
+		<id>924</id>
+		<title>Postman Always Rings Twice, The</title>
+		<genres>Crime|Drama|Film-Noir|Thriller</genres>
+		<date>8/17/2023</date>
+	</movie>
+	<movie>
+		<id>925</id>
+		<title>Hotel Transylvania</title>
+		<genres>Animation|Children|Comedy</genres>
+		<date>3/2/2022</date>
+	</movie>
+	<movie>
+		<id>926</id>
+		<title>Great Muppet Caper, The</title>
+		<genres>Children|Comedy</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>927</id>
+		<title>All About the Feathers (Por Las Plumas)</title>
+		<genres>Comedy</genres>
+		<date>8/12/2023</date>
+	</movie>
+	<movie>
+		<id>928</id>
+		<title>Moment of Truth, The (Il momento della verità)</title>
+		<genres>Drama</genres>
+		<date>8/25/2023</date>
+	</movie>
+	<movie>
+		<id>929</id>
+		<title>Defiance</title>
+		<genres>Drama|Thriller|War</genres>
+		<date>9/30/2022</date>
+	</movie>
+	<movie>
+		<id>930</id>
+		<title>Blindness</title>
+		<genres>Drama|Thriller</genres>
+		<date>10/22/2022</date>
+	</movie>
+	<movie>
+		<id>931</id>
+		<title>Artois the Goat</title>
+		<genres>Comedy</genres>
+		<date>3/9/2022</date>
+	</movie>
+	<movie>
+		<id>932</id>
+		<title>Iron Eagle IV</title>
+		<genres>Action|War</genres>
+		<date>10/28/2022</date>
+	</movie>
+	<movie>
+		<id>933</id>
+		<title>Albert Nobbs</title>
+		<genres>Drama</genres>
+		<date>3/2/2022</date>
+	</movie>
+	<movie>
+		<id>934</id>
+		<title>Passion of Love (Passione d'amore)</title>
+		<genres>Drama|Romance</genres>
+		<date>4/19/2023</date>
+	</movie>
+	<movie>
+		<id>935</id>
+		<title>Freedom</title>
+		<genres>Drama</genres>
+		<date>1/2/2024</date>
+	</movie>
+	<movie>
+		<id>936</id>
+		<title>Age of Dinosaurs</title>
+		<genres>Action|Sci-Fi</genres>
+		<date>8/21/2022</date>
+	</movie>
+	<movie>
+		<id>937</id>
+		<title>City for Conquest</title>
+		<genres>Drama</genres>
+		<date>6/21/2023</date>
+	</movie>
+	<movie>
+		<id>938</id>
+		<title>Fast Food</title>
+		<genres>Comedy</genres>
+		<date>11/22/2023</date>
+	</movie>
+	<movie>
+		<id>939</id>
+		<title>Crocodile Dundee in Los Angeles</title>
+		<genres>Comedy|Drama</genres>
+		<date>6/18/2022</date>
+	</movie>
+	<movie>
+		<id>940</id>
+		<title>Brave New World</title>
+		<genres>Sci-Fi</genres>
+		<date>6/25/2022</date>
+	</movie>
+	<movie>
+		<id>941</id>
+		<title>Letter, The</title>
+		<genres>Drama</genres>
+		<date>1/26/2024</date>
+	</movie>
+	<movie>
+		<id>942</id>
+		<title>The Secret of Dr. Kildare</title>
+		<genres>Drama</genres>
+		<date>7/20/2022</date>
+	</movie>
+	<movie>
+		<id>943</id>
+		<title>Control (Kontroll)</title>
+		<genres>Comedy|Crime|Drama|Mystery</genres>
+		<date>3/4/2023</date>
+	</movie>
+	<movie>
+		<id>944</id>
+		<title>White Sheik, The (Sceicco bianco, Lo)</title>
+		<genres>Comedy|Romance</genres>
+		<date>8/11/2023</date>
+	</movie>
+	<movie>
+		<id>945</id>
+		<title>Not on Your Life (Verdugo, El) (Executioner, The)</title>
+		<genres>Comedy|Drama</genres>
+		<date>2/11/2024</date>
+	</movie>
+	<movie>
+		<id>946</id>
+		<title>To Faro (Mein Freund aus Faro)</title>
+		<genres>Drama</genres>
+		<date>4/8/2024</date>
+	</movie>
+	<movie>
+		<id>947</id>
+		<title>Struck by Lightning</title>
+		<genres>Comedy|Drama</genres>
+		<date>9/11/2022</date>
+	</movie>
+	<movie>
+		<id>948</id>
+		<title>Miracle in Milan (Miracolo a Milano)</title>
+		<genres>Comedy|Drama|Fantasy</genres>
+		<date>8/27/2022</date>
+	</movie>
+	<movie>
+		<id>949</id>
+		<title>Super Rich: The Greed Game</title>
+		<genres>Documentary</genres>
+		<date>11/15/2022</date>
+	</movie>
+	<movie>
+		<id>950</id>
+		<title>Bhowani Junction</title>
+		<genres>Adventure|Drama|Romance</genres>
+		<date>12/16/2022</date>
+	</movie>
+	<movie>
+		<id>951</id>
+		<title>House on Sorority Row, The</title>
+		<genres>Horror|Mystery|Thriller</genres>
+		<date>11/8/2022</date>
+	</movie>
+	<movie>
+		<id>952</id>
+		<title>Amore (L'Amore)</title>
+		<genres>Drama</genres>
+		<date>3/13/2023</date>
+	</movie>
+	<movie>
+		<id>953</id>
+		<title>Brazil: In the Shadow of the Stadiums</title>
+		<genres>Documentary</genres>
+		<date>3/18/2024</date>
+	</movie>
+	<movie>
+		<id>954</id>
+		<title>Katyn</title>
+		<genres>Drama|War</genres>
+		<date>3/6/2024</date>
+	</movie>
+	<movie>
+		<id>955</id>
+		<title>March of the Wooden Soldiers (a.k.a. Babes in Toyland)</title>
+		<genres>Children|Comedy|Fantasy</genres>
+		<date>5/1/2023</date>
+	</movie>
+	<movie>
+		<id>956</id>
+		<title>Behind Enemy Lines</title>
+		<genres>Action|Drama|War</genres>
+		<date>2/26/2023</date>
+	</movie>
+	<movie>
+		<id>957</id>
+		<title>White Fang (Zanna Bianca)</title>
+		<genres>Adventure</genres>
+		<date>11/17/2023</date>
+	</movie>
+	<movie>
+		<id>958</id>
+		<title>Boy Meets Boy</title>
+		<genres>Romance</genres>
+		<date>4/10/2023</date>
+	</movie>
+	<movie>
+		<id>959</id>
+		<title>Tender Hook, The (Boxer and the Bombshell, The)</title>
+		<genres>Crime|Drama|Mystery</genres>
+		<date>10/24/2022</date>
+	</movie>
+	<movie>
+		<id>960</id>
+		<title>Fly Away</title>
+		<genres>Drama</genres>
+		<date>10/30/2022</date>
+	</movie>
+	<movie>
+		<id>961</id>
+		<title>Joe Kidd</title>
+		<genres>Western</genres>
+		<date>1/22/2024</date>
+	</movie>
+	<movie>
+		<id>962</id>
+		<title>Cinderella Story, A</title>
+		<genres>Comedy|Romance</genres>
+		<date>3/25/2023</date>
+	</movie>
+	<movie>
+		<id>963</id>
+		<title>Roadie</title>
+		<genres>Comedy|Musical</genres>
+		<date>11/23/2022</date>
+	</movie>
+	<movie>
+		<id>964</id>
+		<title>Haunted Castle</title>
+		<genres>Animation|Horror|IMAX</genres>
+		<date>9/9/2023</date>
+	</movie>
+	<movie>
+		<id>965</id>
+		<title>Blithe Spirit</title>
+		<genres>Comedy|Drama|Fantasy|Romance</genres>
+		<date>11/2/2022</date>
+	</movie>
+	<movie>
+		<id>966</id>
+		<title>Holiday, The</title>
+		<genres>Comedy|Romance</genres>
+		<date>4/1/2024</date>
+	</movie>
+	<movie>
+		<id>967</id>
+		<title>Jekyll &amp; Hyde</title>
+		<genres>Horror</genres>
+		<date>1/14/2024</date>
+	</movie>
+	<movie>
+		<id>968</id>
+		<title>Mum &amp; Dad</title>
+		<genres>Horror</genres>
+		<date>7/21/2023</date>
+	</movie>
+	<movie>
+		<id>969</id>
+		<title>Wisegirls</title>
+		<genres>Crime|Drama</genres>
+		<date>6/14/2023</date>
+	</movie>
+	<movie>
+		<id>970</id>
+		<title>Big Man Japan (Dai-Nihonjin)</title>
+		<genres>Comedy|Sci-Fi</genres>
+		<date>7/9/2022</date>
+	</movie>
+	<movie>
+		<id>971</id>
+		<title>Judgement Day</title>
+		<genres>(no genres listed)</genres>
+		<date>8/4/2023</date>
+	</movie>
+	<movie>
+		<id>972</id>
+		<title>Microcosmos (Microcosmos: Le peuple de l'herbe)</title>
+		<genres>Documentary</genres>
+		<date>1/25/2024</date>
+	</movie>
+	<movie>
+		<id>973</id>
+		<title>Reality</title>
+		<genres>Comedy|Drama</genres>
+		<date>10/24/2022</date>
+	</movie>
+	<movie>
+		<id>974</id>
+		<title>Below the Belt</title>
+		<genres>Action|Comedy|Drama</genres>
+		<date>11/1/2023</date>
+	</movie>
+	<movie>
+		<id>975</id>
+		<title>Abe Lincoln in Illinois</title>
+		<genres>Drama</genres>
+		<date>9/18/2023</date>
+	</movie>
+	<movie>
+		<id>976</id>
+		<title>Hot Dog... The Movie</title>
+		<genres>Comedy</genres>
+		<date>4/15/2024</date>
+	</movie>
+	<movie>
+		<id>977</id>
+		<title>Forbidden Games (Jeux interdits)</title>
+		<genres>Drama|War</genres>
+		<date>12/13/2022</date>
+	</movie>
+	<movie>
+		<id>978</id>
+		<title>Company: Original Cast Album</title>
+		<genres>Documentary|Musical</genres>
+		<date>8/8/2023</date>
+	</movie>
+	<movie>
+		<id>979</id>
+		<title>Model Couple, The (Le couple témoin)</title>
+		<genres>Comedy</genres>
+		<date>3/10/2022</date>
+	</movie>
+	<movie>
+		<id>980</id>
+		<title>He Was a Quiet Man</title>
+		<genres>Drama</genres>
+		<date>8/28/2023</date>
+	</movie>
+	<movie>
+		<id>981</id>
+		<title>Trapeze</title>
+		<genres>Drama</genres>
+		<date>5/26/2022</date>
+	</movie>
+	<movie>
+		<id>982</id>
+		<title>Goodbye, 20th Century</title>
+		<genres>Drama|Sci-Fi</genres>
+		<date>10/24/2022</date>
+	</movie>
+	<movie>
+		<id>983</id>
+		<title>Silver Streak</title>
+		<genres>Action|Comedy|Crime</genres>
+		<date>9/30/2023</date>
+	</movie>
+	<movie>
+		<id>984</id>
+		<title>Don't Be a Menace to South Central While Drinking Your Juice in
+			the Hood</title>
+		<genres>Comedy|Crime</genres>
+		<date>5/24/2022</date>
+	</movie>
+	<movie>
+		<id>985</id>
+		<title>Bottle Shock</title>
+		<genres>Drama</genres>
+		<date>5/8/2022</date>
+	</movie>
+	<movie>
+		<id>986</id>
+		<title>Perils of the Sentimental Swordsman</title>
+		<genres>Action|Adventure|Fantasy</genres>
+		<date>12/8/2023</date>
+	</movie>
+	<movie>
+		<id>987</id>
+		<title>Slap Her... She's French (a.k.a. She Gets What She Wants)
+		</title>
+		<genres>Comedy</genres>
+		<date>1/30/2023</date>
+	</movie>
+	<movie>
+		<id>988</id>
+		<title>The Last Round</title>
+		<genres>Action|Thriller</genres>
+		<date>8/12/2022</date>
+	</movie>
+	<movie>
+		<id>989</id>
+		<title>No One Writes to the Colonel (El coronel no tiene quien le
+			escriba)</title>
+		<genres>Drama</genres>
+		<date>1/8/2024</date>
+	</movie>
+	<movie>
+		<id>990</id>
+		<title>Broadcast News</title>
+		<genres>Comedy|Drama|Romance</genres>
+		<date>11/27/2023</date>
+	</movie>
+	<movie>
+		<id>991</id>
+		<title>It Came from Beneath the Sea</title>
+		<genres>Sci-Fi</genres>
+		<date>7/6/2023</date>
+	</movie>
+	<movie>
+		<id>992</id>
+		<title>Mujhse Shaadi Karogi</title>
+		<genres>Comedy|Romance</genres>
+		<date>7/10/2022</date>
+	</movie>
+	<movie>
+		<id>993</id>
+		<title>Vares: The Path of the Righteous Men (Vares - Kaidan tien
+			kulkijat)</title>
+		<genres>Crime|Drama</genres>
+		<date>6/15/2022</date>
+	</movie>
+	<movie>
+		<id>994</id>
+		<title>St. Valentine's Day Massacre, The</title>
+		<genres>Crime|Drama</genres>
+		<date>1/24/2023</date>
+	</movie>
+	<movie>
+		<id>995</id>
+		<title>Reincarnation</title>
+		<genres>Horror|Mystery</genres>
+		<date>4/19/2023</date>
+	</movie>
+	<movie>
+		<id>996</id>
+		<title>Date Movie</title>
+		<genres>Comedy|Romance</genres>
+		<date>8/30/2023</date>
+	</movie>
+	<movie>
+		<id>997</id>
+		<title>Mannequin</title>
+		<genres>Comedy|Romance</genres>
+		<date>12/7/2023</date>
+	</movie>
+	<movie>
+		<id>998</id>
+		<title>Following Sean</title>
+		<genres>Documentary</genres>
+		<date>1/5/2023</date>
+	</movie>
+	<movie>
+		<id>999</id>
+		<title>Woman of Paris, A</title>
+		<genres>Drama</genres>
+		<date>2/15/2024</date>
+	</movie>
+	<movie>
+		<id>1000</id>
+		<title>Seven Up!</title>
+		<genres>Documentary</genres>
+		<date>2/5/2024</date>
+	</movie>
+</data>

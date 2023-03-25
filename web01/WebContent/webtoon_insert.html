@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+body {
+	background: #36ebba;
+}
+
+button {
+	background: #0a7356;
+}
+
+.text1 { /*클래스 선택*/
+	background: yellow;
+	width: 160px;
+	text-align: center;
+}
+
+#b1 {
+	background: pink;
+	width: 200px;
+	text-align: center;
+}
+#b2 {
+	foreground: blue;
+	width: 340px;
+	text-align: center;
+}
+</style>
+</head>
+<body>
+
+	<h3>웹툰 목록에 추가 페이지</h3>
+	<hr>
+	<a href="webtoon_list.jsp">
+		<button id="b1">웹툰 리스트로 가기</button>
+	</a>
+	<form action="webtoon_insert.jsp">
+		<table border="1">
+			<tr>
+				<td class="text1">웹툰 id:</td>
+				<td><input name="id"></td>
+			</tr>
+			<tr>
+				<td class="text1">웹툰 title :</td>
+				<td><input name="title"></td>
+			</tr>
+			<tr>
+				<td class="text1">웹툰 작가 이름 :</td>
+				<td><input name="cartoonist"></td>
+			</tr>
+			<tr>
+				<td class="text1">별점 :</td>
+				<td><input name="star"></td>
+			</tr>
+			<tr>
+				<td class="text1">웹툰 이미지 (파일명):</td>
+				<td><input name="image"></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button id="b2" class="text1">웹툰 목록에 추가 데이터 전송</button>
+				</td>
+			</tr>
+		</table>
+		<!--입력한 값들이 서버(톰킷)으로 전달될 때에는  -->
+	</form>
+</body>
+</html>

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\KyuHwanKim\Backend\workspace_sts\BackEnd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\131096066.index
+\SpringTest\src\main\java
+D:\KyuHwanKim\Backend\workspace_sts\BackEnd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2713873941.index
+\web01\src
+D:\KyuHwanKim\Backend\workspace_sts\BackEnd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1308225674.index
+\web03\src
+D:\KyuHwanKim\Backend\workspace_sts\BackEnd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\962664709.index
+\web04\src

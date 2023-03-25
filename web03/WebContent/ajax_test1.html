@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.6.4.js"></script>
+<script type="text/javascript">
+	$(function() {
+		//증권 거래소 비동기 통신
+		$.ajax({
+			url : "kakao_map.html",
+			
+			data : {},
+			
+			success : function() {
+				alert()
+			}
+			
+		})
+		// 기상청 비동기 통신
+		$.ajax({
+			url : "google_chart.html",
+			
+			data : {},
+			
+			success : function() {
+				alert("성공22!!! 성공22!!!!!")	
+			}
+			
+		})
+	})
+</script>
+
+</head>
+<body>
+	
+</body>
+</html>
