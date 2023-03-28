@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="web04" path="/web04" reloadable="true" source="org.eclipse.jst.jee.server:web04"/><Context docBase="test" path="/test" reloadable="true" source="org.eclipse.jst.jee.server:test"/><Context docBase="web02" path="/web02" reloadable="true" source="org.eclipse.jst.jee.server:web02"/><Context docBase="web03" path="/web03" reloadable="true" source="org.eclipse.jst.jee.server:web03"/><Context docBase="SpringTest" path="/myapp" reloadable="true" source="org.eclipse.jst.jee.server:SpringTest"/></Host>
+      <Context docBase="test" path="/test" reloadable="true" source="org.eclipse.jst.jee.server:test"/><Context docBase="web01" path="/web01" reloadable="true" source="org.eclipse.jst.jee.server:web01"/><Context docBase="web02" path="/web02" reloadable="true" source="org.eclipse.jst.jee.server:web02"/><Context docBase="web03" path="/web03" reloadable="true" source="org.eclipse.jst.jee.server:web03"/><Context docBase="web04" path="/web04" reloadable="true" source="org.eclipse.jst.jee.server:web04"/><Context docBase="SpringTest" path="/myapp" reloadable="true" source="org.eclipse.jst.jee.server:SpringTest"/><Context docBase="spring02" path="/mvc01" reloadable="true" source="org.eclipse.jst.jee.server:spring02"/></Host>
     </Engine>
   </Service>
 </Server>
