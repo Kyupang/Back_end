@@ -9,7 +9,7 @@
 <body>
 <h3>회원가입 화면입니다.</h3>
 <hr>
-<form action="insert.jsp" method="get">
+<form action="update.gyu" method="get">
 	id : <input name="id" value="apple"><br>
 	pw : <input name="pw" value="1234"><br>
 	name : <input name="name" value="park"><br>
