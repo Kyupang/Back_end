@@ -33,10 +33,10 @@ public class MemberVO {
 	public void setTel(String tel) {
 		this.tel = tel;
 	}
-//	@Override
-//	public String toString() {
-//		return "MemberVO [id=" + id + ", pw=" + pw + ", name=" + name + ", tel=" + tel + "]";
-//	}
+	@Override
+	public String toString() {
+		return "MemberVO [id=" + id + ", pw=" + pw + ", name=" + name + ", tel=" + tel + "]";
+	}
 	
 	
 	

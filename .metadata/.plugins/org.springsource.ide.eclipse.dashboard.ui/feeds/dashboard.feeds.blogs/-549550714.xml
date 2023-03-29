@@ -1,4 +1,263 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Spring]]></title><description><![CDATA[Level up your Java code and explore what Spring can do for you.]]></description><link>https://spring.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Mar 2023 07:52:22 GMT</lastBuildDate><item><title><![CDATA[Spring Integration for AWS 3.0.0-M2 and Spring Cloud Stream Kinesis Binder 4.0.0-M1 Available]]></title><link>https://spring.io/blog/2023/03/27/spring-integration-for-aws-3-0-0-m2-and-spring-cloud-stream-kinesis-binder-4</link><guid isPermaLink="true">https://spring.io/blog/2023/03/27/spring-integration-for-aws-3-0-0-m2-and-spring-cloud-stream-kinesis-binder-4</guid><dc:creator><![CDATA[Artem Bilan]]></dc:creator><pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Dear Spring community,&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Spring]]></title><description><![CDATA[Level up your Java code and explore what Spring can do for you.]]></description><link>https://spring.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Mar 2023 17:30:16 GMT</lastBuildDate><item><title><![CDATA[This Week in Spring - March 28th, 202]]></title><link>https://spring.io/blog/2023/03/28/this-week-in-spring-march-28th-202</link><guid isPermaLink="true">https://spring.io/blog/2023/03/28/this-week-in-spring-march-28th-202</guid><dc:creator><![CDATA[Josh Long]]></dc:creator><pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi, Spring fans! Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! I&apos;m reporting to you from Los Angeles, where my family and I have gone for my daughter&apos;s spring break. We&apos;re going to survey some prospective colleges and we&apos;re going to Disneyland. Needless to say, I&apos;m doubly glad to have all this cool stuff to read this week; I can really savor each article! Let&apos;s dive in!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://spring.io/blog/2023/03/28/context-propagation-with-project-reactor-1-the-basics&quot;&gt;Context Propagation with Project Reactor 1 - The Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://feeds.feedblitz.com/~/732762194/0/baeldung~Introduction-to-Grafana-Loki&quot;&gt;Introduction to Grafana Loki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jdk.java.net/20/release-notes&quot;&gt;JDK 20 Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Not Spring Boot, &lt;em&gt;per se&lt;/em&gt;, but this is interesting if you&apos;re developing against Kubernetes and want a quick introduction:  &lt;a href=&quot;https://feeds.feedblitz.com/~/732761111/0/baeldung~Lightweight-Kubernetes-Distributions&quot;&gt;Lightweight Kubernetes Distributions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://feeds.feedblitz.com/~/732562607/0/baeldung~Run-a-Spring-Boot-Application-in-AWS-Lambda&quot;&gt;Run a Spring Boot Application in AWS Lambda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://feeds.feedblitz.com/~/732761114/0/baeldung~SAML-with-Spring-Boot-and-Spring-Security&quot;&gt;SAML with Spring Boot and Spring Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spring.io/blog/2023/03/23/spring-boot-2-7-10-available-now&quot;&gt;Spring Boot 2.7.10 available now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spring.io/blog/2023/03/27/spring-integration-for-aws-3-0-0-m2-and-spring-cloud-stream-kinesis-binder-4&quot;&gt;Spring Integration for AWS 3.0.0-M2 and Spring Cloud Stream Kinesis Binder 4.0.0-M1 Available&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://feeds.feedblitz.com/~/732423968/0/baeldung~Spring-Kafka-Configure-Multiple-Listeners-on-Same-Topic&quot;&gt;Spring Kafka: Configure Multiple Listeners on Same Topic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spring.io/blog/2023/03/24/spring-modulith-0-5-1-released&quot;&gt;Spring Modulith 0.5.1 released&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=SjSjBZ7mo1g&quot;&gt;Spring Modulith ? Spring for the Architecturally Curious Developer by Oliver Drotbohm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://feeds.feedblitz.com/~/732559919/0/baeldung~Spring-RDBC-Migrations-Using-Flyway&quot;&gt;Spring R2DBC Migrations Using Flyway&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spring.io/blog/2023/03/22/start-from-zero-and-scale-to-zero-azure-spring-apps-consumption-plan&quot;&gt;Start from zero and scale to zero ? Azure Spring Apps consumption plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I loved  this article about different tools that you can use in your CI environment - like Snyk and Dependabot - to &lt;a href=&quot;https://maritvandijk.com/using-bots-to-keep-our-dependencies-up-to-date/&quot;&gt;keep bots up-to-date with dependencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/JavaAtMicrosoft/status/1638637078551605248&quot;&gt;Start from 0 and scale to 0 for the most efficient resource utilization and simplify networking for your polyglot apps with the Azure Spring Apps consumption plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spring Cloud AWS lead Maciej Walkowiak put together a nice library called the   &lt;a href=&quot;https://github.com/maciejwalkowiak/spring-boot-startup-report&quot;&gt;Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Context Propagation with Project Reactor 1 - The Basics]]></title><link>https://spring.io/blog/2023/03/28/context-propagation-with-project-reactor-1-the-basics</link><guid isPermaLink="true">https://spring.io/blog/2023/03/28/context-propagation-with-project-reactor-1-the-basics</guid><dc:creator><![CDATA[Dariusz J?drzejczyk]]></dc:creator><pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Spring Boot 3 and Spring Framework 6 &lt;a href=&quot;https://spring.io/blog/2022/10/12/observability-with-spring-boot-3&quot;&gt;brought us&lt;/a&gt; a unified and consistent way to enable Observability in applications that use Micrometer. The evolution from Spring Cloud Sleuth to Micrometer, along with the Observation API and Micrometer Tracing, made us consolidate various approaches to context propagation. In this blog post series, we aim to explain how we came to support context propagation in Project Reactor to meet the needs of imperative libraries. By building your understanding from the ground up, you will be able to use these constructs and understand what¡¯s happening underneath. We assume basic understanding of reactive programming concepts. If you¡¯re new to it or want to refresh your knowledge, have a look at &lt;a href=&quot;https://projectreactor.io/docs/core/release/reference/#intro-reactive&quot;&gt;Introduction to Reactive Programming&lt;/a&gt; in the Project Reactor documentation.&lt;/p&gt;
+&lt;p&gt;In this article, we develop a simple e-commerce application. Our limited angle considers a request that adds a product and notifies the shop that a new product was added to the inventory. As responsible developers, we want to log all the steps taken for a particular request so that, if we were to investigate a problem, we can look at the logs and understand what happened. We¡¯ll explore how we can achieve the goal of providing the logging utility with contextual metadata about the request in an imperative style and also compare that to a more functional, declarative style of Project Reactor. The next articles will explore in more detail why and how we need a bridge between both programming styles.&lt;/p&gt;
+&lt;h2&gt;ThreadLocal&lt;/h2&gt;
+&lt;p&gt;To identify the logs belonging to a particular request, we need a way to correlate them. We may generate a simplistic random identifier like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static long correlationId() {
+  return Math.abs(ThreadLocalRandom.current().nextLong());
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We need a way to make the correlation identifier be available in a logging utility. We could make the correlation part of every method call in our business logic, but that would be very invasive and verbose.&lt;/p&gt;
+&lt;p&gt;Usually, third-party libraries use JDK¡¯s &lt;code&gt;ThreadLocal&lt;/code&gt; to convey implicit information that is not the primary concern of our application¡¯s business logic.&lt;/p&gt;
+&lt;p&gt;Let¡¯s declare a static field for our correlation identifier:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static final ThreadLocal&amp;#x3C;Long&gt; CORRELATION_ID = new ThreadLocal&amp;#x3C;&gt;();
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here¡¯s our log method. It prints the current &lt;code&gt;Thread&lt;/code&gt; name and formats the output:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static void log(String message) {
+  String threadName = Thread.currentThread().getName();
+  String threadNameTail = threadName.substring(
+    Math.max(0, threadName.length() - 10));
+  System.out.printf(&quot;[%10s][%20s] %s%n&quot;,
+    threadNameTail, CORRELATION_ID.get(), message);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we have everything we need to handle the request and log each step by using the implicit correlation identifier.&lt;/p&gt;
+&lt;p&gt;At the beginning of every request, the application makes a call to the following method to initiate the correlation:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static void initRequest() {
+  CORRELATION_ID.set(correlationId()));
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Our simplified request handler performs the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;void handleRequest() {
+  initRequest();
+
+  addProduct(&quot;test-product&quot;);
+  notifyShop(&quot;test-product&quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Logging in the business logic looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;void addProduct(String productName) {
+  log(&quot;Adding product: &quot; + productName);
+  // ...
+}
+
+void notifyShop(String productName) {
+  log(&quot;Notifying shop about: &quot; + productName);
+  // ...
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We can expect our application to log these lines:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[      main][ 8592000019542134146] Adding product: test-product
+[      main][ 8592000019542134146] Notifying shop about: test-product
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As long as the execution of a particular request happens on the same &lt;code&gt;Thread&lt;/code&gt; and is not interleaved with other concerns, &lt;code&gt;ThreadLocal&lt;/code&gt; lets us decouple business logic from the metadata used for logging.&lt;/p&gt;
+&lt;h2&gt;Asynchronous Processing&lt;/h2&gt;
+&lt;p&gt;Let¡¯s imagine this application starts to have a higher load and needs to handle many concurrent requests. Imagine that we can use an asynchronous and non-blocking server implementation that requires us to provide asynchronous declarations instead of imperative and blocking steps.&lt;/p&gt;
+&lt;p&gt;Our request handler could return a &lt;code&gt;CompletableFuture&lt;/code&gt; to process the request in an asynchronous and non-blocking manner:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;CompletableFuture&amp;#x3C;Void&gt; handleRequest() {
+  return CompletableFuture
+    .runAsync(() -&gt; addProduct(&quot;test-product&quot;))
+    .thenRunAsync(() -&gt; notifyShop(&quot;test-product&quot;))
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Unfortunately, when we execute our asynchronous version, the logs no longer contain the correlation identifier:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[l-worker-1][                null] Adding product: test-product
+[l-worker-1][                null] Notifying shop about: test-product
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Task Wrapping&lt;/h2&gt;
+&lt;p&gt;A known mitigation for this issue is to wrap the tasks executed by asynchronous APIs. By wrapping, we mean an implementation that performs the restoration of the &lt;code&gt;ThreadLocal&lt;/code&gt; context. When the task is created, the current context is captured. When a worker &lt;code&gt;Thread&lt;/code&gt; actually executes the task, that context is restored. Let¡¯s see how this would work for our example case with &lt;code&gt;Runnable&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;class WrappedRunnable implements Runnable {
+
+  private final Long correlationId;
+  private final Runnable wrapped;
+
+  public WrappedRunnable(Runnable wrapped) {
+    this.correlationId = CORRELATION_ID.get();
+    this.wrapped = wrapped;
+  }
+
+  @Override
+  public void run() {
+    Long old = CORRELATION_ID.get();
+    CORRELATION_ID.set(this.correlationId);
+    try {
+      wrapped.run();
+    } finally {
+      CORRELATION_ID.set(old);
+    }
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We could reimplement our handler like so:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;CompletableFuture&amp;#x3C;Void&gt; handleRequest() {
+  return CompletableFuture
+    .runAsync(new WrappedRunnable(
+      () -&gt; addProduct(&quot;test-product&quot;)))
+    .thenRunAsync(new WrappedRunnable(
+      () -&gt; notifyShop(&quot;test-product&quot;)));
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Unfortunately, that is a lot of overhead. Luckily, the JDK has an API for executing asynchronous tasks: the &lt;code&gt;Executor&lt;/code&gt; interface. In a real-world scenario, we¡¯d want to use a more comprehensive API, the &lt;code&gt;ExecutorService&lt;/code&gt;. However, for our explanatory purposes, &lt;code&gt;Executor&lt;/code&gt; should suffice.&lt;/p&gt;
+&lt;p&gt;Let¡¯s have a look:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static class WrappedExecutor implements Executor {
+
+  private final Executor actual;
+
+  WrappedExecutor(Executor actual) {
+    this.actual = actual;
+  }
+
+  @Override
+  public void execute(Runnable command) {
+    actual.execute(new WrappedRunnable(command));
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Let¡¯s reuse the common &lt;code&gt;ForkJoinPool&lt;/code&gt; that the &lt;code&gt;CompletableFuture&lt;/code&gt; framework uses by default, but wrap it with our implementation.
+Now our code looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static Executor executor = new WrappedExecutor(ForkJoinPool.commonPool());
+
+CompletableFuture&amp;#x3C;Void&gt; handleRequest() {
+  return CompletableFuture
+    .runAsync(() -&gt; addProduct(&quot;test-product&quot;), executor)
+    .thenRunAsync(() -&gt; notifyShop(&quot;test-product&quot;), executor);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Our logs again work properly:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[l-worker-1][ 7321040639376081961] Adding product: test-product
+[l-worker-2][ 7321040639376081961] Notifying shop about: test-product
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In some scenarios, the &lt;code&gt;CompletableFuture&lt;/code&gt; framework can provide the means to process asynchronous tasks in a non-blocking fashion. However, in many cases, the limited API surface and its behavior characteristics can be limiting. For example, we might want to delay the processing and resume later when our system is at its capacity. With &lt;code&gt;CompletableFuture&lt;/code&gt; all created instances start computing as soon as they are created. We might also want to apply more fine grained operations on top of a stream of data, instead of operating upon a single unit of computation. For some of those reasons and also more, we might consider using a reactive programming library. We will consider Project Reactor, which is the default reactive implementation in the Spring portfolio.&lt;/p&gt;
+&lt;h2&gt;Project Reactor&lt;/h2&gt;
+&lt;p&gt;To provide a resilient framework for asynchronous processing, the Java community proposed the Reactive Streams specification. It helped establish a common vocabulary that the JDK was missing before ? clear semantics for signal propagation, error handling, termination, and lifecycle management. It also allowed for built-in backpressure. Spring adopted this approach by introducing WebFlux, making Project Reactor and its reactive types first class citizens of the API.&lt;/p&gt;
+&lt;p&gt;Reactive Streams bring elegant and minimalistic solutions for asynchronous stream processing. However, context propagation is not part of the specification. The non-blocking and asynchronous nature of reactive libraries, together with potentially complex implementations, makes it extremely difficult to use &lt;code&gt;ThreadLocal&lt;/code&gt;s. The reason for it is that there are no guarantees regarding which &lt;code&gt;Thread&lt;/code&gt; can run the user¡¯s code. Implementations are allowed to perform all sorts of optimizations as long as they guarantee serial delivery, thus making the user¡¯s code concurrency-agnostic, shifting the burden of dealing with concurrency to the library internals.&lt;/p&gt;
+&lt;p&gt;To deliver its guarantees, reactive programming in Java assumes the functional programming paradigm is used to form a declarative and composable flow, which is agnostic of the fact that different &lt;code&gt;Thread&lt;/code&gt;s can execute user-provided code. The reactive libraries can provide an extremely performant runtime, while complying to the specification, as long as there are no side effects in user code that assume execution within a particular &lt;code&gt;Thread&lt;/code&gt;. &lt;code&gt;ThreadLocal&lt;/code&gt; clearly violates this requirement.&lt;/p&gt;
+&lt;p&gt;Let¡¯s try to rewrite our handler to use Project Reactor. The individual operations become:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Mono&amp;#x3C;Void&gt; addProduct(String productName) {
+  log(&quot;Adding product: &quot; + productName);
+  return Mono.empty(); // Assume we¡¯re actually storing the product
+}
+
+Mono&amp;#x3C;Boolean&gt; notifyShop(String productName) {
+  log(&quot;Notifying shop about: &quot; + productName);
+  return Mono.just(true); // Assume we¡¯re actually notifying the shop
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Let¡¯s try to use the above:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Mono&amp;#x3C;Void&gt; handleRequest() {
+  initRequest();
+  log(&quot;Invoke methodAssembling the to get Mono chain&quot;);
+
+  return Mono.just(&quot;test-product&quot;)
+    .flatMap(product -&gt;
+      Flux.concat(
+        addProduct(product),
+        notifyShop(product))
+      .then())
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Our naive implementation yields the desired output:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[      main][ 7224499961623309444] Assembling the chain
+[      main][ 7224499961623309444] Adding product: test-product
+[      main][ 7224499961623309444] Notifying shop about: test-product
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above implementation is invoked in the &lt;code&gt;main&lt;/code&gt; &lt;code&gt;Thread&lt;/code&gt;, and the execution is confined to that &lt;code&gt;Thread&lt;/code&gt;. We should not make such assumptions though.&lt;/p&gt;
+&lt;p&gt;In the handler, we introduce a slight delay before we propagate the result of the processing. We do so to demonstrate the implicit &lt;code&gt;Thread&lt;/code&gt; switch that happens behind the scenes.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Mono&amp;#x3C;Void&gt; handleRequest() {
+  initRequest(); &amp;#x3C;1&gt;
+  log(&quot;Assembling the chain&quot;); // &amp;#x3C;2&gt;
+
+  return Mono.just(&quot;test-product&quot;)
+    .delayElement(Duration.ofMillis(1)) // &amp;#x3C;3&gt;
+    .flatMap(product -&gt;
+      Flux.concat(
+        addProduct(product), // &amp;#x3C;4&gt;
+        notifyShop(product))
+      .then())
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When run, the following is printed:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[      main][ 6265915299594887150] Assembling the chain
+[parallel-1][                null] Adding product: test-product
+[parallel-1][                null] Notifying shop about: test-product
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;What happened? Why does one log have the correlation identifier but the others don¡¯t?&lt;/p&gt;
+&lt;p&gt;When the server calls our handler, the initialization at &lt;code&gt;&amp;#x3C;1&gt;&lt;/code&gt; sets the &lt;code&gt;ThreadLocal&lt;/code&gt; correlation identifier and the log at &lt;code&gt;&amp;#x3C;2&gt;&lt;/code&gt; is able to use it. Those experienced in reactive programming can tell you the issue is that the execution happens in different phases. The &lt;code&gt;ThreadLocal&lt;/code&gt; is set at assembly time. ¡°You should restore it at subscription time, too¡± would be one piece of advice. We¡¯ll get back to that in a bit. If the terms ¡°assembly¡±, ¡°subscription¡±, and ¡°execution time¡± are confusing to you, have a look at the excellent explanations in &lt;a href=&quot;https://spring.io/blog/2019/03/06/flight-of-the-flux-1-assembly-vs-subscription&quot;&gt;Simon¡¯s blog post&lt;/a&gt; or watch &lt;a href=&quot;https://www.youtube.com/watch?v=sNgTTcG-fEU&quot;&gt;the talk of the same title&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While the method is returned immediately it does not guarantee that execution is started. That is because the returned &lt;code&gt;Mono&lt;/code&gt; has to be subscribed to trigger processing. It may potentially happen in a different &lt;code&gt;Thread&lt;/code&gt;. The &lt;code&gt;delayElement&lt;/code&gt; operator at &lt;code&gt;&amp;#x3C;3&gt;&lt;/code&gt; implicitly uses a shared &lt;code&gt;Scheduler&lt;/code&gt; (an abstraction for a pool of &lt;code&gt;Thread&lt;/code&gt;s) from Reactor to deliver the signal on yet another &lt;code&gt;Thread&lt;/code&gt; after the specified delay. That signal propagates to the downstream operators, which let us sequence adding the product first and notifying the shop afterwards. There are more surprising aspects of the pipeline we assembled, but let¡¯s not get too confused.&lt;/p&gt;
+&lt;p&gt;The issue is that, in &lt;code&gt;&amp;#x3C;4&gt;&lt;/code&gt;, if we log, we can¡¯t really tell what &lt;code&gt;Thread&lt;/code&gt; the call is going to happen on. Operators such as &lt;code&gt;flatMap&lt;/code&gt; can introduce their own asynchrony.&lt;/p&gt;
+&lt;p&gt;In a regular case, values start being delivered when the chain is subscribed to. We could therefore restore &lt;code&gt;ThreadLocal&lt;/code&gt; values upon every subscription. It¡¯s not always the best idea though. The &lt;code&gt;Subscription&lt;/code&gt; can be delivered asynchronously, on a different &lt;code&gt;Thread&lt;/code&gt;. Also values can be delivered on different &lt;code&gt;Thread&lt;/code&gt;s. In the case of backpressure, a signal can be delivered as a result of a request for more data on the &lt;code&gt;Thread&lt;/code&gt; performing the request instead of the &lt;code&gt;Thread&lt;/code&gt; used by the &lt;code&gt;Publisher&lt;/code&gt; of data. Lots of moving parts and quirks to consider! To learn more about threading and asynchronous execution in Reactor please review &lt;a href=&quot;https://spring.io/blog/2019/12/13/flight-of-the-flux-3-hopping-threads-and-schedulers&quot;&gt;another part of our previous blog post series&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Reactor Context&lt;/h2&gt;
+&lt;p&gt;Project Reactor introduced a mechanism that is well aligned with functional programming to provide means to transport contextual metadata. It is simply called &lt;code&gt;Context&lt;/code&gt;. And it stays attached to the reactive chain, despite Thread switches that happen behind the scenes.&lt;/p&gt;
+&lt;p&gt;As we¡¯ve seen, Project Reactor allows declaratively specifying the intent, while staying concurrency agnostic. It does provide the means to control concurrency when necessary, by using dedicated operators or configuration parameters (such as &lt;code&gt;publishOn&lt;/code&gt;, &lt;code&gt;subscribeOn&lt;/code&gt;, or the advanced parameters of &lt;code&gt;flatMap&lt;/code&gt;), but that level of control is abstracted away from the core processing logic.&lt;/p&gt;
+&lt;p&gt;We mentioned side effects earlier. How can we get rid of those and still be able to transport contextual metadata?&lt;/p&gt;
+&lt;p&gt;To play well with functional programming, the &lt;code&gt;Context&lt;/code&gt; is bound to the &lt;code&gt;Subscriber&lt;/code&gt;, the consumer of signals emitted by the &lt;code&gt;Publisher&lt;/code&gt;. Upon subscription, a &lt;code&gt;Subscriber&lt;/code&gt; is made visible to all preceding operators in the assembled pipeline. When we associate an immutable &lt;code&gt;Map&lt;/code&gt;-like data structure to the &lt;code&gt;Subscriber&lt;/code&gt; instance, it allows attaching and retrieving contextual information in parts of a reactive pipeline.&lt;/p&gt;
+&lt;p&gt;With control of the impact and the means to provide inheritance between steps in the reactive chain, Reactor &lt;code&gt;Context&lt;/code&gt; is a side-effect-free concept, which can be used to provide meta-information to the processing. ¡°Just what we need to correlate our requests!¡±.&lt;/p&gt;
+&lt;p&gt;Let¡¯s rewrite our application to use Reactor &lt;code&gt;Context&lt;/code&gt; instead of &lt;code&gt;ThreadLocal&lt;/code&gt;s.&lt;/p&gt;
+&lt;p&gt;First, we need to make the correlation identifier an explicit parameter of the log method:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;static void log(String message, long correlationId) {
+  String threadName = Thread.currentThread().getName();
+  String threadNameTail = threadName.substring(
+    Math.max(0, threadName.length() - 10));
+  System.out.printf(&quot;[%10s][%20s] %s%n&quot;,
+    threadNameTail, correlationId, message);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Our actions are the following:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Mono&amp;#x3C;Void&gt; addProduct(String productName) {
+  return Mono.deferContextual(ctx -&gt; {
+    log(&quot;Adding product: &quot; + productName, ctx.get(&quot;CORRELATION_ID&quot;));
+    return Mono.empty(); // Assume we¡¯re actually storing the product
+  });
+}
+
+Mono&amp;#x3C;Boolean&gt; notifyShop(String productName) {
+  return Mono.deferContextual(ctx -&gt; {
+    log(&quot;Notifying shop about: &quot; + productName,
+      ctx.get(&quot;CORRELATION_ID&quot;));
+    return Mono.just(true);
+  });
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;What is interesting is how we provide the correlation identifier. We use a special operator, &lt;code&gt;Mono.deferContextual&lt;/code&gt;, which has access to the &lt;code&gt;Context&lt;/code&gt;. From the &lt;code&gt;ContextView&lt;/code&gt; (a simplified, read-only &lt;code&gt;Context&lt;/code&gt; version) we extract the correlation identifier before returning an actual &lt;code&gt;Mono&lt;/code&gt; for the caller to subscribe to.&lt;/p&gt;
+&lt;p&gt;Our handler looks like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-java&quot;&gt;Mono&amp;#x3C;Void&gt; handleRequest() {
+  long correlationId = correlationId();
+  log(&quot;Assembling the chain&quot;, correlationId);
+
+  Mono.just(&quot;test-product&quot;)
+    .delayElement(Duration.ofMillis(1))
+    .flatMap(product -&gt;
+      Flux.concat(addProduct(product), notifyShop(product))
+          .then())
+    .contextWrite(Context.of(&quot;CORRELATION_ID&quot;, correlationId));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When subscribed to, the output is as expected:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[      main][ 6328001264807824115] Assembling the chain
+[parallel-1][ 6328001264807824115] Adding product: test-product
+[parallel-1][ 6328001264807824115] Notifying shop about: test-product
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The inversion of information flow is apparent. As in any reactive chain, we define the processing flow by assembling a chain of operators. Once we (or actually, the server) subscribe to this chain, the information flows from downstream operators to the upstream operators to initiate the processing. Afterwards, the actual data signals are delivered from the upstream to the downstream ? for example, the ¡°test-product¡± value travels to the &lt;code&gt;flatMap&lt;/code&gt; operator, then to the &lt;code&gt;concat&lt;/code&gt; operator, which in turn provides the value to both &lt;code&gt;addProduct&lt;/code&gt; and &lt;code&gt;notifyShop&lt;/code&gt;. Due to this flow of logic, we write the &lt;code&gt;Context&lt;/code&gt; at the very end (using the &lt;code&gt;contextWrite&lt;/code&gt; method), just before any &lt;code&gt;Subscriber&lt;/code&gt; subscribes to the chain. We can imagine the &lt;code&gt;Context&lt;/code&gt; then becomes accessible alongside the &lt;code&gt;Subscriber&lt;/code&gt; to all the stages in upstream operators.&lt;/p&gt;
+&lt;p&gt;Regardless of how many thread hops the reactive pipeline makes along the way of executing the user¡¯s business logic, the context is not lost.&lt;/p&gt;
+&lt;p&gt;You can read more about Reactor &lt;code&gt;Context&lt;/code&gt; &lt;a href=&quot;https://projectreactor.io/docs/core/release/reference/#context&quot;&gt;in our documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;3rd party libraries&lt;/h2&gt;
+&lt;p&gt;Unfortunately, we can¡¯t expect 3rd party libraries to use Reactor &lt;code&gt;Context&lt;/code&gt; to provide observability capabilities. The de facto currency for propagating implicit meta-information is the &lt;code&gt;ThreadLocal&lt;/code&gt;. Libraries like SLF4J use an imperative style and have a stable position in the Java community. If we can make them work with the reactive paradigm instead of expecting them to adapt to it, it would be a clear win. In the next part, we discuss the history and challenges of propagating &lt;code&gt;ThreadLocal&lt;/code&gt; values in reactive chains in Spring Cloud Sleuth, a tracing library that can be used together with Reactor.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Spring Integration for AWS 3.0.0-M2 and Spring Cloud Stream Kinesis Binder 4.0.0-M1 Available]]></title><link>https://spring.io/blog/2023/03/27/spring-integration-for-aws-3-0-0-m2-and-spring-cloud-stream-kinesis-binder-4</link><guid isPermaLink="true">https://spring.io/blog/2023/03/27/spring-integration-for-aws-3-0-0-m2-and-spring-cloud-stream-kinesis-binder-4</guid><dc:creator><![CDATA[Artem Bilan]]></dc:creator><pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Dear Spring community,&lt;/p&gt;
 &lt;p&gt;Today I&apos;m excited to share with you news that &lt;a href=&quot;https://github.com/spring-projects/spring-integration-aws&quot;&gt;Spring Integration extension project for AWS&lt;/a&gt; and &lt;a href=&quot;https://github.com/spring-cloud/spring-cloud-stream-binder-aws-kinesis&quot;&gt;AWS Kinesis Binder for Spring Cloud Stream&lt;/a&gt; have finally been moved to &lt;a href=&quot;https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html&quot;&gt;AWS Java SDK v2&lt;/a&gt;, their respective milestones &lt;code&gt;3.0.0-M2&lt;/code&gt; &amp;#x26; &lt;code&gt;4.0.0-M1&lt;/code&gt; are available from Spring Milestone repository.&lt;/p&gt;
 &lt;p&gt;I cannot tell that this was a pleasant work to do because it has turned to be not just a plain dependencies upgrade and namespace renaming. The whole AWS SDK API was changed to more modern Java style, including &lt;code&gt;CompletableFuture&lt;/code&gt; composition and &lt;code&gt;Stream&lt;/code&gt; API, lambda-style configuration, generated builders etc. They have even Reactive Streams support! Some options have been removed and some added. So, even if Spring Integration channel adapters are high enough API for end-users, they still suffered many breaking changes with these new generations.&lt;/p&gt;
 &lt;p&gt;Some highlights of these milestone:&lt;/p&gt;
@@ -101,50 +360,4 @@ Artem&lt;/p&gt;
 &lt;p&gt;Following the GA release of Java 20 earlier this week, Spring Boot 2.7.10 adds support for Java 20.&lt;/p&gt;
 &lt;h3&gt;How can you help?&lt;/h3&gt;
 &lt;p&gt;If you&apos;re interested in helping out, check out the &lt;a href=&quot;https://github.com/spring-projects/spring-boot/labels/status%3A%20ideal-for-contribution&quot;&gt;&quot;ideal for contribution&quot; tag&lt;/a&gt; in the issue repository. If you have general questions, please ask on &lt;a href=&quot;https://stackoverflow.com&quot;&gt;stackoverflow.com&lt;/a&gt; using the &lt;a href=&quot;https://stackoverflow.com/tags/spring-boot&quot;&gt;&lt;code&gt;spring-boot&lt;/code&gt; tag&lt;/a&gt; or chat with the community on &lt;a href=&quot;https://gitter.im/spring-projects/spring-boot&quot;&gt;Gitter&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://spring.io/projects/spring-boot/&quot;&gt;Project Page&lt;/a&gt; | &lt;a href=&quot;https://github.com/spring-projects/spring-boot&quot;&gt;GitHub&lt;/a&gt; | &lt;a href=&quot;https://github.com/spring-projects/spring-boot/issues&quot;&gt;Issues&lt;/a&gt; | &lt;a href=&quot;https://docs.spring.io/spring-boot/docs/2.7.10/reference/html&quot;&gt;Documentation&lt;/a&gt; | &lt;a href=&quot;https://stackoverflow.com/questions/tagged/spring-boot&quot;&gt;Stack Overflow&lt;/a&gt; | &lt;a href=&quot;https://gitter.im/spring-projects/spring-boot&quot;&gt;Gitter&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Spring HATEOAS 1.5.4, 2.0.3 and 2.1 M1 released]]></title><link>https://spring.io/blog/2023/03/23/spring-hateoas-1-5-4-2-0-3-and-2-1-m1-released</link><guid isPermaLink="true">https://spring.io/blog/2023/03/23/spring-hateoas-1-5-4-2-0-3-and-2-1-m1-released</guid><dc:creator><![CDATA[Oliver Drotbohm]]></dc:creator><pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I am excited to announce the releases of versions 1.5.4, 2.0.3 and 2.1 M1 of Spring HATEOAS. The bug fix releases primarily ship dependency upgrades, including one to the latest Spring Framework 5 and 6 releases which include fixes for a CVE. The 2.1 milestone includes a couple of new features, such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Property metadata for forms now also considers JSR-03&apos;s &lt;code&gt;@Size&lt;/code&gt; annotation ? &lt;a href=&quot;https://github.com/spring-projects/spring-hateoas/issues/1920&quot;&gt;#1920&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Introduction of &lt;code&gt;SlicedModel&lt;/code&gt;, a simplified version of &lt;code&gt;PagedModel&lt;/code&gt; to navigate slices but not calculate a total ? &lt;a href=&quot;https://github.com/spring-projects/spring-hateoas/issues/1856&quot;&gt;#1856&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For more information, please check out the full changelogs &lt;a href=&quot;https://github.com/spring-projects/spring-hateoas/releases&quot;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Start from zero and scale to zero ? Azure Spring Apps consumption plan ]]></title><link>https://spring.io/blog/2023/03/22/start-from-zero-and-scale-to-zero-azure-spring-apps-consumption-plan</link><guid isPermaLink="true">https://spring.io/blog/2023/03/22/start-from-zero-and-scale-to-zero-azure-spring-apps-consumption-plan</guid><dc:creator><![CDATA[Josh Long]]></dc:creator><pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are launching a new way to pay for Azure Spring Apps -- the consumption pricing plan. This plan is now in public preview so you can start creating and deploying apps today. This new plan is super-efficient because you can start from zero and scale to zero vCPU.  You get more straightforward pricing across your containerized applications since it costs the same as Azure Container Apps, but with added value for Spring apps.&lt;/p&gt;
-&lt;p&gt;How does this work? With the new plan, you can deploy apps that don¡¯t need to run all the time or apps that have bursts of traffic and only pay for the resources used. This is a ¡°serverless plan¡±, which means your apps can scale out and in automatically depending on the number of HTTP requests or events they receive or simply run as always-on background jobs.&lt;/p&gt;
-&lt;p&gt;This pricing plan was developed based on feedback from our customers who want to pay only for what they use, particularly when they are not utilizing the full capacity of a base unit at the beginning of a project. The consumption plan has no base unit, so you will not be charged when your apps are not in use. You can start with just 0.25 vCPU and scale up dynamically as needed. You can use this new plan to build or migrate all sorts of apps, like web apps, web API endpoints, microservice apps, and more.&lt;/p&gt;
-&lt;img src=&quot;https://github.com/joshlong/blog-images/raw/master/march-22-2023/1.jpg&quot;&gt; 
-&lt;h2&gt;Deploy and manage Spring and polyglot applications&lt;/h2&gt;
-&lt;p&gt;Looking to deploy and manage Spring and polyglot applications with ease? You don¡¯t have to look further than the Azure Spring Apps consumption plan.&lt;/p&gt;
-&lt;p&gt;Azure Spring Apps consumption is built on Azure Container Apps, which allows you to deploy Spring apps alongside other containerized apps built using any language, such as Java, NodeJS, Python, Go, and .NET Core, in Azure Container Apps. Using this deployment option lets you simplify virtual network configuration and management by running all your apps in the same Azure Container Apps environment.&lt;/p&gt;
-&lt;p&gt;With Azure Spring Apps consumption, you don¡¯t need to worry about creating different subnets and network security groups for different types of applications - everything can run seamlessly in the same Azure Container Apps environment. Plus, our service is designed to make deployment and management as easy as possible, so you can focus on what matters most - building great apps.&lt;/p&gt;
-&lt;img src=&quot;https://github.com/joshlong/blog-images/raw/master/march-22-2023/2.jpg&quot;&gt;
-&lt;p&gt;The fully managed Spring Cloud middleware components - Spring Cloud Service Registry and Spring Cloud Config Server - are now available in private preview for Azure Spring Apps consumption. If you are interested in trying out these components, simply &lt;a href=&quot;https://aka.ms/asa-consumption-middleware-signup&quot;&gt;sign up for our private preview&lt;/a&gt;. It¡¯s the perfect opportunity to get a sneak peek at what¡¯s to come and experience the benefits of fully managed Spring Cloud middleware components for yourself. You can also share your feedback with our product group to shape the solution.&lt;/p&gt;
-&lt;h2&gt;Simpler app scaling&lt;/h2&gt;
-&lt;p&gt;Looking for a more efficient way to manage app scaling? Azure Spring Apps consumption has you covered.&lt;/p&gt;
-&lt;p&gt;Our service is built on Azure Container Apps, which manages horizontal app scaling through a set of declarative rules. This means you can easily add and edit scaling rules, making it simpler than ever to control how your apps scale out or scale in.&lt;/p&gt;
-&lt;p&gt;Our scaling rules are driven by three categories of triggers, giving you the flexibility to choose one or more rules that work best for your needs:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;HTTP: Based on the number of concurrent HTTP requests to your app, this scaling rule gives you control over the threshold of concurrent HTTP requests that determines how your apps scale out or scale in.&lt;/li&gt;
-&lt;li&gt;TCP: Based on the number of concurrent TCP connections to your app, this scaling rule gives you control over the threshold of concurrent TCP connections that determines how your apps scale out or scale in.&lt;/li&gt;
-&lt;li&gt;Custom: Based on CPU, memory, or supported event-driven data sources such as Azure Service Bus, Azure Event Hubs, Apache Kafka, and Azure Redis Cache, this scaling rule allows you to create a custom scaling rule based on any &lt;a href=&quot;https://keda.sh/docs/latest/concepts/scaling-deployments/&quot;&gt;ScaledObject&lt;/a&gt;-based &lt;a href=&quot;https://keda.sh/docs/latest/scalers/&quot;&gt;KEDA scaler&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;With Azure Spring Apps consumption, you&apos;ll have all the tools you need to manage app scaling efficiently and effectively.&lt;/p&gt;
-&lt;img src=&quot;https://github.com/joshlong/blog-images/raw/master/march-22-2023/3.jpg&quot;&gt;
-&lt;h2&gt;Try today&lt;/h2&gt;
-&lt;p&gt;If you are a developer running Spring applications at scale, you know the challenges that come with it. That is why Microsoft and VMware teamed up in 2019 to create Azure Spring Apps - a solution designed to make your life easier.&lt;/p&gt;
-&lt;p&gt;With Azure Spring Apps, you can easily deploy your event-driven Spring applications to the cloud and get them up and running in no time. It is a golden path to production that simplifies the deployment process and optimizes your resource usage.&lt;/p&gt;
-&lt;p&gt;Want a flexible and cost-effective way to use Azure Spring Apps? Look no further than our consumption pricing plan!&lt;/p&gt;
-&lt;p&gt;And the best part? We&apos;re offering &lt;a href=&quot;https://aka.ms/costs-less&quot;&gt;FREE monthly grants&lt;/a&gt; on all tiers - 50 vCPU hours and 100 memory GB hours per tier*. This is the number of FREE hours you get BEFORE any usage is billed, giving you a chance to test out the service without any financial charges.&lt;/p&gt;
-&lt;p&gt;So why wait? Take advantage of our FREE monthly grants and deploy your &lt;a href=&quot;https://aka.ms/event-driven-spring-app&quot;&gt;first event-driven Spring app&lt;/a&gt; to Azure Spring Apps today! With our consumption pricing plan, you can optimize your resource usage and save money on your cloud computing costs.&lt;/p&gt;
-&lt;img src=&quot;https://github.com/joshlong/blog-images/raw/master/march-22-2023/4.jpg&quot;&gt;
-&lt;p&gt;The Azure Spring Apps Standard consumption plan public preview is now available. We¡¯re committed to bringing you the latest and greatest consumption-based innovation for cloud services. We¡¯re working on bringing the same consumption innovation to Azure Spring Apps Enterprise, so stay tuned for even more great things to come.&lt;/p&gt;
-&lt;h2&gt;Additional Resources&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Learn using an &lt;a href=&quot;https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/&quot;&gt;MS Learn module&lt;/a&gt; or &lt;a href=&quot;https://github.com/microsoft/azure-spring-cloud-training&quot;&gt;self-paced workshop&lt;/a&gt; on GitHub&lt;/li&gt;
-&lt;li&gt;Learn more about &lt;a href=&quot;https://learn.microsoft.com/en-us/azure/container-apps/environment&quot;&gt;Azure Container Apps environment&lt;/a&gt; and &lt;a href=&quot;https://learn.microsoft.com/en-us/azure/container-apps/get-started?tabs=bash&quot;&gt;deploy your first app&lt;/a&gt; to Azure Container Apps&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://aka.ms/Fitness-Store&quot;&gt;Deploy&lt;/a&gt; the demo Fitness Store Spring Boot app to Azure&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://aka.ms/Deploy-Spring&quot;&gt;Deploy&lt;/a&gt; the demo Animal Rescue Spring Boot app to Azure&lt;/li&gt;
-&lt;li&gt;Learn &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/spring-cloud/&quot;&gt;more&lt;/a&gt; about implementing solutions on Azure Spring Apps&lt;/li&gt;
-&lt;li&gt;Deploy Spring Boot apps by leveraging enterprise best practices ? &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/spring-cloud/reference-architecture&quot;&gt;Azure Spring Apps Reference Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Migrate your &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-boot-to-azure-spring-cloud&quot;&gt;Spring Boot&lt;/a&gt;, &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/developer/java/migration/migrate-spring-cloud-to-azure-spring-cloud&quot;&gt;Spring Cloud&lt;/a&gt;, and &lt;a href=&quot;https://aka.ms/migrate-tomcat-to-azure-spring-cloud-service&quot;&gt;Tomcat&lt;/a&gt; applications to Azure Spring Apps&lt;/li&gt;
-&lt;li&gt;Wire Spring applications to &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/&quot;&gt;interact with Azure services&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;For feedback and questions, please &lt;a href=&quot;mailto:AzureSpringCloud-Talk@service.microsoft.com&quot;&gt;e-mail&lt;/a&gt; us or &lt;a href=&quot;https://github.com/Azure/Azure-Spring-Apps/&quot;&gt;open a GitHub issue&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;* Monthly free grant for Azure Spring Apps consumption plan is shared with Azure Container Apps.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;a href=&quot;https://spring.io/projects/spring-boot/&quot;&gt;Project Page&lt;/a&gt; | &lt;a href=&quot;https://github.com/spring-projects/spring-boot&quot;&gt;GitHub&lt;/a&gt; | &lt;a href=&quot;https://github.com/spring-projects/spring-boot/issues&quot;&gt;Issues&lt;/a&gt; | &lt;a href=&quot;https://docs.spring.io/spring-boot/docs/2.7.10/reference/html&quot;&gt;Documentation&lt;/a&gt; | &lt;a href=&quot;https://stackoverflow.com/questions/tagged/spring-boot&quot;&gt;Stack Overflow&lt;/a&gt; | &lt;a href=&quot;https://gitter.im/spring-projects/spring-boot&quot;&gt;Gitter&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>

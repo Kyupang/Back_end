@@ -33,13 +33,25 @@ public class MemberController {
 	public void delete(MemberVO bag) {
 		System.out.println(bag);
 	}
-	
+
 	@RequestMapping("one.gyu")
 	public void one(MemberVO bag) {
-	}
-	
+	}	
 	@RequestMapping("list.gyu")
 	public void list() {
 		
 	}
+
+	@RequestMapping("login.gyu")
+	public String login(MemberVO bag) {
+		int result = dao.login(bag);
+		if(result ==1) {
+			return "ok";
+		}else {
+			//views 아래가 아니고, webapp 아래
+			//member.jsp로 가고 싶은 경우!
+			return "redirect:member.jsp";
+		}
+	}
+
 }
