@@ -43,6 +43,10 @@
 </form>
 <hr color="red">
 
-<button type="button">먹통버튼(아무 기능이 없음)</button>
-</body>
+<h3>북마크 전체 검색하기 </h3>
+<hr color="red">
+<a href="list2.gyu">전체 목록 가지고오기</a>
+<hr color="red">
+
+
 </html>

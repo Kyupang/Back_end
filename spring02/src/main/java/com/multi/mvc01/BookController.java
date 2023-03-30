@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller //스프링에서 제어하는 역할로 등록! 
 public class BookController {
 	@Autowired
+	//MemberDAO 의 싱글톤 객체 ram의 어디에 있는지 찾아서 
+	//그 주소를 아래 변수에 넣어주세여.
+	//DI(Dependency Injection) (필요한 객체 주입)
 	BookDAO dao;
 	//컨트롤 하는 기능(CRUD)
 	//회원가입, 수정, 탈퇴, 정보검색

@@ -9,12 +9,18 @@
 </head>
 <body>
 
+<table>
+
 <c:forEach var="vo" items="${list}"> 
-id >> ${vo.id}<br> <!-- 출력용 expression language EL  -->
-name >> ${vo.name}<br>
-url >> ${vo.url}<br>
+<tr>
+${vo.id}<br> <!-- 출력용 expression language EL  -->
+${vo.name}<br>
+${vo.url}<br>
 <img src="resources/img/${vo.image}"><br>
+<hr>
+</tr>
 </c:forEach>
+</table>
 </body>
 </html>
 
