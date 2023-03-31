@@ -19,7 +19,7 @@
 <c:forEach items="${list}" var="bag" begin="0" end="10" step="2">
 <tr>
 	<td class="down">${bag.no}</td>
-	<td class="down">${bag.title}</td>
+	<td class="down"><a href="one2.gyu?no=${bag.no}">${bag.title}</a></td>
 	<td class="down">${bag.content}</td>
 	<td class="down">${bag.writer}</td>
 </tr>

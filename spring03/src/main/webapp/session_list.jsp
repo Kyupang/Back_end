@@ -8,7 +8,15 @@
 </head>
 <body>
 로그인한 사람의 id는 <%= session.getAttribute("user") %>
-오늘 방문횟수는 ? <%= session.getAttribute("count") %>
+
+<%
+if(session.getAttribute("view")==null){
+	out.print("아무도 방문하지 않았습니다.");
+}else{
+	out.print("방문 횟수는 " + session.getAttribute("view"));
+}
+
+%>
 <hr>
 </body>
 </html>

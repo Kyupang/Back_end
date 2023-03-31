@@ -1,4 +1,4 @@
-package com.multi.mvc01;
+package com.gyu.mvc03;
 
 import javax.servlet.http.HttpSession;
 
@@ -19,42 +19,42 @@ public class MemberController {
 	
 	//요청된 주소가 어떻게 될 때 
 	//바로 아래에 있는 메서드가 호출이 될지 써주어야함
-	@RequestMapping("insert.gyu")
-	public void insert(MemberVO bag) {
-		System.out.println("insert요청됨.");
-		System.out.println(bag);
-		dao.insert(bag);
-	}
-	@RequestMapping("update.gyu")
-	public void update(MemberVO bag) {
-		dao.update(bag);
-		System.out.println(bag);
-		System.out.println(dao);
-	}
-	@RequestMapping("delete.gyu")
-	public void delete(MemberVO bag) {
-		System.out.println(bag);
-	}
-
-	@RequestMapping("one.gyu")
-	public void one(MemberVO bag) {
-	}	
-	@RequestMapping("list.gyu")
-	public void list() {
-		
-	}
+//	@RequestMapping("insert.gyu")
+//	public void insert(MemberVO bag) {
+//		System.out.println("insert요청됨.");
+//		System.out.println(bag);
+//		dao.insert(bag);
+//	}
+//	@RequestMapping("update.gyu")
+//	public void update(MemberVO bag) {
+//		dao.update(bag);
+//		System.out.println(bag);
+//		System.out.println(dao);
+//	}
+//	@RequestMapping("delete.gyu")
+//	public void delete(MemberVO bag) {
+//		System.out.println(bag);
+//	}
+//
+//	@RequestMapping("one.gyu")
+//	public void one(MemberVO bag) {
+//	}	
+//	@RequestMapping("list.gyu")
+//	public void list() {
+//		
+//	}
 
 	@RequestMapping("login.gyu")
 	public String login(MemberVO bag, HttpSession session) {
 		int result = dao.login(bag);
 		if(result ==1) {
 			//로그인 성공하면, 세션을 잡아두자.!!
-			session.setAttribute("userid", bag.getId());
+			session.setAttribute("id", bag.getId());
 			return "ok";
 		}else {
 			//views 아래가 아니고, webapp 아래
 			//member.jsp로 가고 싶은 경우!
-			return "redirect:member.jsp";
+			return "no";
 		}
 	}
 

@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%
-	session.setAttribute("id", "gyu");
-%>
-
-<hr>
-로그인성공
-<a href="getsessionvalue.jsp">session속성가지고오기</a>
+<img src = "resources/img/4.jpg"width="200" height="250"> 로그인 실패 ㅜ수슈ㅠ슈슈슈 
 </body>
 </html>

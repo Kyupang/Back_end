@@ -7,12 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%
-	session.setAttribute("id", "gyu");
-%>
-
-<hr>
-로그인성공
-<a href="getsessionvalue.jsp">session속성가지고오기</a>
+${id}님! 로그인 처리 성공!<br>
+<img src = "resources/img/naver.png" width="200" height="250"> 로그인 성공~
 </body>
 </html>
