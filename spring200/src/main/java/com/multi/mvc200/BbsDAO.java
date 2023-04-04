@@ -97,7 +97,7 @@ public class BbsDAO {
 			// String data = JOptionPane.showInputDialog("이름입력"); //String, 임아무개
 			System.out.println("2. mySQL 연결 성공.");
 
-			String sql = "select * from bbs where NO = ? ";
+			String sql = "select * from bbs where no = ? ";
 			PreparedStatement ps = con.prepareStatement(sql); // PreparedStatement
 			ps.setInt(1, no);
 			System.out.println("3. SQL문 부품(객체)으로 만들어주기 성공.");
@@ -133,7 +133,8 @@ public class BbsDAO {
 
 	}
 
-	public void delete(int no) {
+	public int delete(int no) {
+		int result =0;
 		try {
 			// 1.오라클 11g와 연결한 부품 설정
 			Class.forName("com.mysql.cj.jdbc.Driver");
@@ -154,14 +155,15 @@ public class BbsDAO {
 			ps.setInt(1, no);
 			System.out.println("3. SQL문 부품(객체)으로 만들어주기 성공.");
 
-			ps.executeUpdate();
+			result=ps.executeUpdate();
 			System.out.println("4. SQL문 오라클로 보내기 성공.");
 
 			// System.out.println(result);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
+		
+		return result;
 	}
 
 	public void update(BbsVO bag) {

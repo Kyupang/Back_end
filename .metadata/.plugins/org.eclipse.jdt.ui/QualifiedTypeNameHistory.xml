@@ -4,12 +4,12 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="com.multi.mvc01.BbsDAO"/>
 <fullyQualifiedTypeName name="com.gyu.mvc03.WebtoonDAO"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.gyu.mvc03.WebtoonVO"/>
 <fullyQualifiedTypeName name="com.multi.mvc200.ComputerVO"/>
 <fullyQualifiedTypeName name="com.multi.mvc200.MovieVO"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
-<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 </qualifiedTypeNameHistroy>

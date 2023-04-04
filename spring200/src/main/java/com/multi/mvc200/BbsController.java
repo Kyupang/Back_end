@@ -38,18 +38,23 @@ public class BbsController {
 		dao.insert(bag);
 	}
 	
-	@RequestMapping("update2.gyu")
+	@RequestMapping("update.gyu")
 	public void update(BbsVO bag) {
 		System.out.println("update요청됨.");
 		System.out.println(bag);	
 		dao.update(bag);
 	}
 	
-	@RequestMapping("delete2.gyu")
-	public void delete(int no) {
-		System.out.println("delete요청됨.");
+	@RequestMapping("delete3.gyu")
+	public String delete(int no) {
 		System.out.println(no);
-		dao.delete(no);
+		int result = dao.delete(no);
+		System.out.println("내가 결과:"+result);
+		if(result ==1) {
+			return "redirect:ajax_test.jsp";
+		}else {
+			return "delete3";
+		}
 	}
 	
 	@RequestMapping("one2.gyu")
@@ -70,9 +75,21 @@ public class BbsController {
 		model.addAttribute("list", list);
 	}
 	
+	@RequestMapping("list5.gyu")
+	public void list5(Model model) {
+		ArrayList<BbsVO> list = dao.list();
+		model.addAttribute("list", list);
+	}
+	
 	//https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%EC%9E%90%EB%8F%99%EC%B0%A8
 	
-	
+	@RequestMapping("one3.gyu")
+	public void one3(int no, Model model) {
+		System.out.println(no);
+		BbsVO bag = dao.one(no);
+		model.addAttribute("bag2",bag);
+	}
+		
 	
 	
 	
