@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller //스프링에서 제어하는 역할로 등록! 
 public class BbsController {
@@ -68,6 +69,46 @@ public class BbsController {
 		ArrayList<ReplyVO>list =dao2.list(no);
 		model.addAttribute("list", list);
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//views 를 안쓰고 json으로 받을것임 
+	@RequestMapping("one22.gyu")
+	@ResponseBody
+	//리턴값인 백 데이터를 json으로 만들어서 클라이언트로 전송
+	//클라이언트 브라우저에서는 success: function(x) 
+	//결과 함수의 입력변수인 x로 쏙 들어간다. 
+	public BbsVO one22(int no) {
+		System.out.println("one요청됨.");
+		System.out.println(no);
+		BbsVO bag = dao.one(no);
+		System.out.println(bag);
+		return bag;
+	}
+	
+	@RequestMapping("list55.gyu")
+	@ResponseBody
+	public ArrayList<BbsVO> list5() {
+		ArrayList<BbsVO> list = dao.list();
+		System.out.println(list.size());
+		return list;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	@RequestMapping("list2.gyu")
 	public void list(Model model) {
