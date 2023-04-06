@@ -16,7 +16,7 @@
 	$(function() {
 		$('#b1').click(function() {
 			$.ajax({
-				url : "jasonResponse5",
+				url : "jsonResponse5",
 				dataType : "json",
 				success : function(json) {
 					lat = json.lat

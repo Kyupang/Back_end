@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="spring400"/>
 <aop-project name="spring200"/>
+<aop-project name="spring300"/>
 <aop-project name="spring02"/>
 <aop-project name="spring03"/>
 <aop-project name="SpringTest"/>
