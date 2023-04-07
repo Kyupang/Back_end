@@ -7,9 +7,11 @@
      별명을 지어서 사용 -->
    <typeAliases>
       <typeAlias type="com.multi.mvc300.MemberVO" alias="memberVO"></typeAlias>
+      <typeAlias type="com.multi.mvc300.BbsVO" alias="bbsVO"></typeAlias>
    </typeAliases>
    <mappers>
    <!-- SQL문 정의하는 파일들의 목록을 지정. -->
       <mapper resource="mapper/memberMapper.xml" />
+      <mapper resource="mapper/bbsMapper.xml" />
    </mappers>
 </configuration>

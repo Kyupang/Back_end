@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="music">
+	
+	<insert id="create" parameterType="musicVO">
+		insert into music values (null, #{title}, #{musician})
+	</insert>
+	
+	<delete id="del"  parameterType="musicVO">
+		delete from music where no = #{no}
+	</delete>
+	
+	<update id="up"  parameterType="musicVO">
+		update music set title = #{title} where no = #{no}
+	</update>
+	
+	<select id="one" parameterType="musicVO" resultType="musicVO">
+    	SELECT * FROM music WHERE no = #{no}
+	</select>
+	
+	<select id="all" resultType="musicVO">
+    	SELECT * FROM music
+	</select>
+	
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
