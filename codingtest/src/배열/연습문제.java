@@ -20,10 +20,21 @@ public class 연습문제 {
 		}
 		System.out.println(sum);
 		Arrays.sort(a); //원본 파괴형 
+		System.out.println(Arrays.toString(a));
 		
-		for(int x: a) {
-			System.out.print(x+" ");
-		}
+		
+		//스트링은 s5=s5.replace("["," "); // 비파괴형
+		//s5=s5.replace("]"," "); // 비파괴형
+		//s5= s5.trim(); //비파괴형
+		//이런식으로 헀을 때 메모리를 계속 새로운 것을 생성한다. 
+		//그러니까 Stringbuilder 나 StringBuffer를 사용한다.
+		
+		StringBuilder s1 = new StringBuilder();
+		StringBuilder s2 = new StringBuilder();
+		
+		s2 = s1.append("김길동");
+		s1.replace(0, s1.length(), "안녕하세요");
+		System.out.println(s1 == s2);
 	}
 
 }
