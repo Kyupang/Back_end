@@ -8,6 +8,7 @@ class 체육복 {
         Arrays.sort(reserve);
         Arrays.sort(lost);
         
+        
         // 도난 당하지 않은 학생 수
         answer = n - lost.length;
         

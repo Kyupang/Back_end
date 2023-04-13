@@ -22,7 +22,6 @@ public class 연습문제 {
 		Arrays.sort(a); //원본 파괴형 
 		System.out.println(Arrays.toString(a));
 		
-		
 		//스트링은 s5=s5.replace("["," "); // 비파괴형
 		//s5=s5.replace("]"," "); // 비파괴형
 		//s5= s5.trim(); //비파괴형
@@ -31,6 +30,8 @@ public class 연습문제 {
 		
 		StringBuilder s1 = new StringBuilder();
 		StringBuilder s2 = new StringBuilder();
+		StringBuffer s3 = new StringBuffer();
+		
 		
 		s2 = s1.append("김길동");
 		s1.replace(0, s1.length(), "안녕하세요");
