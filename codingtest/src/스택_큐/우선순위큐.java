@@ -8,7 +8,7 @@ public class 우선순위큐 {
 	        int answer = 0;
 	        
 	        PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
-
+	        
 	        for (int pri : scoville) {
 	            pq.offer(pri);
 	        }

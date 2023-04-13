@@ -8,9 +8,11 @@ public class 큐 {
 	public static void main(String[] args) {
 		Queue<String> que = new LinkedList<String>();
         
-        que.add("A");
+        que.offer("A");
         que.add("B");
         que.add("C");
+        
+        
         
         System.out.println(que.peek());
         System.out.println("## Queue");

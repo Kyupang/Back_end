@@ -13,7 +13,7 @@ public class 리버스어레이 {
 		//내림차순 정렬 
 		System.out.println(Arrays.toString(sortReverseArray(a)));
 		
-		//객체의 경우 Collections.reverse();로 풀수있음.
+		//List의 경우 Collections.reverse();로 풀수있음.
 		String[]strArr = {"abcs","abba","abdd"};
 		List<String> strList = Arrays.asList(strArr);        
         Collections.sort(strList);
@@ -24,8 +24,10 @@ public class 리버스어레이 {
 	}
 	public static int[] reverseArray(int[] arr) {
 	    int[] reversedArr = new int[arr.length];
+	    int j= arr.length-1;
 	    for (int i = 0; i < arr.length; i++) {
-	        reversedArr[arr.length - 1 - i] = arr[i];
+	        reversedArr[j] = arr[i];
+	        j--;
 	    }
 	    return reversedArr;
 	}
@@ -33,8 +35,10 @@ public class 리버스어레이 {
 	public static int[] sortReverseArray(int[] arr) {
 		Arrays.sort(arr);
 		int[] reversedArr = new int[arr.length];
+		int j = arr.length-1;
 	    for (int i = 0; i < arr.length; i++) {
-	        reversedArr[arr.length- 1 - i] = arr[i];
+	        reversedArr[j] = arr[i];
+	        j--;
 	    }
 	    
 	    return reversedArr;

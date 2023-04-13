@@ -2,7 +2,9 @@ package BFS_DFS;
 
 import java.util.LinkedList;
 import java.util.Queue;
-
+//Stack<String> stack = new Stack<String>();: String 유형의 요소를 보유할 수 있는 스택 데이터 구조의 인스턴스를 생성합니다. 스택은 후입선출(LIFO) 데이터 구조의 한 유형으로, 가장 최근에 추가된 요소가 가장 먼저 제거된다는 의미입니다. Stack 클래스는 Java Collections Framework의 일부입니다.
+//PriorityQueue<Integer> pq = new PriorityQueue<Integer>();: Integer 유형의 요소를 보유할 수 있는 우선 순위 큐 데이터 구조의 인스턴스를 생성합니다. 우선 순위 큐는 요소가 우선 순위에 따라 특정 순서로 삽입되는 큐 유형입니다. 이 경우 우선 순위는 'Integer' 요소의 자연 순서에 따라 결정됩니다. PriorityQueue 클래스는 Java Collections Framework의 일부입니다.
+//Queue<String> que = new LinkedList<String>();: String 유형의 요소를 보유할 수 있는 대기열 데이터 구조의 인스턴스를 생성합니다. 큐는 선입선출(FIFO) 데이터 구조의 한 유형으로, 추가된 첫 번째 요소가 가장 먼저 제거된다는 의미입니다. 이 예제에서 LinkedList 클래스는 Queue 인터페이스의 구현으로 사용됩니다. Queue 인터페이스도 Java Collections Framework의 일부입니다.
 public class BFS {
 	public static void main(String[] args) {
 		// 각 노드가 연결된 정보를 2차원 배열 자료형으로 표현

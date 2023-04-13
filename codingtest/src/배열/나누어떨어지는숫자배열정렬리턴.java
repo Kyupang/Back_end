@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class 나누어떨어지는숫자배열정렬리턴 {
 
 	public static void main(String[] args) {
-		//int[] array = { 6, 9, 7, 3 };
+		// int[] array = { 6, 9, 7, 3 };
 		int[] array = { 5, 9, 7, 10 };
 		int divisor = 5;
 		Solution4 sol = new Solution4();
