@@ -1,6 +1,16 @@
 package 스택_큐;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.PriorityQueue;
+import java.util.Queue;
 import java.util.Stack;
+import java.util.TreeMap;
 
 public class 스택 {
 
@@ -10,6 +20,49 @@ public class 스택 {
 		stack.push("B");
 		stack.push("C");
 		stack.push("D");
+		
+		Stack<String> stack1 = new Stack<String>();
+		stack1.add("dd");
+		
+		Queue<String> queue1 = new LinkedList<String>();
+		queue1.offer("dd");
+		queue1.poll();
+		
+		PriorityQueue<String> pqueue1 = new PriorityQueue<String>();
+		pqueue1.add("하이");
+		pqueue1.poll(); //정렬이 된상태였던 것 같음
+		
+		///////////////////////////////////////////////
+		List<String> list = new ArrayList<String>() ;
+
+		list.add("하이");
+		//list.remove(1);
+		
+		int[] arr = {1, 2, 3};
+		List<Integer> list2 = new ArrayList<>(arr.length);
+		for (int num : arr) {
+		    list2.add(num);
+		}
+		Collections.sort(list2);
+		Collections.reverse(list2);
+		System.out.println(list2);
+		
+		int[] arr2 = new int[list2.size()];
+		for(int i = 0;  i < list2.size(); i++) {
+			arr[i] = list2.get(i);
+		}
+		////////////////////////////////////////////////////
+		
+		
+		
+		HashSet<Integer> set = new HashSet<Integer>();
+		set.add(1);
+		
+		HashMap<String, String> map1 = new HashMap<String, String>();
+		map1.put("1", "사과");
+		
+		//TreeMap<K, V> 모름.. 
+		
 		
 		while(!stack.empty()) {
 			System.out.println(stack.pop());

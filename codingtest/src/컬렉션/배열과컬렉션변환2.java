@@ -20,7 +20,7 @@ public class 배열과컬렉션변환2 {
 		
 		
 		////////////////////////////////////////////////
-		ArrayList<Integer> list = new ArrayList<Integer>();
+		List<Integer> list = new ArrayList<Integer>();
 		list.add(100);
 		list.add(600);
 		list.add(200);
