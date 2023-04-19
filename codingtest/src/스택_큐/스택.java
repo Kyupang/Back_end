@@ -16,14 +16,14 @@ public class 스택 {
 
 	public static void main(String[] args) {
 		Stack<String> stack = new Stack<String>();
-		stack.push("A");
-		stack.push("B");
-		stack.push("C");
-		stack.push("D");
+		stack.add("A");
+		stack.add("B");
+		stack.add("C");
+		stack.add("D"); //peek 이다. 스택에서는 맨 마지막에 넣은 숫자가 제일 위에 있게 된다. 
+		System.out.println(stack.peek());
+		//Collection 친구들은 toArray가 기본적으로 있다.
 		
-		Stack<String> stack1 = new Stack<String>();
-		stack1.add("dd");
-		
+		////////////////////////////////////////////////////////
 		Queue<String> queue1 = new LinkedList<String>();
 		queue1.offer("dd");
 		queue1.poll();
