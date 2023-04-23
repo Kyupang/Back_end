@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="spring03_session"/>
+<aop-project name="OCRTest"/>
+<aop-project name="spring200_map_reply_chart_ajax"/>
 <aop-project name="spring400"/>
 <aop-project name="spring600"/>
-<aop-project name="spring200"/>
 <aop-project name="spring300"/>
+<aop-project name="spring901"/>
 <aop-project name="spring02"/>
-<aop-project name="spring03"/>
+<aop-project name="spring901Chatbot"/>
 <aop-project name="SpringTest"/>
 </aop-reference-model>

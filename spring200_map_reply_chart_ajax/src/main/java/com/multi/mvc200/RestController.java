@@ -52,7 +52,8 @@ public class RestController {
 		return bag;
 	}
 	
-	@RequestMapping("jsonResponse6")
+	@RequestMapping("jsonResponse6") 
+	//VO-> JASON으로!!!!! 바꾸는 어노테이션 까먹지 말자!!
 	@ResponseBody // 요청을 받으면 return되는 데이터를 json으로 만들어서 요청하는 곳으로 다시 보냄,
 	public ArrayList<GoogleVO> googleChart() {
 		GoogleVO bag = new GoogleVO();
