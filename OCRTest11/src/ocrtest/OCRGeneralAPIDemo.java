@@ -1,77 +1,4 @@
 package ocrtest;
-//
-//import java.io.BufferedReader;
-//import java.io.DataOutputStream;
-//import java.io.FileInputStream;
-//import java.io.InputStreamReader;
-//import java.net.HttpURLConnection;
-//import java.net.URL;
-//import java.util.UUID;
-//
-//import org.json.simple.JSONArray;
-//import org.json.simple.JSONObject;
-//
-//public class OCRGeneralAPIDemo {
-//
-//	public static void main(String[] args) {
-//		String apiURL = "https://f1ohx0ypx2.apigw.ntruss.com/custom/v1/22051/8c2c8f8be327e59d5e0261d6fc8d7fadf5c2e85d31657e897e5149913eab86c0/general";
-//		String secretKey = "d0RWVGFleFhOc1hwR1pCTGpZV0JWVlN1VWdNekhxZVU=";
-//
-//		try {
-//			URL url = new URL(apiURL);
-//			HttpURLConnection con = (HttpURLConnection)url.openConnection();
-//			con.setUseCaches(false);
-//			con.setDoInput(true);
-//			con.setDoOutput(true);
-//			con.setRequestMethod("POST");
-//			con.setRequestProperty("Content-Type", "application/json; charset=utf-8");
-//			con.setRequestProperty("X-OCR-SECRET", secretKey);
-//
-//			JSONObject json = new JSONObject();
-//			json.put("version", "V2");
-//			json.put("requestId", UUID.randomUUID().toString());
-//			json.put("timestamp", System.currentTimeMillis());
-//			JSONObject image = new JSONObject();
-//			image.put("format", "jpg");
-//			image.put("url", "https://kr.object.ncloudstorage.com/ocr-ci-test/sample/1.jpg"); // image should be public, otherwise, should use data
-////			FileInputStream inputStream = new FileInputStream("C:\\Users\\KimKyuHwan\\Desktop\\receipt.jpg");
-////			byte[] buffer = new byte[inputStream.available()];
-////			inputStream.read(buffer);
-////			inputStream.close();
-////			image.put("data", buffer);
-//			image.put("name", "demo");
-//			JSONArray images = new JSONArray();
-//			images.add(image);
-//			json.put("images", images);
-//			String postParams = json.toString();
-//
-//			DataOutputStream wr = new DataOutputStream(con.getOutputStream());
-//			wr.writeBytes(postParams);
-//			wr.flush();
-//			wr.close();
-//
-//			int responseCode = con.getResponseCode();
-//			BufferedReader br;
-//			if (responseCode == 200) {
-//				br = new BufferedReader(new InputStreamReader(con.getInputStream()));
-//			} else {
-//				br = new BufferedReader(new InputStreamReader(con.getErrorStream()));
-//			}
-//			String inputLine;
-//			StringBuffer response = new StringBuffer();
-//			while ((inputLine = br.readLine()) != null) {
-//				response.append(inputLine);
-//			}
-//			br.close();
-//
-//			System.out.println(response);
-//		} catch (Exception e) {
-//			System.out.println(e);
-//		}
-//	}
-//
-//}
-
 
 
 
@@ -100,7 +27,7 @@ public class OCRGeneralAPIDemo {
 
 	public static void main(String[] args) {
 		String apiURL = "https://f1ohx0ypx2.apigw.ntruss.com/custom/v1/22051/8c2c8f8be327e59d5e0261d6fc8d7fadf5c2e85d31657e897e5149913eab86c0/general";
-		String secretKey = "d0RWVGFleFhOc1hwR1pCTGpZV0JWVlN1VWdNekhxZVU=";
+		String secretKey = "c2NJZHNVZ0ppd0ZzVVBkQ05ucGRXVkZxeVRETkxGT1c=";
 		String imageFile = "C:\\Users\\KimKyuHwan\\Desktop\\receipt.jpg";
 
 		try {

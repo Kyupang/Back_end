@@ -155,12 +155,11 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
-		<!-- <dependency>
+		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
 			<version>2.9.0</version>
 		</dependency>
-	 -->
 	<!-- 여기서부터 4개는 mybatis를 위한 라이브러리 모음  -->
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
 		<dependency>

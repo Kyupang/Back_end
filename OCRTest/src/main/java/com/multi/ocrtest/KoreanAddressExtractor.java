@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class KoreanAddressExtractor {
 
 	public static void main(String[] args) {
-		String address = "경기도 안양시 종로5가 5-1";
+		String address = "4:44 47 프랭크버거의왕포일점 X 16,800원 금액상세 V 거래일자 23.4.18· 12: 03:51 결제구분 일시불 결제카드 현대카드Z work 카드 소지자 본인 승인번호 00326389 승인상태 정상 경기 의왕시 포일세거리로 3, 1층 101호 (포일동,파 레사타워) 지도보기 031-000-0000 가맹점 상세 ^ 가맹점번호 163053334 대표자명 이정아 사업자등록번호 5951102083 업종 패스트푸드 ";
 			
 		//지번주소
 		String regex = "(([가-힣]+(시|도)?|[서울]|[인천]|[대구]|[광주]|[부산]|[울산])( |))" //그룹1
