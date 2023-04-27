@@ -50,6 +50,7 @@ public class MemberController {
 		if(result ==1) {
 			//로그인 성공하면, 세션을 잡아두자.!!
 			session.setAttribute("id", bag.getId());
+			
 			return "ok";
 		}else {
 			//views 아래가 아니고, webapp 아래

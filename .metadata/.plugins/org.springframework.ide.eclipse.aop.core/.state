@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="spring03_session"/>
-<aop-project name="OCRTest"/>
+<aop-project name="MAT_ZIP"/>
+<aop-project name="springMongoDB"/>
 <aop-project name="spring200_map_reply_chart_ajax"/>
 <aop-project name="spring400"/>
 <aop-project name="spring600"/>
