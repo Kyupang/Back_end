@@ -14,5 +14,12 @@
     	SELECT IFNULL(count(*), 0) from restaurant where landNumAddress = #{storeAddress} OR roadNameAddress
 	</select>
 	
+	<select id="addressAndName" resultType="com.multi.matzip.MixedWithTwoDBVO">
+    	SELECT mzInfo.storeAddress , restaurant.name 
+		FROM mzInfo
+		JOIN restaurant ON mzInfo.storeAddress = restaurant.landNumAddress or mzInfo.storeAddress = restaurant.roadNameAddress
+	</select>
+	
+	
 </mapper>
 

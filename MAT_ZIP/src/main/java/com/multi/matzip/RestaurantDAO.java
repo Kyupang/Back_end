@@ -28,4 +28,9 @@ public class RestaurantDAO {
 		int result = my.selectOne("countByAddressInRestaurant", bag);
 		return result;
 	}
+	
+	public List<MixedWithTwoDBVO> addressAndName() {
+		List<MixedWithTwoDBVO> result = my.selectList("addressAndName");
+		return result;
+	}
 }

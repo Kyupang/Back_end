@@ -41,7 +41,7 @@ public class MZInfoDAO {
 	}
 	
 	public int countByIdAndAddress(MZInfoVO bag) {
-		int result = my.selectOne("countByIdAndAddress", bag);
+		int result = my.selectOne("mzInfo.countByIdAndAddress", bag);
 		return result;
 	}
 	

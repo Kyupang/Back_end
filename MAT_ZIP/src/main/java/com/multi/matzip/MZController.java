@@ -17,6 +17,17 @@ public class MZController {
 	@Autowired
 	RestaurantDAO restaurantdao;
 	
+	
+	@RequestMapping("Remap.mz")
+	@ResponseBody // 요청을 받으면 return되는 데이터를 json으로 만들어서 요청하는 곳으로 다시 보냄,
+	public List<MixedWithTwoDBVO> Remap() {
+		//일단 mz에 있는 주소 다 데려와. 
+		//DB에 일치하는 주소와 name을 가져와서 RestaurantVO에 집어넣고 넘겨.
+		List<MixedWithTwoDBVO> resultList = restaurantdao.addressAndName();
+		
+		return resultList ;
+	}
+	
 	@RequestMapping("Regi.mz")
 	@ResponseBody // 요청을 받으면 return되는 데이터를 json으로 만들어서 요청하는 곳으로 다시 보냄,
 	public MZInfoVO Start() {
@@ -42,7 +53,7 @@ public class MZController {
 		// 이 값들을 동시에 가진 DB row가 있는지? 
 		// mapper.xml:select count(*) from mzinfo where id = #{sessionId} and storeAdress = #{storeAddress}
 		// dao : return count
-		String buyTime = "20230204";
+		String buyTime = "20230210";
 		//2.
 		MZInfoVO bag = new MZInfoVO();
 		
@@ -69,9 +80,19 @@ public class MZController {
 				
 				//첫번째 등록
 				// 등록이 완료되었습니다. 
+				bag.setStoreAddress("k");
 				return bag;
 			}else {
-				System.out.println("찍어주신 주소와 일치하는 가게가 없습니다.");
+				//a= "찍어주신 주소와 일치하는 가게가 없습니다. "
+				if(bag.getStoreAddress().equals("no")) {
+					//c=주소 추출불가. no뜸 주소를 제대로 찍거나 개발자에게 문의 주십시오
+					bag.setStoreAddress("c");
+					return bag;
+				}else {
+					bag.setStoreAddress("a");
+					return bag;
+				}
+				
 			}
 
 		} else {
@@ -89,15 +110,14 @@ public class MZController {
 				return bag;
 			}else {
 				// 같다면 불가메시지를 보내야함.
-				System.out.println("영수증에 나와있는 결제일자 시간이 같습니다.");
+				//b="영수증에 나와있는 결제일자 시간이 같습니다."
+				bag.setStoreAddress("b");
+				return bag;
 			}
 					
 			
 			// return 주소를 하면 지도를 그려주겠지. 마커를 찍어준다. 
 		}
-		
-		bag.setStoreAddress("");
-		return bag;
 	}
 	
 	
