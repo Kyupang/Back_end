@@ -10,5 +10,6 @@
 <aop-project name="SpringTest"/>
 <aop-project name="spring03_session"/>
 <aop-project name="spring300"/>
+<aop-project name="NaverOCRdemo"/>
 <aop-project name="spring901Chatbot"/>
 </aop-reference-model>

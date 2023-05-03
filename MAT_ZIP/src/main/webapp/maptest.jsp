@@ -15,7 +15,7 @@
 	//현위치 가져오기. 좌표로
 	var lat;
 	var lon;
-	
+	var markers = [];
 	
 	 if (navigator.geolocation) {
 		  navigator.geolocation.getCurrentPosition(showPosition);
@@ -105,7 +105,24 @@
 		})// b1
 		
 		
-		//to do list
+		function handleAddressSearchResult(address) {
+		       var geocoder = new kakao.maps.services.Geocoder();
+	            
+	            geocoder.addressSearch(address, function(result, status) {
+				    // 정상적으로 검색이 완료됐으면 
+				     if (status === kakao.maps.services.Status.OK) {
+						//좌표값 저장.
+				       var latlng2 = new kakao.maps.LatLng(result[0].y, result[0].x);
+				     } 
+				});
+			return latlng2;
+		}
+		
+		
+		
+		
+		
+		//현 위치기반 찍힌 마커 보여주기. 
 		$('#b2').click(function() {
 			$.ajax({
 				url : "Remap.mz",
@@ -129,62 +146,56 @@
 			            var name = obj.name;
 			            var address = obj.storeAddress;
 			            
-			            //쿼리를 사용해서 조건에 맞는 주소와 가게이름을 가져왔지만 
-			            // 주소를 좌표로 변환해줘야 다 찍어줄 수 있다.!!
-			            
 			            var geocoder = new kakao.maps.services.Geocoder();
 			            
 			            geocoder.addressSearch(address, function(result, status) {
 						    // 정상적으로 검색이 완료됐으면 
 						     if (status === kakao.maps.services.Status.OK) {
 								//좌표값 저장.
-						       var latlng2 = new kakao.maps.LatLng(result[0].y, result[0].x);
+						       addMarker(new kakao.maps.LatLng(result[0].y, result[0].x));
 						     } 
-						});
+						});			            
 			        }
 					
-					/* var positions = [];
-					for (var i = 0; i < positions.length; i ++) {
-					    positions.push({
-					    	content = "<div>"+json[i].name+"</div>",
-					    	//latlng: new kakao.maps.LatLng(lat2[i],lon2[i])
-					    })
-						console.log(positions)
-						// 마커를 생성합니다
-					    var marker = new kakao.maps.Marker({
-					        map: map, // 마커를 표시할 지도
-					        position: positions[i].latlng // 마커의 위치
-					    });
+					function addMarker(position) {
+			            
+			            // 마커를 생성합니다
+			            var marker = new kakao.maps.Marker({
+			                position: position,
+			                clickable: true
+			            });
+
+			            // 마커가 지도 위에 표시되도록 설정합니다
+			            marker.setMap(map);
+			            
+			            var iwContent = '<div style="padding:5px;"><a href="https://map.kakao.com/link/to/Hello World!,'+ marker.getPosition().getLat()+','+ marker.getPosition().getLng()+'" style="color:blue" target="_blank">길찾기</a></div>', // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
+			            iwRemoveable = true; // removeable 속성을 ture 로 설정하면 인포윈도우를 닫을 수 있는 x버튼이 표시됩니다
+
+			        	// 인포윈도우를 생성합니다
+			        	var infowindow = new kakao.maps.InfoWindow({
+			           	 content : iwContent,
+			           	 removable : iwRemoveable
+			        	});
+
+			       		 // 마커에 클릭이벤트를 등록합니다
+			        	kakao.maps.event.addListener(marker, 'click', function() {
+			              // 마커 위에 인포윈도우를 표시합니다
+			             	 infowindow.open(map, marker);  
+			        	});
+			            
+			            
+			            // 생성된 마커를 배열에 추가합니다
+			            markers.push(marker);
+			        }
+					
 						
-					    // 마커에 표시할 인포윈도우를 생성합니다 
-					    var infowindow = new kakao.maps.InfoWindow({
-					        content: positions[i].content // 인포윈도우에 표시할 내용
-					    });
-	
-					    // 마커에 mouseover 이벤트와 mouseout 이벤트를 등록합니다
-					    // 이벤트 리스너로는 클로저를 만들어 등록합니다 
-					    // for문에서 클로저를 만들어 주지 않으면 마지막 마커에만 이벤트가 등록됩니다
-					    kakao.maps.event.addListener(marker, 'mouseover', makeOverListener(map, marker, infowindow));
-					    kakao.maps.event.addListener(marker, 'mouseout', makeOutListener(infowindow));
-					}
-	
-					// 인포윈도우를 표시하는 클로저를 만드는 함수입니다 
-					function makeOverListener(map, marker, infowindow) {
-					    return function() {
-					        infowindow.open(map, marker);
-					    };
-					}
-	
-					// 인포윈도우를 닫는 클로저를 만드는 함수입니다 
-					function makeOutListener(infowindow) {
-					    return function() {
-					        infowindow.close();
-					    };
-					}		 */
 					
 				} //success
 			}) //ajax
 		})//b2
+		
+
+		
 	})// function	
 	
 </script>

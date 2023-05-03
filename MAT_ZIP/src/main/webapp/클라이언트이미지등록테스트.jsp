@@ -101,7 +101,7 @@
       			<div id="drop-file" class="drag-file">
         			<img src="https://img.icons8.com/pastel-glyph/2x/image-file.png" alt="파일 아이콘" class="image" >
         			<p class="message">Drag files to upload</p>
-        			<img src="" alt="미리보기 이미지" class="preview">
+        			<img src="" alt="미리보기 이미지" class="preview" id="preview-image">
       			</div>
       			<label class="file-label" for="chooseFile">Choose File</label>
       			<input class="file" id="chooseFile" type="file" onchange="dropFile.handleFiles(this.files)" accept="image/png, image/jpeg, image/gif">
@@ -118,6 +118,9 @@
 
 
     <script>
+	  
+		
+	
       // 모달 대화 상자 열기
       function openModal() {
         document.getElementById("myModal").style.display = "block";
@@ -131,7 +134,8 @@
       function DropFile(dropAreaId, fileListId) {
     	  let dropArea = document.getElementById(dropAreaId);
     	  let fileList = document.getElementById(fileListId);
-
+		  
+    	      	  
     	  function preventDefaults(e) {
     	    e.preventDefault();
     	    e.stopPropagation();
@@ -166,7 +170,7 @@
     	    files.forEach(previewFile);
     	  }
     	  
-    	  
+    	  	
 
     	  function previewFile(file) {
     	    console.log(file);

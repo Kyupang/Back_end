@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
 <fullyQualifiedTypeName name="java.util.TreeMap"/>
 <fullyQualifiedTypeName name="문자열.Solution0"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="com.multi.matzip.RestaurantVO"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.multi.matzip.MixedWithTwoDBVO"/>
+<fullyQualifiedTypeName name="com.devyoep.ocrtmp.OCRGeneralAPI"/>
 </qualifiedTypeNameHistroy>
