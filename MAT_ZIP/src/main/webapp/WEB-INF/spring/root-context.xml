@@ -3,6 +3,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
 	
+	
+	<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+    	<property name="maxUploadSize" value="10485760" />
+	</bean>
 	<!-- Root Context: defines shared resources visible to all other web components -->
 	<!-- 싱글톤 만들 것 있으면 여기에 설정해주세요. @Component와 같은 역할 어노테이션으로 싱글톤 생성하는 것이 불가능할 
 		때 보통 사용함. 1)my batis 2)dbcp: my batis에 dbcp 껴야함 3)mybatis config :my batis 

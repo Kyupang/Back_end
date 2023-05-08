@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Modal Window Example</title>
+<title>Mat.zip</title>
 <style>
 
 /* 드래그엔 드랍 스타일 */
@@ -111,7 +111,7 @@
 
 
 <body>
-	<h1>Modal Test</h1>
+	<h1>Mat.zip</h1>
 
 	<button onclick="openModal()">맛집 등록</button>
 
@@ -133,12 +133,8 @@
 							<img src="" alt="미리보기 이미지" class="preview" id="preview-image">
 						</div>
 						<!-- <label class="file-label" for="chooseFile">Choose File</label> -->
-						<!-- ajax 불러! -->
-						<form action="uploadFormAction" method="post"
-							enctype="multipart/form-data">
-							<input type="file" name="uploadFile" multiple>
-							<button>Submit</button>
-						</form>
+							<!-- <input type="file" name="uploadFile" multiple> -->
+							<button onclick="dropFile.uploadFile()">Submit</button>
 					</div>
 				</div>
 			</div>
@@ -262,6 +258,11 @@
 	})// function	
 
 	
+	
+	let file_selected = ''; 
+	
+	
+	
 	function DropFile(dropAreaId, fileListId) {
   	  let dropArea = document.getElementById(dropAreaId);
   	  let fileList = document.getElementById(fileListId);
@@ -297,14 +298,18 @@
   	  function handleFiles(files) {
   	    files = [...files];
   	    //생겨난 것.
-  	    files.forEach(uploadFile);
+  	    files.forEach(uploadFile_tmp);
   	    files.forEach(previewFile);
   	  }
   	  
-  	  //생겨난 것.
-  	  function uploadFile(file) {
+	  function uploadFile_tmp(file){
+	  		file_selected = file;
+	  		console.log(file_selected);
+	  } 
+  	  
+  	  function uploadFile() {
   		  const formData = new FormData();
-  		  formData.append('uploadFile', file);
+  		  formData.append('uploadFile', file_selected);
 
   		  $.ajax({
   		    url: 'uploadFormAction',
@@ -313,6 +318,9 @@
   		    processData: false,
   		    contentType: false,
   		    success: function(json) {
+  		    	// 닫히게끔 처리 
+  		    	modal.style.display = "none";
+  		    	
   		    	document.getElementById("map").innerHTML = "";
 				
 				storeAddress = json.storeAddress
@@ -395,7 +403,8 @@
   	  dropArea.addEventListener("drop", handleDrop, false);
 
   	  return {
-  	    handleFiles
+  	    handleFiles,
+  	  	uploadFile
   	  };
   	}
 

@@ -134,14 +134,14 @@ public class OCRGeneralAPI {
 			// System.out.println(matcher.group());
 			jibun = matcher.group();
 		} else {
-			System.out.println("안돼용~1");
+			//System.out.println("안돼용~1");
 			jibun = "안돼용~1";
 		}
 		if (newMatcher.find()) {
 			// System.out.println(newMatcher.group());
 			doro = newMatcher.group();
 		} else {
-			System.out.println("안돼용~2");
+			//System.out.println("안돼용~2");
 			doro = "안돼용~2";
 		}
 
