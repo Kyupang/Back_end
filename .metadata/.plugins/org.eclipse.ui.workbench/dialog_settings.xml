@@ -21,6 +21,8 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\KimKyuHwan\Desktop\project.zip"/>
+			<item value="C:\Users\KimKyuHwan\Desktop\controller.zip"/>
 			<item value="D:\KyuHwanKim\백업\backup_data_2023_05_03.zip"/>
 			<item value="D:\KyuHwanKim\백업\backup_data_2023_04_27.zip"/>
 			<item value="D:\KyuHwanKim\backup_data_2023_04_21.zip"/>
