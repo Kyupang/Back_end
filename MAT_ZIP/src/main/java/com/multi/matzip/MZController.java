@@ -52,9 +52,16 @@ public class MZController {
 			}
 		}
 		System.out.println("savedFilePath : " + savedFilePath);
+		//리팩토링 : 사진을 받아 3S에 저장하는 부분
 		
 		List<String> list = clovaOCR(savedFilePath);
+		System.out.println(list);
+		//리팩토링 : OCR 호출부 
 		
+//------------------------------------------------------------------------------		
+		
+		
+//------------------------------------------------------------------------------------		
 		//String에 주소 저장.
 		String storeAddress = "";
 		if(list.get(0).length() <= list.get(1).length() ) {
@@ -64,7 +71,6 @@ public class MZController {
 		}
 		System.out.println(storeAddress);
 		
-		///////////////////////////////////////////////////////////////////
 		// String userId = session.getAttribute('id') 라고 하고
 		String userId = "admin";
 		// storeAddress 스트링을 OCR을 통해 가져왔다. 
@@ -73,7 +79,8 @@ public class MZController {
 		// 이 값들을 동시에 가진 DB row가 있는지? 
 		// mapper.xml:select count(*) from mzinfo where id = #{sessionId} and storeAdress = #{storeAddress}
 		// dao : return count
-		String buyTime = "20230211";
+		//String buyTime = "20230204";
+		String buyTime = list.get(2) + list.get(3);
 		//2.
 		MZInfoVO bag = new MZInfoVO();
 		
@@ -84,7 +91,6 @@ public class MZController {
 		// controller : if (count> 0){}
 		//					else{}
 		if(searchResultCountByMZInfo == 0) {
-			///////////////////////////////////////////////////////////////////
 			// 해당 결과물에 대한 mzinfo db값이 없다면 즉 count가 0이라면 
 			// 식당mapper 파일에서 select count(*) from restaurant where address = address가 1이라면.
 			// dao에서 return count!!!
@@ -94,7 +100,6 @@ public class MZController {
 			if(searchResultCountByRestaurant > 0) {
 				// dao.insert (아이디,시간,주소,카운트(1))을 등록 해야하고 
 				// 만약 그런 column이 없다면 불가 메시지를 보내야함. 
-				///////////////////////////////////////////////////////////////////			
 				bag.setResiCount(1);
 				mzInfodao.insert(bag);	
 				
@@ -118,7 +123,6 @@ public class MZController {
 			}
 
 		} else {
-			///////////////////////////////////////////////////////////////////
 			// 해당 결과물에 대한 db값이 있다면 즉 count가 1이라면 			
 			// 추출된 시간과 bag에 있는 시간 값을 비교해서 다르다면 
 			
@@ -142,6 +146,7 @@ public class MZController {
 					
 			
 			// return 주소를 하면 지도를 그려주겠지. 마커를 찍어준다. 
+			// 리팩토링 : 논리적인 서비스가 들어가 있는 부분
 		}
 
 	}

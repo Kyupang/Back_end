@@ -113,6 +113,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\KyuHwanKim\Backend\workspace_sts\BackEnd\spring03_FileUpload_end"/>
 			<item value="C:\Users\KimKyuHwan\Downloads\NaverOCRdemo"/>
 			<item value="D:\KyuHwanKim\Backend\workspace_sts\BackEnd\web04"/>
 			<item value="D:\KyuHwanKim\Backend\workspace_sts\BackEnd\web03"/>

@@ -8,6 +8,7 @@
 <aop-project name="spring901"/>
 <aop-project name="spring02"/>
 <aop-project name="SpringTest"/>
+<aop-project name="spring03_FileUpload_end"/>
 <aop-project name="spring03_session"/>
 <aop-project name="spring300"/>
 <aop-project name="NaverOCRdemo"/>

@@ -198,7 +198,7 @@
 
 					var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
 					
-					
+					//수정 예정 
 					for (var i = 0; i < json.length; i++) {
 			            var obj = json[i];
 			            // Access the properties of the object

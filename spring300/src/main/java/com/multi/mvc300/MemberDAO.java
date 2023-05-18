@@ -17,7 +17,7 @@ public class MemberDAO {
 	//DI
 	SqlSessionTemplate my;
 	
-	public int insert(MemberVO bag) {
+	public int insert(MemberVO bag) {	
 		int result = my.insert("member.create", bag);
 		return result;
 	}
